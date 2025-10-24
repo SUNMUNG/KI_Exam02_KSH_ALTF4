@@ -1732,3 +1732,1219 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.24-04.14.51:882][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.24-04.14.51:882][601]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
 [2025.10.24-04.14.52:962][706]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.24-04.18.30:871][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 331.959381
+[2025.10.24-04.18.31:872][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-04.18.31:872][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.626953, Update Interval: 317.238068
+[2025.10.24-04.21.37:507][987]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.10.24-04.21.37:518][987]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.10.24-04.22.08:820][685]LogFab: Display: Asset Type = unreal-engine
+[2025.10.24-04.22.08:820][685]LogFab: Display: Is Quixel = 0
+[2025.10.24-04.22.08:820][685]LogFab: Display: Base Url https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Adventurd943cdcf0936V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/Adventurd943cdcf0936V1/CloudDir,https://fastly-download.epicgames.com/Builds/Rocket/Automated/Adventurd943cdcf0936V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/Adventurd943cdcf0936V1/CloudDir
+[2025.10.24-04.22.10:179][790]LogSlate: Window '팹' being destroyed
+[2025.10.24-04.22.10:182][790]LogSlate: Window '팹' being destroyed
+[2025.10.24-04.22.11:681][968]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.24-04.22.11:681][968]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/deecb264-3b8e-47f1-b4a1-563865f5cd88.
+[2025.10.24-04.22.14:487][ 81]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.24-04.22.14:494][ 81]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.24-04.22.14:499][ 81]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.24-04.22.14:517][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.24-04.22.19:700][682]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Player
+[2025.10.24-04.22.19:707][682]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.24-04.22.19:980][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.22.20:011][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.22.20:011][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.22.20:011][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.22.20:015][712]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.22.20:015][712]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player0A89F4984E5B07D82EAA1E80FB637D69.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.22.20:024][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.832 ms (total: 545.106 ms)
+[2025.10.24-04.22.20:076][712]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.22.20:076][712]LogContentValidation: Enabled validators:
+[2025.10.24-04.22.20:076][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.22.20:076][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.22.20:076][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.22.20:076][712]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.22.20:076][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.22.20:076][712]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.22.20:077][712]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.22.22:250][969]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Player.BP_Player
+[2025.10.24-04.22.22:250][969]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.24-04.22.22:413][969]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.24-04.22.23:308][969]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.24-04.22.35:279][918]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.10.24-04.22.35:279][918]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.10.24-04.22.35:279][918]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Developers/KGA/Collections/' because it could not be accessed. Aborting watch request...
+[2025.10.24-04.22.41:261][489]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.24-04.22.52:041][751]LogStreaming: Display: FlushAsyncLoading(689): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.24-04.22.52:213][751]LogSkeletalMesh: Display: 스킨 입힌 에셋이 준비 되기를 기다리는 중 0/3 (SK_Man_Full_04)...
+[2025.10.24-04.22.52:440][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.24-04.22.52:622][751]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.24-04.22.53:477][751]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.24-04.22.53:493][751]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Man/Mesh/Full/SK_Man_Full_04_PhysicsAsset.SK_Man_Full_04_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Man/Mesh/Full/SK_Man_Full_03_PhysicsAsset.SK_Man_Full_03_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Man/Mesh/Full/SK_Man_Full_02_PhysicsAsset.SK_Man_Full_02_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Man/Mesh/Full/SK_Man_Full_01_PhysicsAsset.SK_Man_Full_01_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Man/Mesh/Full/SK_Man_Full_04.SK_Man_Full_04
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Man/Mesh/Full/SK_Man_Full_02.SK_Man_Full_02
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Man/Mesh/Full/SK_Man_Full_01.SK_Man_Full_01
+	Asset Type: SkeletalMesh
+[2025.10.24-04.22.53:860][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.24-04.22.53:879][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.24-04.22.53:896][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.24-04.22.56:211][ 12]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.24-04.22.56:211][ 12]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Mannequin/Character/Mesh/SK_Mannequin (0xDAF39B7713E7F052) - The package to load does not exist on disk or in the loader
+[2025.10.24-04.22.56:212][ 12]LogUObjectGlobals: Warning: 'Object /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin' 오브젝트를 찾는 데 실패했습니다.
+[2025.10.24-04.22.56:237][ 14]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Head...
+[2025.10.24-04.22.56:292][ 18]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Man/Mesh/Parts/SK_Man_Head.SK_Man_Head
+[2025.10.24-04.22.56:307][ 20]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.24-04.23.16:140][215]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.24-04.23.16:141][215]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Man/Mesh/Full/SK_Man_Full_03 (0x600EE07AFEF83F12) /Game/Man/Mesh/Full/SK_Man_Full_03 (0x600EE07AFEF83F12) - Skipping non mounted imported package /Game/Man/Mesh/Full/SK_Man_Full_03_PhysicsAsset (0xF708DCFE01C4C130)
+[2025.10.24-04.23.16:193][215]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Man/Mesh/Full/SK_Man_Full_03.SK_Man_Full_03
+[2025.10.24-04.23.16:209][215]LogSkeletalMesh: Display: 스킨 입힌 에셋이 준비 되기를 기다리는 중 0/1 (SK_Man_Full_03)...
+[2025.10.24-04.23.16:409][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.24-04.23.16:438][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.24-04.23.16:872][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.24-04.23.17:038][215]LogPSOHitching: Encountered 200 PSO creation hitches so far (76 graphics, 124 compute). 0 of them were precached.
+[2025.10.24-04.23.17:074][215]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Man/Mesh/Full/SK_Man_Full_03_PhysicsAsset which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.10.24-04.23.17:074][215]LoadErrors: Warning: 패키지 /Game/Man/Mesh/Full/SK_Man_Full_03을 로드하려고 시도하는 동안 종속 패키지 /Game/Man/Mesh/Full/SK_Man_Full_03_PhysicsAsset 사용할 수 없었습니다. 추가 설명은 다음과 같습니다.
+FPackageName: Skipped package /Game/Man/Mesh/Full/SK_Man_Full_03_PhysicsAsset has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Man/Mesh/Full/SK_Man_Full_03_PhysicsAsset.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.10.24-04.23.18:536][319]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.24-04.23.34:071][810]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.24-04.23.34:198][811]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Game/Man/Textures/Cloth/T_Man_Cloth_Down_Albedo_02)...
+[2025.10.24-04.23.34:397][811]LogTexture: Display: 텍스처 빌드 중: /Game/Man/Textures/Cloth/T_Man_Cloth_Down_Albedo_03.T_Man_Cloth_Down_Albedo_03(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.24-04.23.34:432][811]LogTexture: Display: 텍스처 빌드 중: /Game/Man/Textures/Cloth/T_Man_Cloth_Down_Albedo_02.T_Man_Cloth_Down_Albedo_02(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.24-04.23.34:555][811]LogTexture: Display: 텍스처 빌드 중: /Game/Man/Textures/Cloth/T_Man_Cloth_Up_Albedo_03.T_Man_Cloth_Up_Albedo_03(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.24-04.23.34:562][811]LogTexture: Display: 텍스처 빌드 중: /Game/Man/Textures/Cloth/T_Man_Cloth_Up_Albedo_02.T_Man_Cloth_Up_Albedo_02(TFO_AutoDXT, 4096x4096 x1x1x1)(예상 필요 메모리: 1152.999984MB), 인코딩 속도: Fast
+[2025.10.24-04.23.35:173][811]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/1 (/Game/Man/Textures/Cloth/T_Man_Cloth_Up_Albedo_02)...
+[2025.10.24-04.23.35:756][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.24-04.23.36:986][830]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.24-04.23.37:020][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.24-04.23.37:039][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.24-04.23.37:054][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.24-04.23.38:732][999]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.24-04.23.52:657][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 653.746338
+[2025.10.24-04.23.52:916][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-04.23.52:916][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 653.993774, Update Interval: 329.140289
+[2025.10.24-04.23.54:886][678]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.24-04.23.57:382][891]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.24-04.24.20:922][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.24-04.24.35:603][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.24.35:662][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.24.35:672][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.24.35:673][875]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.24-04.24.35:686][875]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/BluePrint/BP_Player.BP_Player_C]
+[2025.10.24-04.24.35:686][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.24.35:687][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.24.35:690][875]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.24.35:690][875]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_PlayerFD2B38F944C222D276B37C83C3D73521.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.24.35:696][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.309 ms (total: 637.416 ms)
+[2025.10.24-04.24.35:742][875]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.24.35:742][875]LogContentValidation: Enabled validators:
+[2025.10.24-04.24.35:742][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.24.35:742][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.24.35:742][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.24.35:742][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.24.35:742][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.24.35:742][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.24.35:743][875]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.24.42:981][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.24.43:029][440]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.24.43:038][440]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.24.43:038][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.24.43:038][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.24.43:041][440]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.24.43:042][440]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player0E0DFCAB47C0290C283D558FE92D666D.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.24.43:048][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.962 ms (total: 704.378 ms)
+[2025.10.24-04.24.43:074][440]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.24.43:075][440]LogContentValidation: Enabled validators:
+[2025.10.24-04.24.43:075][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.24.43:075][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.24.43:075][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.24.43:075][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.24.43:075][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.24.43:075][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.24.43:075][440]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.24.46:846][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.24.46:892][724]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.24.46:900][724]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.24.46:900][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.24.46:900][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.24.46:903][724]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.24.46:904][724]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_PlayerC81B7E2149D6556579BF3AB4E1A2AADF.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.24.46:910][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.709 ms (total: 768.087 ms)
+[2025.10.24-04.24.46:958][724]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.24.46:958][724]LogContentValidation: Enabled validators:
+[2025.10.24-04.24.46:958][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.24.46:958][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.24.46:958][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.24.46:958][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.24.46:958][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.24.46:958][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.24.46:958][724]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.24.48:017][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.24-04.24.53:641][314]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.24-04.24.53:648][314]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.24-04.24.53:656][315]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.24-04.24.58:570][904]LogContentBrowser: Attempting asset rename: 새 폴더 -> Input
+[2025.10.24-04.24.58:571][904]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.24-04.24.58:822][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.24.58:875][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-04.24.58:902][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.24-04.24.58:913][931]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-04.24.58:913][931]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage13369077D4E2878F0AEAA1B8BB75D81B7.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-04.24.58:916][931]LogFileHelpers: Saving map 'Stage1' took 0.041
+[2025.10.24-04.24.58:921][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.533 ms (total: 866.621 ms)
+[2025.10.24-04.24.58:974][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.24.58:974][931]LogContentValidation: Enabled validators:
+[2025.10.24-04.24.58:974][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.24.58:974][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.24.58:974][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.24.58:974][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.24.58:974][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.24.58:974][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.24.58:974][931]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-04.25.05:489][583]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.10.24-04.25.05:495][583]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.10.24-04.25.05:528][585]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.10.24-04.25.12:466][404]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Control
+[2025.10.24-04.25.12:467][404]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.10.24-04.25.12:885][452]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Control.IMC_Control
+[2025.10.24-04.25.15:547][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.25.15:609][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Control] ([1] browsable assets)...
+[2025.10.24-04.25.15:609][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Control]
+[2025.10.24-04.25.15:609][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Control" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset" SILENT=true
+[2025.10.24-04.25.15:609][732]LogSavePackage: Moving output files for package: /Game/Input/IMC_Control
+[2025.10.24-04.25.15:610][732]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IMC_ControlDE65D8A84A0305BC80D229BC91F14C97.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset'
+[2025.10.24-04.25.15:616][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.727 ms (total: 935.348 ms)
+[2025.10.24-04.25.15:674][732]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.25.15:674][732]LogContentValidation: Enabled validators:
+[2025.10.24-04.25.15:674][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.25.15:674][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.25.15:674][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.25.15:674][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.25.15:674][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.25.15:674][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.25.15:674][732]AssetCheck: /Game/Input/IMC_Control 에셋 유효성 검사 중
+[2025.10.24-04.25.22:005][393]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.10.24-04.25.22:011][393]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.10.24-04.25.22:022][394]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.10.24-04.25.26:667][943]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2025.10.24-04.25.26:668][943]LogContentBrowser: End creating deferred item NewInputAction
+[2025.10.24-04.25.30:931][386]LogContentBrowser: Deferred new asset file creation: IA_Move1
+[2025.10.24-04.25.30:935][386]LogContentBrowser: Creating deferred item: IA_Move1
+[2025.10.24-04.25.30:969][387]LogContentBrowser: Renaming the item being created (Deferred Item: IA_Move1).
+[2025.10.24-04.25.34:165][766]LogContentBrowser: Attempting asset rename: IA_Move1 -> IA_Jump
+[2025.10.24-04.25.34:167][766]LogContentBrowser: End creating deferred item IA_Move1
+[2025.10.24-04.25.35:822][952]LogContentBrowser: Deferred new asset file creation: IA_Jump1
+[2025.10.24-04.25.35:827][952]LogContentBrowser: Creating deferred item: IA_Jump1
+[2025.10.24-04.25.35:838][953]LogContentBrowser: Renaming the item being created (Deferred Item: IA_Jump1).
+[2025.10.24-04.25.42:451][741]LogContentBrowser: Attempting asset rename: IA_Jump1 -> IA_Throw
+[2025.10.24-04.25.42:452][741]LogContentBrowser: End creating deferred item IA_Jump1
+[2025.10.24-04.25.42:740][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.25.42:792][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Throw] ([1] browsable assets)...
+[2025.10.24-04.25.42:792][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Throw]
+[2025.10.24-04.25.42:792][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Throw" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Throw.uasset" SILENT=true
+[2025.10.24-04.25.42:792][771]LogSavePackage: Moving output files for package: /Game/Input/IA_Throw
+[2025.10.24-04.25.42:792][771]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IA_Throw0D25A08D42A87F66027E23AF9AB53FD2.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Throw.uasset'
+[2025.10.24-04.25.42:799][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.337 ms (total: 993.686 ms)
+[2025.10.24-04.25.42:841][771]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.25.42:841][771]LogContentValidation: Enabled validators:
+[2025.10.24-04.25.42:841][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.25.42:841][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.25.42:841][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.25.42:841][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.25.42:841][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.25.42:841][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.25.42:841][771]AssetCheck: /Game/Input/IA_Throw 에셋 유효성 검사 중
+[2025.10.24-04.25.55:742][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.25.55:791][232]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Control] ([1] browsable assets)...
+[2025.10.24-04.25.55:791][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Control]
+[2025.10.24-04.25.55:791][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Control" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset" SILENT=true
+[2025.10.24-04.25.55:792][232]LogSavePackage: Moving output files for package: /Game/Input/IMC_Control
+[2025.10.24-04.25.55:793][232]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IMC_Control9591B1904B8325CDDAD1F581BC1FA160.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset'
+[2025.10.24-04.25.55:798][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.549 ms (total: 1.05 sec)
+[2025.10.24-04.25.55:841][232]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.25.55:841][232]LogContentValidation: Enabled validators:
+[2025.10.24-04.25.55:841][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.25.55:841][232]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.25.55:841][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.25.55:841][232]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.25.55:841][232]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.25.55:841][232]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.25.55:841][232]AssetCheck: /Game/Input/IMC_Control 에셋 유효성 검사 중
+[2025.10.24-04.25.56:212][274]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_Move.IA_Move
+[2025.10.24-04.26.01:834][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.26.01:891][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Move] ([1] browsable assets)...
+[2025.10.24-04.26.01:891][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Move]
+[2025.10.24-04.26.01:891][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Move.uasset" SILENT=true
+[2025.10.24-04.26.01:892][890]LogSavePackage: Moving output files for package: /Game/Input/IA_Move
+[2025.10.24-04.26.01:892][890]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IA_Move5B7AF0AD42AF53D693F485B1AB201B2E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Move.uasset'
+[2025.10.24-04.26.01:899][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.373 ms (total: 1.11 sec)
+[2025.10.24-04.26.01:957][890]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.26.01:957][890]LogContentValidation: Enabled validators:
+[2025.10.24-04.26.01:957][890]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.26.01:957][890]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.26.01:957][890]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.26.01:957][890]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.26.01:957][890]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.26.01:957][890]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.26.01:957][890]AssetCheck: /Game/Input/IA_Move 에셋 유효성 검사 중
+[2025.10.24-04.26.11:572][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.26.11:625][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Control] ([1] browsable assets)...
+[2025.10.24-04.26.11:625][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Control]
+[2025.10.24-04.26.11:625][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Control" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset" SILENT=true
+[2025.10.24-04.26.11:626][912]LogSavePackage: Moving output files for package: /Game/Input/IMC_Control
+[2025.10.24-04.26.11:627][912]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IMC_Control581C616A4F4E3ABE95C2D3B3E7F45EF6.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset'
+[2025.10.24-04.26.11:632][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.749 ms (total: 1.17 sec)
+[2025.10.24-04.26.11:690][912]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.26.11:690][912]LogContentValidation: Enabled validators:
+[2025.10.24-04.26.11:690][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.26.11:690][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.26.11:690][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.26.11:690][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.26.11:690][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.26.11:690][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.26.11:690][912]AssetCheck: /Game/Input/IMC_Control 에셋 유효성 검사 중
+[2025.10.24-04.26.37:122][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.26.37:174][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Control] ([1] browsable assets)...
+[2025.10.24-04.26.37:174][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Control]
+[2025.10.24-04.26.37:174][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Control" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset" SILENT=true
+[2025.10.24-04.26.37:175][491]LogSavePackage: Moving output files for package: /Game/Input/IMC_Control
+[2025.10.24-04.26.37:175][491]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IMC_Control47810E7749768C6700E9FAAED7021618.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset'
+[2025.10.24-04.26.37:181][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.239 ms (total: 1.23 sec)
+[2025.10.24-04.26.37:240][491]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.26.37:240][491]LogContentValidation: Enabled validators:
+[2025.10.24-04.26.37:240][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.26.37:240][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.26.37:240][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.26.37:240][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.26.37:240][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.26.37:240][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.26.37:240][491]AssetCheck: /Game/Input/IMC_Control 에셋 유효성 검사 중
+[2025.10.24-04.26.37:720][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.26.37:774][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Control] ([1] browsable assets)...
+[2025.10.24-04.26.37:774][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Control]
+[2025.10.24-04.26.37:774][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Control" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset" SILENT=true
+[2025.10.24-04.26.37:775][539]LogSavePackage: Moving output files for package: /Game/Input/IMC_Control
+[2025.10.24-04.26.37:775][539]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IMC_Control8B655AF24A27E429AD4D3092A22AD5FB.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset'
+[2025.10.24-04.26.37:780][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.714 ms (total: 1.29 sec)
+[2025.10.24-04.26.37:840][539]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.26.37:840][539]LogContentValidation: Enabled validators:
+[2025.10.24-04.26.37:840][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.26.37:840][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.26.37:840][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.26.37:840][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.26.37:840][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.26.37:840][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.26.37:840][539]AssetCheck: /Game/Input/IMC_Control 에셋 유효성 검사 중
+[2025.10.24-04.26.45:832][322]Cmd: TRANSACTION UNDO
+[2025.10.24-04.26.45:832][322]LogEditorTransaction: Undo 액션 매핑 전환
+[2025.10.24-04.26.45:998][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.24-04.26.52:146][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.26.52:173][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Control] ([1] browsable assets)...
+[2025.10.24-04.26.52:173][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Control]
+[2025.10.24-04.26.52:173][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Control" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset" SILENT=true
+[2025.10.24-04.26.52:175][945]LogSavePackage: Moving output files for package: /Game/Input/IMC_Control
+[2025.10.24-04.26.52:175][945]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IMC_Control47CF52C44EA74E48C40F07A739991621.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset'
+[2025.10.24-04.26.52:181][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.678 ms (total: 1.32 sec)
+[2025.10.24-04.26.52:224][945]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.26.52:224][945]LogContentValidation: Enabled validators:
+[2025.10.24-04.26.52:224][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.26.52:224][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.26.52:224][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.26.52:224][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.26.52:224][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.26.52:224][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.26.52:224][945]AssetCheck: /Game/Input/IMC_Control 에셋 유효성 검사 중
+[2025.10.24-04.27.00:305][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.27.00:350][832]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Control] ([1] browsable assets)...
+[2025.10.24-04.27.00:350][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Control]
+[2025.10.24-04.27.00:350][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Control" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset" SILENT=true
+[2025.10.24-04.27.00:352][832]LogSavePackage: Moving output files for package: /Game/Input/IMC_Control
+[2025.10.24-04.27.00:352][832]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IMC_Control268100A7487AAFF3A03016948981009E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IMC_Control.uasset'
+[2025.10.24-04.27.00:358][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.695 ms (total: 1.38 sec)
+[2025.10.24-04.27.00:390][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.27.00:390][832]LogContentValidation: Enabled validators:
+[2025.10.24-04.27.00:390][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.27.00:390][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.27.00:390][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.27.00:390][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.27.00:390][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.27.00:390][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.27.00:390][832]AssetCheck: /Game/Input/IMC_Control 에셋 유효성 검사 중
+[2025.10.24-04.27.01:303][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.27.01:349][932]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Move] ([1] browsable assets)...
+[2025.10.24-04.27.01:349][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Move]
+[2025.10.24-04.27.01:349][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Move" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Move.uasset" SILENT=true
+[2025.10.24-04.27.01:350][932]LogSavePackage: Moving output files for package: /Game/Input/IA_Move
+[2025.10.24-04.27.01:350][932]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IA_Move41B0F456479111CC8B8C1FA970087B8C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Move.uasset'
+[2025.10.24-04.27.01:355][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.623 ms (total: 1.43 sec)
+[2025.10.24-04.27.01:406][932]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.27.01:406][932]LogContentValidation: Enabled validators:
+[2025.10.24-04.27.01:406][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.27.01:406][932]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.27.01:406][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.27.01:406][932]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.27.01:406][932]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.27.01:406][932]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.27.01:406][932]AssetCheck: /Game/Input/IA_Move 에셋 유효성 검사 중
+[2025.10.24-04.27.08:790][595]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.24-04.27.08:797][595]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.24-04.27.08:802][595]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.24-04.27.08:811][596]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.24-04.27.19:415][859]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_Stage1GameMode
+[2025.10.24-04.27.19:422][859]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.24-04.27.19:826][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.27.19:874][905]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/GM_Stage1GameMode] ([2] browsable assets)...
+[2025.10.24-04.27.19:874][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/GM_Stage1GameMode]
+[2025.10.24-04.27.19:877][905]LogSavePackage: Moving output files for package: /Game/BluePrint/GM_Stage1GameMode
+[2025.10.24-04.27.19:877][905]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/GM_Stage1GameMode68B4E9704FF13F495FA1DAAC04350465.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/GM_Stage1GameMode.uasset'
+[2025.10.24-04.27.19:885][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.498 ms (total: 1.49 sec)
+[2025.10.24-04.27.19:923][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.27.19:923][905]LogContentValidation: Enabled validators:
+[2025.10.24-04.27.19:923][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.27.19:923][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.27.19:923][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.27.19:923][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.27.19:923][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.27.19:923][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.27.19:923][905]AssetCheck: /Game/BluePrint/GM_Stage1GameMode 에셋 유효성 검사 중
+[2025.10.24-04.27.29:344][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.27.29:390][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-04.27.29:451][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.24-04.27.29:461][969]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-04.27.29:461][969]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage19A79735D404E15202B0B86B546A60683.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-04.27.29:465][969]LogFileHelpers: Saving map 'Stage1' took 0.076
+[2025.10.24-04.27.29:470][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.918 ms (total: 1.61 sec)
+[2025.10.24-04.27.29:523][969]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.27.29:523][969]LogContentValidation: Enabled validators:
+[2025.10.24-04.27.29:523][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.27.29:523][969]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.27.29:523][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.27.29:523][969]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.27.29:523][969]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.27.29:523][969]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.27.29:523][969]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-04.27.32:727][159]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.10.24-04.27.32:752][159]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.24-04.27.32:757][159]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.24-04.27.32:768][160]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.24-04.27.37:995][775]LogContentBrowser: Attempting asset rename: NewBlueprint -> PC_PlayerController
+[2025.10.24-04.27.38:002][775]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.24-04.27.38:206][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.27.38:240][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/PC_PlayerController] ([2] browsable assets)...
+[2025.10.24-04.27.38:240][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/PC_PlayerController]
+[2025.10.24-04.27.38:244][796]LogSavePackage: Moving output files for package: /Game/BluePrint/PC_PlayerController
+[2025.10.24-04.27.38:244][796]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/PC_PlayerController7CA420A843882D67B0FB1780BB033650.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/PC_PlayerController.uasset'
+[2025.10.24-04.27.38:252][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.494 ms (total: 1.66 sec)
+[2025.10.24-04.27.38:306][796]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.27.38:306][796]LogContentValidation: Enabled validators:
+[2025.10.24-04.27.38:306][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.27.38:306][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.27.38:306][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.27.38:306][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.27.38:306][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.27.38:306][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.27.38:306][796]AssetCheck: /Game/BluePrint/PC_PlayerController 에셋 유효성 검사 중
+[2025.10.24-04.27.42:046][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/PC_PlayerController.PC_PlayerController
+[2025.10.24-04.27.42:047][210]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.24-04.27.43:650][298]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.24-04.28.26:363][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.24-04.28.37:797][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.28.37:840][289]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/PC_PlayerController] ([2] browsable assets)...
+[2025.10.24-04.28.37:840][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/PC_PlayerController]
+[2025.10.24-04.28.37:844][289]LogSavePackage: Moving output files for package: /Game/BluePrint/PC_PlayerController
+[2025.10.24-04.28.37:844][289]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/PC_PlayerController4A697D7E47C93CB98E53D8B3FF97C9BF.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/PC_PlayerController.uasset'
+[2025.10.24-04.28.37:850][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.912 ms (total: 1.72 sec)
+[2025.10.24-04.28.37:889][289]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.28.37:889][289]LogContentValidation: Enabled validators:
+[2025.10.24-04.28.37:889][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.28.37:889][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.28.37:889][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.28.37:889][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.28.37:889][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.28.37:889][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.28.37:889][289]AssetCheck: /Game/BluePrint/PC_PlayerController 에셋 유효성 검사 중
+[2025.10.24-04.28.43:637][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.24-04.28.43:762][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.24-04.28.56:833][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.28.56:872][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.28.56:908][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.28.56:909][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.28.56:909][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.28.56:911][895]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.28.56:912][895]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player94104DDA407CEF17A586218EB69CE47D.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.28.56:918][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.434 ms (total: 1.80 sec)
+[2025.10.24-04.28.56:971][895]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.28.56:971][895]LogContentValidation: Enabled validators:
+[2025.10.24-04.28.56:971][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.28.56:971][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.28.56:971][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.28.56:971][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.28.56:971][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.28.56:971][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.28.56:971][895]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.00:688][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.00:723][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.29.00:759][208]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.29.00:759][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.29.00:759][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.29.00:762][208]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.29.00:762][208]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player812F328C49381F4E7840DC931C70639B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.29.00:768][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.362 ms (total: 1.88 sec)
+[2025.10.24-04.29.00:823][208]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.00:823][208]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.00:823][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.00:823][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.00:823][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.00:823][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.00:823][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.00:823][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.00:823][208]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.05:687][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.05:740][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.29.05:775][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.29.05:775][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.29.05:775][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.29.05:779][581]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.29.05:779][581]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_PlayerBAD26597410C21CA0C9FA684E72D273B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.29.05:785][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.716 ms (total: 1.98 sec)
+[2025.10.24-04.29.05:838][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.05:838][581]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.05:838][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.05:838][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.05:838][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.05:838][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.05:838][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.05:838][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.05:838][581]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.06:272][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.24-04.29.07:710][745]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-04.29.07:715][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-04.29.07:719][745]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.24-04.29.07:719][745]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.24-04.29.07:719][745]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-04.29.07:722][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002527s)
+[2025.10.24-04.29.07:722][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002568s)
+[2025.10.24-04.29.07:741][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.24-04.29.07:743][745]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-04.29.07:745][745]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2025.10.24-04.29.07:746][745]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.24-04.29.07:746][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-04.29.07:746][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-04.29.07:746][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-04.29.07:746][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-04.29.07:746][745]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-04.29.07:746][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-04.29.07:746][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-04.29.07:746][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-04.29.07:746][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-04.29.07:746][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-04.29.07:746][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-04.29.07:748][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-04.29.07:765][745]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-04.29.07:765][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-04.29.07:765][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-04.29.07:765][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-04.29.07:766][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.24-04.29.07:766][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.24-04.29.07:769][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.24-04.29.07:769][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.24-04.29.07:769][745]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.24-04.29.07:769][745]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage1'.
+[2025.10.24-04.29.07:769][745]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.24-04.29.07:772][745]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-04.29.07:772][745]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-13.29.07
+[2025.10.24-04.29.07:773][745]LogWorld: Bringing up level for play took: 0.000810
+[2025.10.24-04.29.07:776][745]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.10.24-04.29.07:781][745]PIE: 서버가 로그인했습니다.
+[2025.10.24-04.29.07:782][745]PIE: 에디터에서 플레이 총 시작 시간 0.067초입니다.
+[2025.10.24-04.29.08:545][814]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:554][815]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:562][816]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:571][817]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:580][818]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:589][819]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:598][820]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:607][821]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:616][822]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:625][823]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:634][824]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:643][825]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:651][826]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:660][827]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:669][828]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:678][829]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:687][830]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:696][831]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:705][832]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:719][833]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:728][834]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:737][835]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:745][836]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:754][837]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:763][838]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:772][839]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:780][840]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:789][841]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:798][842]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:807][843]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:816][844]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:825][845]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:835][846]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:844][847]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:853][848]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:862][849]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:871][850]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:880][851]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:889][852]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:899][853]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:908][854]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:917][855]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:926][856]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:934][857]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:943][858]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:952][859]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:962][860]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:970][861]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:979][862]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:988][863]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.08:997][864]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.09:006][865]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.09:015][866]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.09:024][867]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.09:033][868]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.09:154][882]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:163][883]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:172][884]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:181][885]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:190][886]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:199][887]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:208][888]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:217][889]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:226][890]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:235][891]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:245][892]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:254][893]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:263][894]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:272][895]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:281][896]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:290][897]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:299][898]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:308][899]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:317][900]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:325][901]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:335][902]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:344][903]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:353][904]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:362][905]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:372][906]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:381][907]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:390][908]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:399][909]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:408][910]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:417][911]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:426][912]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:435][913]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:444][914]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:453][915]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:462][916]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:471][917]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:480][918]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:489][919]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:498][920]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:507][921]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:516][922]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:525][923]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:534][924]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:543][925]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:552][926]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:561][927]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:570][928]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:579][929]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.09:588][930]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.10:014][979]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:023][980]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:032][981]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:041][982]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:050][983]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:059][984]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:068][985]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:077][986]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:086][987]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:095][988]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:104][989]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:113][990]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:122][991]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:132][992]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:141][993]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:150][994]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:159][995]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:168][996]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:177][997]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:186][998]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:196][999]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:205][  0]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:214][  1]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:223][  2]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:232][  3]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:241][  4]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:251][  5]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:259][  6]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:269][  7]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:277][  8]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:286][  9]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:295][ 10]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:304][ 11]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:313][ 12]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:322][ 13]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:331][ 14]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:339][ 15]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:349][ 16]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:358][ 17]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:367][ 18]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:376][ 19]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:384][ 20]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:393][ 21]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:402][ 22]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:627][ 48]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:635][ 49]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:644][ 50]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:654][ 51]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:662][ 52]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:671][ 53]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:680][ 54]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:689][ 55]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:697][ 56]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:706][ 57]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:715][ 58]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:724][ 59]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:733][ 60]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:742][ 61]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:751][ 62]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:760][ 63]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:769][ 64]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:778][ 65]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:787][ 66]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:796][ 67]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:805][ 68]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:813][ 69]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:822][ 70]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:831][ 71]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:840][ 72]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:849][ 73]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:858][ 74]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:866][ 75]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:875][ 76]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:884][ 77]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:893][ 78]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:902][ 79]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:912][ 80]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:921][ 81]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:930][ 82]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:939][ 83]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:948][ 84]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:958][ 85]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:967][ 86]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:976][ 87]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:985][ 88]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.10:994][ 89]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.11:002][ 90]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.11:012][ 91]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.11:021][ 92]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.11:029][ 93]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.11:038][ 94]LogBlueprintUserMessages: [BP_Player_C_0] X=0.000 Y=1.000
+[2025.10.24-04.29.11:254][119]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:263][120]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:272][121]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:281][122]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:290][123]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:299][124]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:309][125]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:317][126]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:326][127]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:336][128]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:344][129]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:353][130]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:362][131]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:371][132]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:380][133]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:389][134]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:398][135]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:407][136]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:416][137]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:425][138]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:435][139]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:443][140]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:452][141]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:462][142]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:471][143]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:479][144]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:488][145]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:497][146]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:506][147]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:515][148]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:524][149]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:533][150]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:542][151]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:551][152]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:560][153]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:569][154]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:578][155]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:587][156]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:596][157]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:605][158]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:614][159]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:623][160]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:632][161]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:641][162]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:650][163]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:659][164]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.11:927][195]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.11:937][196]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.11:946][197]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.11:955][198]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.11:964][199]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.11:973][200]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.11:982][201]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.11:991][202]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:000][203]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:009][204]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:018][205]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:027][206]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:036][207]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:045][208]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:053][209]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:062][210]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:072][211]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:081][212]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:090][213]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:099][214]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:107][215]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:116][216]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:125][217]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:134][218]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:143][219]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:152][220]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:161][221]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:170][222]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:179][223]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:188][224]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:197][225]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:206][226]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:215][227]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:223][228]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:232][229]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:241][230]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:250][231]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:259][232]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:269][233]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:278][234]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:286][235]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:295][236]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:304][237]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:313][238]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:322][239]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:331][240]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:340][241]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:349][242]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:358][243]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:367][244]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:375][245]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:384][246]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:393][247]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:402][248]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:411][249]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:419][250]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:428][251]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:437][252]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:446][253]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:454][254]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:463][255]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:473][256]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:481][257]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:490][258]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:500][259]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:508][260]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:517][261]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:527][262]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:536][263]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:545][264]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:554][265]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:563][266]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:572][267]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:581][268]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:589][269]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:598][270]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:607][271]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:617][272]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:626][273]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:634][274]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:643][275]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:652][276]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:661][277]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:670][278]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:679][279]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:688][280]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:696][281]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:706][282]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:714][283]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:723][284]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:732][285]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:741][286]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:750][287]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:759][288]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:768][289]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:777][290]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:786][291]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:795][292]LogBlueprintUserMessages: [BP_Player_C_0] X=1.000 Y=0.000
+[2025.10.24-04.29.12:996][315]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:004][316]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:014][317]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:023][318]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:032][319]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:041][320]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:050][321]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:059][322]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:068][323]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:077][324]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:086][325]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:095][326]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:104][327]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:113][328]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:122][329]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:130][330]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:140][331]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:149][332]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:158][333]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:167][334]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:176][335]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:184][336]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:193][337]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:203][338]LogBlueprintUserMessages: [BP_Player_C_0] X=-1.000 Y=-0.000
+[2025.10.24-04.29.13:404][361]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:413][362]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:422][363]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:430][364]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:440][365]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:449][366]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:458][367]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:468][368]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:477][369]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:487][370]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:496][371]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.13:505][372]LogBlueprintUserMessages: [BP_Player_C_0] X=-0.000 Y=-1.000
+[2025.10.24-04.29.14:086][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-04.29.14:086][433]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-04.29.14:086][433]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.29.14:086][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.29.14:090][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-04.29.14:095][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.29.14:111][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-04.29.14:111][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.24-04.29.14:111][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.24-04.29.14:114][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.24-04.29.14:120][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.24-04.29.14:182][435]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.10.24-04.29.14:533][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.14:590][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-04.29.14:614][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.24-04.29.14:621][473]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-04.29.14:621][473]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1B4D836534ABD283C8127A39203AEA3D1.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-04.29.14:625][473]LogFileHelpers: Saving map 'Stage1' took 0.035
+[2025.10.24-04.29.14:635][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.051 ms (total: 2.08 sec)
+[2025.10.24-04.29.14:688][473]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.14:688][473]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.14:688][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.14:688][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.14:688][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.14:688][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.14:688][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.14:688][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.14:688][473]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-04.29.17:391][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.17:422][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.29.17:458][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.29.17:458][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.29.17:458][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.29.17:462][660]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.29.17:462][660]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player51EDE4CF47E6B52443E6A2A7D3A33E31.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.29.17:468][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.464 ms (total: 2.16 sec)
+[2025.10.24-04.29.17:521][660]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.17:521][660]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.17:521][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.17:521][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.17:521][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.17:521][660]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.17:521][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.17:521][660]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.17:521][660]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.25:575][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.25:609][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.29.25:644][211]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.29.25:644][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.29.25:644][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.29.25:648][211]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.29.25:648][211]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player436D64394C581403015B1C98216D1364.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.29.25:654][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.570 ms (total: 2.24 sec)
+[2025.10.24-04.29.25:690][211]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.25:690][211]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.25:690][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.25:690][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.25:690][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.25:690][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.25:690][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.25:690][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.25:690][211]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.29:263][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 990.350830
+[2025.10.24-04.29.29:502][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-04.29.29:502][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 990.576355, Update Interval: 339.334076
+[2025.10.24-04.29.32:270][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.32:325][639]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.29.32:360][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.29.32:360][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.29.32:360][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.29.32:364][639]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.29.32:364][639]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player31E29726447F51714CD1FCACF394D487.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.29.32:370][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.722 ms (total: 2.34 sec)
+[2025.10.24-04.29.32:407][639]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.32:407][639]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.32:407][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.32:407][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.32:407][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.32:407][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.32:407][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.32:407][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.32:407][639]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.35:112][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.35:156][807]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.29.35:156][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.29.35:156][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.29.35:159][807]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.29.35:160][807]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player8888C7164472DB337D49268929A0EF06.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.29.35:165][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.882 ms (total: 2.39 sec)
+[2025.10.24-04.29.35:223][807]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.35:223][807]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.35:223][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.35:223][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.35:223][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.35:223][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.35:223][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.35:223][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.35:223][807]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.57:580][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.29.57:623][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.29.57:632][305]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.29.57:632][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.29.57:632][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.29.57:637][305]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.29.57:637][305]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player0C9B8AC74FD44F9F1B5BC39AF3F243E6.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.29.57:643][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.521 ms (total: 2.45 sec)
+[2025.10.24-04.29.57:688][305]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.29.57:688][305]LogContentValidation: Enabled validators:
+[2025.10.24-04.29.57:688][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.29.57:688][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.29.57:688][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.29.57:688][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.29.57:688][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.29.57:688][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.29.57:688][305]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.29.58:515][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.24-04.29.59:881][468]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-04.29.59:885][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-04.29.59:914][468]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-04.29.59:916][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2025.10.24-04.29.59:916][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.001614s)
+[2025.10.24-04.29.59:935][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.24-04.29.59:940][468]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-04.29.59:941][468]LogPlayLevel: PIE: World Init took: (0.001600s)
+[2025.10.24-04.29.59:942][468]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.24-04.29.59:942][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-04.29.59:942][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-04.29.59:942][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-04.29.59:942][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-04.29.59:942][468]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-04.29.59:942][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-04.29.59:942][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-04.29.59:942][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-04.29.59:942][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-04.29.59:942][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-04.29.59:942][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-04.29.59:945][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-04.29.59:960][468]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-04.29.59:960][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-04.29.59:960][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-04.29.59:960][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-04.29.59:960][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.24-04.29.59:961][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.24-04.29.59:963][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.24-04.29.59:963][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.24-04.29.59:963][468]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.24-04.29.59:963][468]LogAudio: Display: Audio Device (ID: 3) registered with world 'Stage1'.
+[2025.10.24-04.29.59:963][468]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.24-04.29.59:966][468]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-04.29.59:966][468]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-13.29.59
+[2025.10.24-04.29.59:967][468]LogWorld: Bringing up level for play took: 0.000749
+[2025.10.24-04.29.59:969][468]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.10.24-04.29.59:972][468]PIE: 서버가 로그인했습니다.
+[2025.10.24-04.29.59:973][468]PIE: 에디터에서 플레이 총 시작 시간 0.088초입니다.
+[2025.10.24-04.30.00:965][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-04.30.00:966][568]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-04.30.00:966][568]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.30.00:966][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.30.00:969][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-04.30.00:974][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.30.00:992][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-04.30.00:992][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.24-04.30.00:992][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.24-04.30.00:994][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.24-04.30.01:001][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.24-04.30.01:029][570]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.10.24-04.30.03:736][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.30.03:788][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-04.30.03:796][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-04.30.03:796][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-04.30.03:796][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-04.30.03:799][751]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-04.30.03:800][751]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_PlayerF9A3265F4D992A3019E48991343FD605.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-04.30.03:805][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.188 ms (total: 2.52 sec)
+[2025.10.24-04.30.03:854][751]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-04.30.03:855][751]LogContentValidation: Enabled validators:
+[2025.10.24-04.30.03:855][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.30.03:855][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.30.03:855][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.30.03:855][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.30.03:855][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.30.03:855][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.30.03:855][751]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-04.33.43:808][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.24-04.33.44:886][517]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.24-04.33.44:892][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-04.33.44:936][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/GM_Stage1GameMode] ([2] browsable assets)...
+[2025.10.24-04.33.44:936][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/GM_Stage1GameMode]
+[2025.10.24-04.33.44:938][517]LogSavePackage: Moving output files for package: /Game/BluePrint/GM_Stage1GameMode
+[2025.10.24-04.33.44:939][517]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/GM_Stage1GameMode6505544646D8B88FFD15699D1C847909.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/GM_Stage1GameMode.uasset'
+[2025.10.24-04.33.44:940][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_Jump] ([1] browsable assets)...
+[2025.10.24-04.33.44:940][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_Jump]
+[2025.10.24-04.33.44:940][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_Jump" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Jump.uasset" SILENT=true
+[2025.10.24-04.33.44:940][517]LogSavePackage: Moving output files for package: /Game/Input/IA_Jump
+[2025.10.24-04.33.44:940][517]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/IA_JumpAF44C1F34D3B11B8D6380D90192AEA08.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Input/IA_Jump.uasset'
+[2025.10.24-04.33.44:943][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/PC_PlayerController] ([2] browsable assets)...
+[2025.10.24-04.33.44:943][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/PC_PlayerController]
+[2025.10.24-04.33.44:946][517]LogSavePackage: Moving output files for package: /Game/BluePrint/PC_PlayerController
+[2025.10.24-04.33.44:946][517]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/PC_PlayerController4065E37844F0BEB15BF0C0A6BA504F6F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/PC_PlayerController.uasset'
+[2025.10.24-04.33.44:951][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.704 ms (total: 2.58 sec)
+[2025.10.24-04.33.44:964][517]LogStall: Shutdown...
+[2025.10.24-04.33.44:964][517]LogStall: Shutdown complete.
+[2025.10.24-04.33.44:980][517]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.44:980][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:059][517]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:059][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:097][517]LogSlate: Window 'PC_PlayerController' being destroyed
+[2025.10.24-04.33.45:103][517]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-04.33.45:103][517]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:103][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:135][517]LogSlate: Window 'ALTF4 - 언리얼 에디터' being destroyed
+[2025.10.24-04.33.45:200][517]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.24-04.33.45:200][517]LogContentValidation: Enabled validators:
+[2025.10.24-04.33.45:200][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-04.33.45:200][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-04.33.45:200][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-04.33.45:200][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-04.33.45:200][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-04.33.45:200][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-04.33.45:200][517]AssetCheck: /Game/BluePrint/GM_Stage1GameMode 에셋 유효성 검사 중
+[2025.10.24-04.33.45:200][517]AssetCheck: /Game/Input/IA_Jump 에셋 유효성 검사 중
+[2025.10.24-04.33.45:200][517]AssetCheck: /Game/BluePrint/PC_PlayerController 에셋 유효성 검사 중
+[2025.10.24-04.33.45:228][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.24-04.33.45:250][517]Cmd: QUIT_EDITOR
+[2025.10.24-04.33.45:250][517]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.24-04.33.45:254][518]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.24-04.33.45:254][518]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.24-04.33.45:254][518]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.24-04.33.45:255][518]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:255][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:259][518]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.24-04.33.45:259][518]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.24-04.33.45:261][518]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:261][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:264][518]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:264][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:267][518]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:267][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:270][518]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:270][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:272][518]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:272][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:275][518]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:275][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:278][518]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:278][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:280][518]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-04.33.45:280][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-04.33.45:283][518]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.24-04.33.45:284][518]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.10.24-04.33.45:284][518]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.10.24-04.33.45:284][518]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.10.24-04.33.45:998][518]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.24-04.33.45:998][518]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.24-04.33.45:998][518]LogAudio: Display: Audio Device unregistered from world 'Stage1'.
+[2025.10.24-04.33.45:998][518]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.24-04.33.45:998][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.24-04.33.46:000][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.24-04.33.46:009][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.24-04.33.46:009][518]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.24-04.33.46:010][518]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.24-04.33.46:010][518]LogExit: Preparing to exit.
+[2025.10.24-04.33.46:035][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.46:037][518]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.24-04.33.47:306][518]LogEditorDataStorage: Deinitializing
+[2025.10.24-04.33.47:400][518]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.24-04.33.47:408][518]LogExit: Editor shut down
+[2025.10.24-04.33.47:409][518]LogExit: Transaction tracking system shut down
+[2025.10.24-04.33.47:528][518]LogExit: Object subsystem successfully closed.
+[2025.10.24-04.33.47:573][518]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.24-04.33.47:901][518]LogMemoryProfiler: Shutdown
+[2025.10.24-04.33.47:901][518]LogNetworkingProfiler: Shutdown
+[2025.10.24-04.33.47:901][518]LoadingProfiler: Shutdown
+[2025.10.24-04.33.47:901][518]LogTimingProfiler: Shutdown
+[2025.10.24-04.33.48:244][518]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.24-04.33.48:244][518]RenderDocPlugin: plugin has been unloaded.
+[2025.10.24-04.33.48:277][518]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.24-04.33.48:277][518]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94BB956C-40CC-AFBD-3538-45983CBF50C4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=6afe5ef94e81793bb55250bbdd3e18f8%7Cb6dd1882886a48349efefde1fbf89e7f%7Cc9c3ee81-863f-4a93-b221-77aaa497abac&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.24-04.33.49:318][518]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.24-04.33.49:322][518]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.10.24-04.33.49:322][518]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.24-04.33.49:325][518]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.24-04.33.49:325][518]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.24-04.33.49:325][518]LogPakFile: Destroying PakPlatformFile
+[2025.10.24-04.33.49:564][518]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.24-04.33.49:596][518]LogExit: Exiting.
+[2025.10.24-04.33.49:617][518]Log file closed, 10/24/25 13:33:49
