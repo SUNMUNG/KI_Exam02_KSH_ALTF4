@@ -39686,3 +39686,633 @@ Script Stack (0 frames) :
 [2025.10.24-08.44.14:749][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.24-08.44.14:749][387]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.24-08.44.14:749][387]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.45.09:696][239]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-08.45.09:703][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.45.09:729][239]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.45.09:731][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002334s)
+[2025.10.24-08.45.09:731][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002374s)
+[2025.10.24-08.45.09:748][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.24-08.45.09:757][239]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-08.45.09:758][239]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2025.10.24-08.45.09:759][239]LogAudio: Display: Creating Audio Device:                 Id: 180, Scope: Unique, Realtime: True
+[2025.10.24-08.45.09:759][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.45.09:759][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.45.09:759][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.45.09:759][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.45.09:759][239]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.45.09:759][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.45.09:759][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.45.09:759][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.45.09:759][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.45.09:759][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.45.09:759][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.45.09:762][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.45.09:777][239]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-08.45.09:778][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.45.09:778][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.45.09:778][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.45.09:778][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=180
+[2025.10.24-08.45.09:778][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=180
+[2025.10.24-08.45.09:781][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=180
+[2025.10.24-08.45.09:781][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=180
+[2025.10.24-08.45.09:781][239]LogInit: FAudioDevice initialized with ID 180.
+[2025.10.24-08.45.09:781][239]LogAudio: Display: Audio Device (ID: 180) registered with world 'Stage1'.
+[2025.10.24-08.45.09:781][239]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 180
+[2025.10.24-08.45.09:784][239]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-08.45.09:785][239]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-17.45.09
+[2025.10.24-08.45.09:786][239]LogWorld: Bringing up level for play took: 0.001736
+[2025.10.24-08.45.09:788][239]LogOnline: OSS: Created online subsystem instance for: :Context_217
+[2025.10.24-08.45.09:792][239]PIE: 서버가 로그인했습니다.
+[2025.10.24-08.45.09:793][239]PIE: 에디터에서 플레이 총 시작 시간 0.091초입니다.
+[2025.10.24-08.45.14:670][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.45.14:670][780]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.45.14:670][780]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.45.14:670][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.45.14:707][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.45.14:713][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.45.14:730][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.45.14:731][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 180
+[2025.10.24-08.45.14:731][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=180
+[2025.10.24-08.45.14:733][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=180
+[2025.10.24-08.45.14:737][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.45.14:740][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.24-08.45.14:825][781]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2025.10.24-08.45.15:168][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.45.15:214][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.45.15:251][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.24-08.45.15:266][810]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-08.45.15:266][810]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1CBD0FCE441DEF86357A604BF85C7098C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-08.45.15:273][810]LogFileHelpers: Saving map 'Stage1' took 0.059
+[2025.10.24-08.45.15:284][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.737 ms (total: 43.0 sec)
+[2025.10.24-08.45.15:347][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.45.15:347][810]LogContentValidation: Enabled validators:
+[2025.10.24-08.45.15:347][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.45.15:347][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.45.15:347][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.45.15:347][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.45.15:347][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.45.15:347][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.45.15:347][810]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.45.25:081][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.45.25:131][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.45.25:169][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.24-08.45.25:185][645]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-08.45.25:185][645]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1B94B14684AC52226DD4880AB9CDF8D8C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-08.45.25:191][645]LogFileHelpers: Saving map 'Stage1' took 0.060
+[2025.10.24-08.45.25:204][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.919 ms (total: 43.1 sec)
+[2025.10.24-08.45.25:265][645]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.45.25:265][645]LogContentValidation: Enabled validators:
+[2025.10.24-08.45.25:265][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.45.25:265][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.45.25:265][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.45.25:265][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.45.25:265][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.45.25:265][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.45.25:265][645]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.45.34:415][355]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-08.45.34:422][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.45.34:448][355]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.45.34:451][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002142s)
+[2025.10.24-08.45.34:451][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002177s)
+[2025.10.24-08.45.34:472][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.24-08.45.34:478][355]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-08.45.34:479][355]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2025.10.24-08.45.34:480][355]LogAudio: Display: Creating Audio Device:                 Id: 181, Scope: Unique, Realtime: True
+[2025.10.24-08.45.34:480][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.45.34:480][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.45.34:480][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.45.34:480][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.45.34:480][355]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.45.34:480][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.45.34:480][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.45.34:480][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.45.34:480][355]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.45.34:480][355]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.45.34:480][355]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.45.34:483][355]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.45.34:499][355]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-08.45.34:500][355]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.45.34:500][355]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.45.34:500][355]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.45.34:500][355]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=181
+[2025.10.24-08.45.34:500][355]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=181
+[2025.10.24-08.45.34:503][355]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=181
+[2025.10.24-08.45.34:503][355]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=181
+[2025.10.24-08.45.34:503][355]LogInit: FAudioDevice initialized with ID 181.
+[2025.10.24-08.45.34:503][355]LogAudio: Display: Audio Device (ID: 181) registered with world 'Stage1'.
+[2025.10.24-08.45.34:503][355]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 181
+[2025.10.24-08.45.34:506][355]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-08.45.34:507][355]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-17.45.34
+[2025.10.24-08.45.34:508][355]LogWorld: Bringing up level for play took: 0.001810
+[2025.10.24-08.45.34:510][355]LogOnline: OSS: Created online subsystem instance for: :Context_218
+[2025.10.24-08.45.34:514][355]PIE: 서버가 로그인했습니다.
+[2025.10.24-08.45.34:515][355]PIE: 에디터에서 플레이 총 시작 시간 0.093초입니다.
+[2025.10.24-08.45.43:760][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.45.43:760][375]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.45.43:760][375]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.45.43:760][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.45.43:768][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.45.43:773][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.45.43:792][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.45.43:792][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 181
+[2025.10.24-08.45.43:792][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=181
+[2025.10.24-08.45.43:794][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=181
+[2025.10.24-08.45.43:799][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.45.43:802][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-08.45.43:933][376]LogPlayLevel: Display: Destroying online subsystem :Context_218
+[2025.10.24-08.45.44:111][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.45.44:166][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.45.44:203][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.24-08.45.44:218][384]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-08.45.44:218][384]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage15B3E66D942B5369FC8505382CE2B3D32.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-08.45.44:225][384]LogFileHelpers: Saving map 'Stage1' took 0.059
+[2025.10.24-08.45.44:232][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.220 ms (total: 43.2 sec)
+[2025.10.24-08.45.44:298][384]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.45.44:298][384]LogContentValidation: Enabled validators:
+[2025.10.24-08.45.44:298][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.45.44:298][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.45.44:298][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.45.44:298][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.45.44:298][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.45.44:298][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.45.44:298][384]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.47.12:032][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15074.096680
+[2025.10.24-08.47.13:031][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-08.47.13:031][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15074.762695, Update Interval: 359.472656
+[2025.10.24-08.47.38:488][831]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-08.47.38:494][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.47.38:528][831]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.47.38:530][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002404s)
+[2025.10.24-08.47.38:530][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002452s)
+[2025.10.24-08.47.38:548][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.24-08.47.38:557][831]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-08.47.38:559][831]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2025.10.24-08.47.38:560][831]LogAudio: Display: Creating Audio Device:                 Id: 182, Scope: Unique, Realtime: True
+[2025.10.24-08.47.38:560][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.47.38:560][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.47.38:560][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.47.38:560][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.47.38:560][831]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.47.38:560][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.47.38:560][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.47.38:560][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.47.38:560][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.47.38:560][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.47.38:560][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.47.38:562][831]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.47.38:578][831]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-08.47.38:578][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.47.38:578][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.47.38:578][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.47.38:579][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=182
+[2025.10.24-08.47.38:579][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=182
+[2025.10.24-08.47.38:582][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=182
+[2025.10.24-08.47.38:582][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=182
+[2025.10.24-08.47.38:582][831]LogInit: FAudioDevice initialized with ID 182.
+[2025.10.24-08.47.38:582][831]LogAudio: Display: Audio Device (ID: 182) registered with world 'Stage1'.
+[2025.10.24-08.47.38:582][831]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 182
+[2025.10.24-08.47.38:585][831]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-08.47.38:587][831]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-17.47.38
+[2025.10.24-08.47.38:587][831]LogWorld: Bringing up level for play took: 0.002406
+[2025.10.24-08.47.38:590][831]LogOnline: OSS: Created online subsystem instance for: :Context_219
+[2025.10.24-08.47.38:593][831]PIE: 서버가 로그인했습니다.
+[2025.10.24-08.47.38:594][831]PIE: 에디터에서 플레이 총 시작 시간 0.1초입니다.
+[2025.10.24-08.47.47:588][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.47.47:588][810]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.47.47:589][810]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.47.47:589][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.47.47:597][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.47.47:602][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.47.47:621][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.47.47:621][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 182
+[2025.10.24-08.47.47:621][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=182
+[2025.10.24-08.47.47:623][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=182
+[2025.10.24-08.47.47:628][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.47.47:631][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.24-08.47.47:715][811]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2025.10.24-08.47.48:007][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.47.48:064][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.47.48:102][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.24-08.47.48:117][832]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-08.47.48:117][832]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage10D1F64AA4FA8BC3AC84AA7B1631A6D51.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-08.47.48:124][832]LogFileHelpers: Saving map 'Stage1' took 0.061
+[2025.10.24-08.47.48:131][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.664 ms (total: 43.4 sec)
+[2025.10.24-08.47.48:196][832]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.47.48:196][832]LogContentValidation: Enabled validators:
+[2025.10.24-08.47.48:196][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.47.48:196][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.47.48:196][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.47.48:196][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.47.48:196][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.47.48:196][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.47.48:196][832]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.49.05:434][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.49.05:495][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.49.05:531][533]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.49.05:531][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.49.05:531][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.49.05:550][533]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.49.05:550][533]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player276B7F594B69CD7061C4F7903661F1B2.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.49.05:560][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.514 ms (total: 43.5 sec)
+[2025.10.24-08.49.05:611][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.49.05:611][533]LogContentValidation: Enabled validators:
+[2025.10.24-08.49.05:611][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.49.05:611][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.49.05:611][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.49.05:611][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.49.05:611][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.49.05:611][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.49.05:611][533]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.49.07:704][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.49.07:763][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.49.07:797][651]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.49.07:797][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.49.07:797][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.49.07:816][651]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.49.07:816][651]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_PlayerCD1AC83145416E4BDC00089D016C4109.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.49.07:827][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.121 ms (total: 43.6 sec)
+[2025.10.24-08.49.07:877][651]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.49.07:877][651]LogContentValidation: Enabled validators:
+[2025.10.24-08.49.07:877][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.49.07:877][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.49.07:877][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.49.07:877][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.49.07:877][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.49.07:877][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.49.07:877][651]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.49.46:803][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.49.46:846][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.49.46:881][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.49.46:881][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.49.46:881][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.49.46:900][454]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.49.46:901][454]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player2B64E62944E60FE29B0532B97965435D.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.49.46:909][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.683 ms (total: 43.7 sec)
+[2025.10.24-08.49.46:959][454]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.49.46:959][454]LogContentValidation: Enabled validators:
+[2025.10.24-08.49.46:959][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.49.46:959][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.49.46:959][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.49.46:959][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.49.46:959][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.49.46:959][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.49.46:959][454]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.50.28:861][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.50.28:912][869]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.50.28:948][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.50.28:948][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.50.28:948][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.50.28:967][869]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.50.28:967][869]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_PlayerB2CB25B7466610F7CA226B92E42C6519.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.50.28:976][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.203 ms (total: 43.8 sec)
+[2025.10.24-08.50.29:027][869]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.50.29:027][869]LogContentValidation: Enabled validators:
+[2025.10.24-08.50.29:027][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.50.29:027][869]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.50.29:027][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.50.29:027][869]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.50.29:027][869]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.50.29:027][869]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.50.29:027][869]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.50.29:243][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.24-08.50.30:384][930]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-08.50.30:390][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.50.30:390][930]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.50.30:392][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002221s)
+[2025.10.24-08.50.30:392][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002252s)
+[2025.10.24-08.50.30:411][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.24-08.50.30:421][930]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-08.50.30:422][930]LogPlayLevel: PIE: World Init took: (0.001601s)
+[2025.10.24-08.50.30:423][930]LogAudio: Display: Creating Audio Device:                 Id: 183, Scope: Unique, Realtime: True
+[2025.10.24-08.50.30:423][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.50.30:423][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.50.30:423][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.50.30:423][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.50.30:423][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.50.30:423][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.50.30:423][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.50.30:423][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.50.30:423][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.50.30:423][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.50.30:423][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.50.30:426][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.50.30:441][930]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-08.50.30:442][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.50.30:442][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.50.30:442][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.50.30:442][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=183
+[2025.10.24-08.50.30:442][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=183
+[2025.10.24-08.50.30:445][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=183
+[2025.10.24-08.50.30:445][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=183
+[2025.10.24-08.50.30:445][930]LogInit: FAudioDevice initialized with ID 183.
+[2025.10.24-08.50.30:445][930]LogAudio: Display: Audio Device (ID: 183) registered with world 'Stage1'.
+[2025.10.24-08.50.30:445][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 183
+[2025.10.24-08.50.30:448][930]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-08.50.30:449][930]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-17.50.30
+[2025.10.24-08.50.30:450][930]LogWorld: Bringing up level for play took: 0.001834
+[2025.10.24-08.50.30:452][930]LogOnline: OSS: Created online subsystem instance for: :Context_220
+[2025.10.24-08.50.30:456][930]PIE: 서버가 로그인했습니다.
+[2025.10.24-08.50.30:457][930]PIE: 에디터에서 플레이 총 시작 시간 0.067초입니다.
+[2025.10.24-08.50.35:796][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.50.35:796][240]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.50.35:797][240]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.50.35:797][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.50.35:863][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.50.35:868][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.50.35:887][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.50.35:888][240]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 183
+[2025.10.24-08.50.35:888][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=183
+[2025.10.24-08.50.35:890][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=183
+[2025.10.24-08.50.35:894][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.50.35:897][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.24-08.50.36:067][241]LogPlayLevel: Display: Destroying online subsystem :Context_220
+[2025.10.24-08.50.54:224][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.50.54:263][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.50.54:297][192]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.50.54:297][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.50.54:297][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.50.54:316][192]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.50.54:317][192]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player00C4876F43B19ED893053B8E7C8AA461.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.50.54:325][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.667 ms (total: 43.9 sec)
+[2025.10.24-08.50.54:361][192]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.50.54:361][192]LogContentValidation: Enabled validators:
+[2025.10.24-08.50.54:361][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.50.54:361][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.50.54:361][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.50.54:361][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.50.54:361][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.50.54:361][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.50.54:361][192]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.50.54:742][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.24-08.50.55:106][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.24-08.50.55:827][242]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-08.50.55:833][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.50.55:856][242]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.50.55:858][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002392s)
+[2025.10.24-08.50.55:858][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002435s)
+[2025.10.24-08.50.55:879][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.24-08.50.55:889][242]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-08.50.55:890][242]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2025.10.24-08.50.55:891][242]LogAudio: Display: Creating Audio Device:                 Id: 184, Scope: Unique, Realtime: True
+[2025.10.24-08.50.55:891][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.50.55:891][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.50.55:891][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.50.55:891][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.50.55:891][242]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.50.55:891][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.50.55:891][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.50.55:891][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.50.55:891][242]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.50.55:891][242]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.50.55:891][242]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.50.55:893][242]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.50.55:909][242]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-08.50.55:909][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.50.55:909][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.50.55:909][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.50.55:910][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=184
+[2025.10.24-08.50.55:910][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=184
+[2025.10.24-08.50.55:912][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=184
+[2025.10.24-08.50.55:912][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=184
+[2025.10.24-08.50.55:912][242]LogInit: FAudioDevice initialized with ID 184.
+[2025.10.24-08.50.55:912][242]LogAudio: Display: Audio Device (ID: 184) registered with world 'Stage1'.
+[2025.10.24-08.50.55:912][242]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 184
+[2025.10.24-08.50.55:915][242]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-08.50.55:916][242]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-17.50.55
+[2025.10.24-08.50.55:917][242]LogWorld: Bringing up level for play took: 0.001694
+[2025.10.24-08.50.55:919][242]LogOnline: OSS: Created online subsystem instance for: :Context_221
+[2025.10.24-08.50.55:923][242]PIE: 서버가 로그인했습니다.
+[2025.10.24-08.50.55:924][242]PIE: 에디터에서 플레이 총 시작 시간 0.091초입니다.
+[2025.10.24-08.51.03:506][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.51.03:506][ 64]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.51.03:507][ 64]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.51.03:507][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.51.03:587][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.51.03:592][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.51.03:610][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.51.03:610][ 64]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 184
+[2025.10.24-08.51.03:610][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=184
+[2025.10.24-08.51.03:612][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=184
+[2025.10.24-08.51.03:617][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.51.03:619][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.24-08.51.03:702][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_221
+[2025.10.24-08.51.03:928][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.51.03:977][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.51.04:014][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.24-08.51.04:029][ 84]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-08.51.04:029][ 84]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1E552C44A4CBAD35C6D7FCE9186C312DE.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-08.51.04:036][ 84]LogFileHelpers: Saving map 'Stage1' took 0.059
+[2025.10.24-08.51.04:045][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.537 ms (total: 44.1 sec)
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: Enabled validators:
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.51.04:093][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.51.04:093][ 84]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.51.15:869][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.51.15:928][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.51.15:965][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.51.15:965][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.51.15:965][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.51.15:985][692]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.51.15:985][692]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player02DF7BFE4AF8DD9CD4385B963E1728F9.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.51.15:994][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.898 ms (total: 44.2 sec)
+[2025.10.24-08.51.16:042][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.51.16:042][692]LogContentValidation: Enabled validators:
+[2025.10.24-08.51.16:042][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.51.16:042][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.51.16:042][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.51.16:042][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.51.16:042][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.51.16:042][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.51.16:042][692]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.51.17:195][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.24-08.51.17:703][766]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-08.51.17:710][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.51.17:710][766]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.51.17:712][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002247s)
+[2025.10.24-08.51.17:712][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002278s)
+[2025.10.24-08.51.17:730][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.24-08.51.17:740][766]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-08.51.17:742][766]LogPlayLevel: PIE: World Init took: (0.001595s)
+[2025.10.24-08.51.17:743][766]LogAudio: Display: Creating Audio Device:                 Id: 185, Scope: Unique, Realtime: True
+[2025.10.24-08.51.17:743][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.51.17:743][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.51.17:743][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.51.17:743][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.51.17:743][766]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.51.17:743][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.51.17:743][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.51.17:743][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.51.17:743][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.51.17:743][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.51.17:743][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.51.17:745][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.51.17:760][766]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-08.51.17:760][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.51.17:760][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.51.17:760][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.51.17:761][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=185
+[2025.10.24-08.51.17:761][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=185
+[2025.10.24-08.51.17:763][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=185
+[2025.10.24-08.51.17:763][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=185
+[2025.10.24-08.51.17:763][766]LogInit: FAudioDevice initialized with ID 185.
+[2025.10.24-08.51.17:763][766]LogAudio: Display: Audio Device (ID: 185) registered with world 'Stage1'.
+[2025.10.24-08.51.17:763][766]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 185
+[2025.10.24-08.51.17:766][766]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-08.51.17:768][766]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-17.51.17
+[2025.10.24-08.51.17:768][766]LogWorld: Bringing up level for play took: 0.001762
+[2025.10.24-08.51.17:771][766]LogOnline: OSS: Created online subsystem instance for: :Context_222
+[2025.10.24-08.51.17:774][766]PIE: 서버가 로그인했습니다.
+[2025.10.24-08.51.17:775][766]PIE: 에디터에서 플레이 총 시작 시간 0.066초입니다.
+[2025.10.24-08.51.29:895][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.51.29:895][559]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.51.29:896][559]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.51.29:896][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.51.29:976][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.51.29:981][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.51.30:000][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.51.30:000][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 185
+[2025.10.24-08.51.30:000][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=185
+[2025.10.24-08.51.30:002][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=185
+[2025.10.24-08.51.30:007][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.51.30:010][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-08.51.30:188][560]LogPlayLevel: Display: Destroying online subsystem :Context_222
+[2025.10.24-08.51.30:320][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.51.30:377][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.51.30:412][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.24-08.51.30:428][565]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-08.51.30:428][565]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1770DB7AD4A9CA1E0C10BCA9AC140CD80.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-08.51.30:435][565]LogFileHelpers: Saving map 'Stage1' took 0.059
+[2025.10.24-08.51.30:442][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.437 ms (total: 44.3 sec)
+[2025.10.24-08.51.30:492][565]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.51.30:492][565]LogContentValidation: Enabled validators:
+[2025.10.24-08.51.30:492][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.51.30:492][565]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.51.30:492][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.51.30:492][565]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.51.30:492][565]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.51.30:492][565]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.51.30:492][565]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.52.09:270][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.52.09:329][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.52.09:366][671]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.52.09:366][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.52.09:366][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.52.09:386][671]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.52.09:387][671]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player559FBE2942E6874051DABE807439A76A.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.52.09:397][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.241 ms (total: 44.4 sec)
+[2025.10.24-08.52.09:443][671]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.52.09:443][671]LogContentValidation: Enabled validators:
+[2025.10.24-08.52.09:443][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.52.09:443][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.52.09:443][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.52.09:443][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.52.09:443][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.52.09:444][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.52.09:444][671]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.52.22:388][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.52.22:445][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.52.22:482][403]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.52.22:482][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.52.22:482][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.52.22:502][403]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.52.22:502][403]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_Player98C18E584F7533960BF2F4815696754A.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.52.22:512][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.218 ms (total: 44.6 sec)
+[2025.10.24-08.52.22:576][403]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.52.22:576][403]LogContentValidation: Enabled validators:
+[2025.10.24-08.52.22:576][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.52.22:576][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.52.22:576][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.52.22:576][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.52.22:576][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.52.22:576][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.52.22:576][403]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
+[2025.10.24-08.52.50:250][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.24-08.52.51:274][  8]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.24-08.52.51:281][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-08.52.51:281][  8]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.52.51:283][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002273s)
+[2025.10.24-08.52.51:283][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.002304s)
+[2025.10.24-08.52.51:301][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.24-08.52.51:311][  8]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.24-08.52.51:312][  8]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2025.10.24-08.52.51:313][  8]LogAudio: Display: Creating Audio Device:                 Id: 186, Scope: Unique, Realtime: True
+[2025.10.24-08.52.51:313][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-08.52.51:313][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-08.52.51:313][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-08.52.51:313][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-08.52.51:313][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-08.52.51:313][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-08.52.51:313][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-08.52.51:313][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-08.52.51:313][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-08.52.51:313][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-08.52.51:313][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-08.52.51:315][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-08.52.51:331][  8]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.24-08.52.51:332][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-08.52.51:332][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-08.52.51:332][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-08.52.51:332][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=186
+[2025.10.24-08.52.51:332][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=186
+[2025.10.24-08.52.51:335][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=186
+[2025.10.24-08.52.51:335][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=186
+[2025.10.24-08.52.51:335][  8]LogInit: FAudioDevice initialized with ID 186.
+[2025.10.24-08.52.51:335][  8]LogAudio: Display: Audio Device (ID: 186) registered with world 'Stage1'.
+[2025.10.24-08.52.51:335][  8]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 186
+[2025.10.24-08.52.51:338][  8]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.24-08.52.51:339][  8]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.24-17.52.51
+[2025.10.24-08.52.51:340][  8]LogWorld: Bringing up level for play took: 0.001754
+[2025.10.24-08.52.51:342][  8]LogOnline: OSS: Created online subsystem instance for: :Context_223
+[2025.10.24-08.52.51:345][  8]PIE: 서버가 로그인했습니다.
+[2025.10.24-08.52.51:346][  8]PIE: 에디터에서 플레이 총 시작 시간 0.066초입니다.
+[2025.10.24-08.53.08:685][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.53.08:685][917]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.24-08.53.08:685][917]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-08.53.08:685][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.53.08:758][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-08.53.08:763][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-08.53.08:779][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-08.53.08:779][917]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 186
+[2025.10.24-08.53.08:779][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=186
+[2025.10.24-08.53.08:781][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=186
+[2025.10.24-08.53.08:786][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-08.53.08:788][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.24-08.53.08:874][918]LogPlayLevel: Display: Destroying online subsystem :Context_223
+[2025.10.24-08.53.09:071][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.53.09:110][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.24-08.53.09:146][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.24-08.53.09:161][933]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.24-08.53.09:161][933]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1C82C92D94C4C6ED0759A39B456C17E7E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.24-08.53.09:168][933]LogFileHelpers: Saving map 'Stage1' took 0.058
+[2025.10.24-08.53.09:181][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.632 ms (total: 44.7 sec)
+[2025.10.24-08.53.09:243][933]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.53.09:243][933]LogContentValidation: Enabled validators:
+[2025.10.24-08.53.09:243][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.53.09:243][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.53.09:243][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.53.09:243][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.53.09:243][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.53.09:243][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.53.09:243][933]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.24-08.53.11:818][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-08.53.11:876][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/BP_Player] ([2] browsable assets)...
+[2025.10.24-08.53.11:912][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_Player.BP_Player]
+[2025.10.24-08.53.11:912][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Player]
+[2025.10.24-08.53.11:912][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Player" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset" SILENT=true
+[2025.10.24-08.53.11:932][ 33]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Player
+[2025.10.24-08.53.11:932][ 33]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_PlayerA76A8CB34F9EB60257775EB68F45C3C4.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/BP_Player.uasset'
+[2025.10.24-08.53.11:943][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.223 ms (total: 44.8 sec)
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: Enabled validators:
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-08.53.11:974][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-08.53.11:974][ 33]AssetCheck: /Game/BluePrint/BP_Player 에셋 유효성 검사 중
