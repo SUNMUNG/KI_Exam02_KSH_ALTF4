@@ -2416,3 +2416,284 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.26-11.17.36:682][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/SFX/TrapSound/11_전기톱날2_Auto1
 [2025.10.26-11.17.36:682][426]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/11_전기톱날2_Auto1F6B4DAED46F60F3CD98010951DC985F8.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Autosaves/Game/Sound/SFX/TrapSound/11_전기톱날2_Auto1.uasset'
 [2025.10.26-11.17.36:682][426]LogFileHelpers: Auto-saving content packages took 0.304
+[2025.10.26-11.17.43:781][446]LogSlate: Window '다른 이름으로 레벨 저장' being destroyed
+[2025.10.26-11.17.44:339][502]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.26-11.17.45:249][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.10.26-11.17.46:049][602]LogSlate: Window '콘텐츠 저장' being destroyed
+[2025.10.26-11.17.46:067][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.26-11.17.46:113][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/10__쇠톱날] ([1] browsable assets)...
+[2025.10.26-11.17.46:113][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/10__쇠톱날]
+[2025.10.26-11.17.46:113][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/10__쇠톱날" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/10__쇠톱날.uasset" SILENT=true
+[2025.10.26-11.17.46:116][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/10__쇠톱날
+[2025.10.26-11.17.46:116][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/10__쇠톱날998D0B3541332B117798BA8E03486D70.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/10__쇠톱날.uasset'
+[2025.10.26-11.17.46:117][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/11_전기톱날2] ([1] browsable assets)...
+[2025.10.26-11.17.46:117][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/11_전기톱날2]
+[2025.10.26-11.17.46:117][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/11_전기톱날2" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/11_전기톱날2.uasset" SILENT=true
+[2025.10.26-11.17.46:123][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/11_전기톱날2
+[2025.10.26-11.17.46:123][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/11_전기톱날29464AF7A4EC20436FF8FAC8D24E8D067.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/11_전기톱날2.uasset'
+[2025.10.26-11.17.46:124][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/12_돌덩이] ([1] browsable assets)...
+[2025.10.26-11.17.46:124][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/12_돌덩이]
+[2025.10.26-11.17.46:124][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/12_돌덩이" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/12_돌덩이.uasset" SILENT=true
+[2025.10.26-11.17.46:127][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/12_돌덩이
+[2025.10.26-11.17.46:127][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/12_돌덩이C771FBC847913A20FFCB77AFAE55CCFE.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/12_돌덩이.uasset'
+[2025.10.26-11.17.46:128][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/14_나무_돌아가는_소리] ([1] browsable assets)...
+[2025.10.26-11.17.46:128][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/14_나무_돌아가는_소리]
+[2025.10.26-11.17.46:132][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/14_나무_돌아가는_소리
+[2025.10.26-11.17.46:132][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/14_나무_돌아가는_소리39B01A4E47A34711E9A075A15EC082AA.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/14_나무_돌아가는_소리.uasset'
+[2025.10.26-11.17.46:132][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/14_오크통_지나갈때] ([1] browsable assets)...
+[2025.10.26-11.17.46:132][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/14_오크통_지나갈때]
+[2025.10.26-11.17.46:136][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/14_오크통_지나갈때
+[2025.10.26-11.17.46:136][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/14_오크통_지나갈때BCA7E9BB40A49A4F607A44AE9BE1F53D.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/14_오크통_지나갈때.uasset'
+[2025.10.26-11.17.46:137][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/16__환호성] ([1] browsable assets)...
+[2025.10.26-11.17.46:137][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/16__환호성]
+[2025.10.26-11.17.46:137][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/16__환호성" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/16__환호성.uasset" SILENT=true
+[2025.10.26-11.17.46:143][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/16__환호성
+[2025.10.26-11.17.46:143][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/16__환호성B7FD735443F786DC826469ACD29EBA2F.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/16__환호성.uasset'
+[2025.10.26-11.17.46:143][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/1_낙상효과음] ([1] browsable assets)...
+[2025.10.26-11.17.46:143][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/1_낙상효과음]
+[2025.10.26-11.17.46:143][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Character/1_낙상효과음" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/1_낙상효과음.uasset" SILENT=true
+[2025.10.26-11.17.46:145][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/1_낙상효과음
+[2025.10.26-11.17.46:145][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/1_낙상효과음DC46FB4F4A6164C030922F91F7AAC94D.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/1_낙상효과음.uasset'
+[2025.10.26-11.17.46:145][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/1_작은대포] ([1] browsable assets)...
+[2025.10.26-11.17.46:146][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/1_작은대포]
+[2025.10.26-11.17.46:146][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/1_작은대포" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/1_작은대포.uasset" SILENT=true
+[2025.10.26-11.17.46:150][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/1_작은대포
+[2025.10.26-11.17.46:150][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/1_작은대포A1969B604923E130863A82B48A76EE25.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/1_작은대포.uasset'
+[2025.10.26-11.17.46:151][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/4_나무그네] ([1] browsable assets)...
+[2025.10.26-11.17.46:151][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/4_나무그네]
+[2025.10.26-11.17.46:151][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/4_나무그네" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/4_나무그네.uasset" SILENT=true
+[2025.10.26-11.17.46:153][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/4_나무그네
+[2025.10.26-11.17.46:153][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/4_나무그네F09585994A642A0BBF80E1BFE9CEB49B.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/4_나무그네.uasset'
+[2025.10.26-11.17.46:153][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/4_풍선생성될때_효과음] ([1] browsable assets)...
+[2025.10.26-11.17.46:153][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/4_풍선생성될때_효과음]
+[2025.10.26-11.17.46:153][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Item/4_풍선생성될때_효과음" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/4_풍선생성될때_효과음.uasset" SILENT=true
+[2025.10.26-11.17.46:156][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/4_풍선생성될때_효과음
+[2025.10.26-11.17.46:156][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/4_풍선생성될때_효과음42E834BC41EB455BF4DEB19759726DC7.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/4_풍선생성될때_효과음.uasset'
+[2025.10.26-11.17.46:157][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/BalloonBoomSound] ([1] browsable assets)...
+[2025.10.26-11.17.46:157][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/BalloonBoomSound]
+[2025.10.26-11.17.46:159][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/BalloonBoomSound
+[2025.10.26-11.17.46:159][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BalloonBoomSound3D559B884A33BC039C7D84BC13303ACF.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/BalloonBoomSound.uasset'
+[2025.10.26-11.17.46:159][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/BalloonDeflate] ([1] browsable assets)...
+[2025.10.26-11.17.46:159][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/BalloonDeflate]
+[2025.10.26-11.17.46:159][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Item/BalloonDeflate" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/BalloonDeflate.uasset" SILENT=true
+[2025.10.26-11.17.46:163][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/BalloonDeflate
+[2025.10.26-11.17.46:163][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BalloonDeflate099F12EA43794BA6532658907A962313.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/BalloonDeflate.uasset'
+[2025.10.26-11.17.46:164][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/Barrier_OFF_Sound] ([1] browsable assets)...
+[2025.10.26-11.17.46:164][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/Barrier_OFF_Sound]
+[2025.10.26-11.17.46:165][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/Barrier_OFF_Sound
+[2025.10.26-11.17.46:165][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Barrier_OFF_SoundAAE5DB624E9C2894A926939A7B3F5F04.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/Barrier_OFF_Sound.uasset'
+[2025.10.26-11.17.46:166][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/Barrier_On_Sound] ([1] browsable assets)...
+[2025.10.26-11.17.46:166][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/Barrier_On_Sound]
+[2025.10.26-11.17.46:167][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/Barrier_On_Sound
+[2025.10.26-11.17.46:167][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Barrier_On_Sound2C6AD153498788702C73FE980DFD69D0.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/Barrier_On_Sound.uasset'
+[2025.10.26-11.17.46:168][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/BoneCrack] ([1] browsable assets)...
+[2025.10.26-11.17.46:168][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/BoneCrack]
+[2025.10.26-11.17.46:168][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Character/BoneCrack" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/BoneCrack.uasset" SILENT=true
+[2025.10.26-11.17.46:170][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/BoneCrack
+[2025.10.26-11.17.46:171][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BoneCrack794DA91844B8C2A5A1EA7592D4759601.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/BoneCrack.uasset'
+[2025.10.26-11.17.46:171][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/Explosion_With_Fire_3] ([1] browsable assets)...
+[2025.10.26-11.17.46:171][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/Explosion_With_Fire_3]
+[2025.10.26-11.17.46:178][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/Explosion_With_Fire_3
+[2025.10.26-11.17.46:178][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Explosion_With_Fire_341D9D4D349CE81F8432541925310C224.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/Explosion_With_Fire_3.uasset'
+[2025.10.26-11.17.46:179][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/Flamingo_Move_01] ([1] browsable assets)...
+[2025.10.26-11.17.46:179][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/Flamingo_Move_01]
+[2025.10.26-11.17.46:180][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/Flamingo_Move_01
+[2025.10.26-11.17.46:180][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Flamingo_Move_01B4BDDA4C4F0ED7581272ECB1E2C7FED0.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/Flamingo_Move_01.uasset'
+[2025.10.26-11.17.46:181][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/Flamingo_Move_02] ([1] browsable assets)...
+[2025.10.26-11.17.46:181][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/Flamingo_Move_02]
+[2025.10.26-11.17.46:183][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/Flamingo_Move_02
+[2025.10.26-11.17.46:183][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Flamingo_Move_020A69E5CF4D0B46C71B0F0F846C0CF0E7.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/Flamingo_Move_02.uasset'
+[2025.10.26-11.17.46:184][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/Footstep_Dirt01] ([1] browsable assets)...
+[2025.10.26-11.17.46:184][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/Footstep_Dirt01]
+[2025.10.26-11.17.46:185][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/Footstep_Dirt01
+[2025.10.26-11.17.46:185][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Footstep_Dirt016CE6E9E04D3963BB6A366FA0C4719EEF.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/Footstep_Dirt01.uasset'
+[2025.10.26-11.17.46:185][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/Footstep_Dirt02] ([1] browsable assets)...
+[2025.10.26-11.17.46:185][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/Footstep_Dirt02]
+[2025.10.26-11.17.46:186][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/Footstep_Dirt02
+[2025.10.26-11.17.46:186][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Footstep_Dirt0214317D1449AB66D217532880B9DAFCE1.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/Footstep_Dirt02.uasset'
+[2025.10.26-11.17.46:187][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/Footstep_Dirt03] ([1] browsable assets)...
+[2025.10.26-11.17.46:187][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/Footstep_Dirt03]
+[2025.10.26-11.17.46:188][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/Footstep_Dirt03
+[2025.10.26-11.17.46:188][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Footstep_Dirt03F1B862FA4035C2D35228D1A4927F6194.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/Footstep_Dirt03.uasset'
+[2025.10.26-11.17.46:188][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/FuseLoop_Sound] ([1] browsable assets)...
+[2025.10.26-11.17.46:188][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/FuseLoop_Sound]
+[2025.10.26-11.17.46:195][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/FuseLoop_Sound
+[2025.10.26-11.17.46:195][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/FuseLoop_Sound8E63BF2B480647301B9946989C95B207.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/FuseLoop_Sound.uasset'
+[2025.10.26-11.17.46:196][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/FuseSound_01] ([1] browsable assets)...
+[2025.10.26-11.17.46:196][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/FuseSound_01]
+[2025.10.26-11.17.46:196][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Item/FuseSound_01" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/FuseSound_01.uasset" SILENT=true
+[2025.10.26-11.17.46:199][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/FuseSound_01
+[2025.10.26-11.17.46:199][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/FuseSound_019647B23E40E189C2103070A4FD7770F0.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/FuseSound_01.uasset'
+[2025.10.26-11.17.46:200][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Enemy/HorseLoop_RUN] ([1] browsable assets)...
+[2025.10.26-11.17.46:200][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Enemy/HorseLoop_RUN]
+[2025.10.26-11.17.46:200][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Enemy/HorseLoop_RUN" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Enemy/HorseLoop_RUN.uasset" SILENT=true
+[2025.10.26-11.17.46:205][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Enemy/HorseLoop_RUN
+[2025.10.26-11.17.46:205][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/HorseLoop_RUNEA570060461F204686A6399E0A83BD2F.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Enemy/HorseLoop_RUN.uasset'
+[2025.10.26-11.17.46:205][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/Savesign_Borken_Sound] ([1] browsable assets)...
+[2025.10.26-11.17.46:205][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/Savesign_Borken_Sound]
+[2025.10.26-11.17.46:207][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/Savesign_Borken_Sound
+[2025.10.26-11.17.46:207][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Savesign_Borken_Sound2B0B87994449193DC502DDA1473703BD.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/Savesign_Borken_Sound.uasset'
+[2025.10.26-11.17.46:208][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Item/SaveSign_SpawnSound] ([1] browsable assets)...
+[2025.10.26-11.17.46:208][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Item/SaveSign_SpawnSound]
+[2025.10.26-11.17.46:213][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Item/SaveSign_SpawnSound
+[2025.10.26-11.17.46:213][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/SaveSign_SpawnSound75C372584FA2B0948D56A8AD599A3D57.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Item/SaveSign_SpawnSound.uasset'
+[2025.10.26-11.17.46:213][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/SkullTrap_CloseShake] ([1] browsable assets)...
+[2025.10.26-11.17.46:213][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/SkullTrap_CloseShake]
+[2025.10.26-11.17.46:217][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/SkullTrap_CloseShake
+[2025.10.26-11.17.46:217][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/SkullTrap_CloseShake1F54612F4CC3DF57300D84881139680A.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/SkullTrap_CloseShake.uasset'
+[2025.10.26-11.17.46:218][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/SkullTrap_Shake_01] ([1] browsable assets)...
+[2025.10.26-11.17.46:218][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/SkullTrap_Shake_01]
+[2025.10.26-11.17.46:219][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/SkullTrap_Shake_01
+[2025.10.26-11.17.46:219][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/SkullTrap_Shake_018F0770A141C4477FA91CDE9E9201A0EE.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/SkullTrap_Shake_01.uasset'
+[2025.10.26-11.17.46:220][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/SkullTrap_Shake_02] ([1] browsable assets)...
+[2025.10.26-11.17.46:220][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/SkullTrap_Shake_02]
+[2025.10.26-11.17.46:222][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/SkullTrap_Shake_02
+[2025.10.26-11.17.46:222][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/SkullTrap_Shake_02F23C7EE8481F27E19C6238883042A94B.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/SkullTrap_Shake_02.uasset'
+[2025.10.26-11.17.46:223][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/SkullTrap_Shake_03] ([1] browsable assets)...
+[2025.10.26-11.17.46:223][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/SkullTrap_Shake_03]
+[2025.10.26-11.17.46:224][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/SkullTrap_Shake_03
+[2025.10.26-11.17.46:224][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/SkullTrap_Shake_03BB530EA74982BBCB426E899082AC5C2C.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/SkullTrap_Shake_03.uasset'
+[2025.10.26-11.17.46:225][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/Underwater_altf42_Sound] ([1] browsable assets)...
+[2025.10.26-11.17.46:225][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/Underwater_altf42_Sound]
+[2025.10.26-11.17.46:231][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/Underwater_altf42_Sound
+[2025.10.26-11.17.46:231][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Underwater_altf42_SoundFC80ECF2476AC3DF4F3AD286242883B1.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/Underwater_altf42_Sound.uasset'
+[2025.10.26-11.17.46:232][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_death_high_03] ([1] browsable assets)...
+[2025.10.26-11.17.46:232][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_death_high_03]
+[2025.10.26-11.17.46:235][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_death_high_03
+[2025.10.26-11.17.46:235][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_death_high_0395A035034363D14D5B5F2C863C6ADF20.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_death_high_03.uasset'
+[2025.10.26-11.17.46:236][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_death_high_04] ([1] browsable assets)...
+[2025.10.26-11.17.46:236][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_death_high_04]
+[2025.10.26-11.17.46:239][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_death_high_04
+[2025.10.26-11.17.46:239][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_death_high_04E7972573446C38750F0FB19E1A1A7ECD.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_death_high_04.uasset'
+[2025.10.26-11.17.46:239][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_death_high_06] ([1] browsable assets)...
+[2025.10.26-11.17.46:239][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_death_high_06]
+[2025.10.26-11.17.46:243][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_death_high_06
+[2025.10.26-11.17.46:243][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_death_high_06C65B8E244615CF9410F4B7AE4F44A760.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_death_high_06.uasset'
+[2025.10.26-11.17.46:244][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_death_high_07] ([1] browsable assets)...
+[2025.10.26-11.17.46:244][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_death_high_07]
+[2025.10.26-11.17.46:246][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_death_high_07
+[2025.10.26-11.17.46:246][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_death_high_0785477A0A44500B268AD41D8992008BA0.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_death_high_07.uasset'
+[2025.10.26-11.17.46:246][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_01] ([1] browsable assets)...
+[2025.10.26-11.17.46:246][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_01]
+[2025.10.26-11.17.46:248][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_01
+[2025.10.26-11.17.46:248][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_hurt_pain_set_1_01EE92F51D4B2060B811A9A9AD1CB2DD26.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_01.uasset'
+[2025.10.26-11.17.46:248][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_02] ([1] browsable assets)...
+[2025.10.26-11.17.46:248][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_02]
+[2025.10.26-11.17.46:249][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_02
+[2025.10.26-11.17.46:249][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_hurt_pain_set_1_02FA93125E4750947C855A0BB2FB042404.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_02.uasset'
+[2025.10.26-11.17.46:250][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_03] ([1] browsable assets)...
+[2025.10.26-11.17.46:250][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_03]
+[2025.10.26-11.17.46:251][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_03
+[2025.10.26-11.17.46:251][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_hurt_pain_set_1_03031E41C54ED56FB3AA196F8E55BC988F.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_03.uasset'
+[2025.10.26-11.17.46:252][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_04] ([1] browsable assets)...
+[2025.10.26-11.17.46:252][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_04]
+[2025.10.26-11.17.46:254][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_04
+[2025.10.26-11.17.46:254][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/voice_male_b_hurt_pain_set_1_0476A26DF34A45C8DB7C55A89D9B4704D9.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_04.uasset'
+[2025.10.26-11.17.46:255][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/경찰경적] ([1] browsable assets)...
+[2025.10.26-11.17.46:255][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/경찰경적]
+[2025.10.26-11.17.46:255][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/경찰경적" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/경찰경적.uasset" SILENT=true
+[2025.10.26-11.17.46:260][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/경찰경적
+[2025.10.26-11.17.46:260][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/경찰경적EB32B9DD4393226CB86C9793B2B26528.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/경찰경적.uasset'
+[2025.10.26-11.17.46:261][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/나무돌아가는소리] ([1] browsable assets)...
+[2025.10.26-11.17.46:261][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/나무돌아가는소리]
+[2025.10.26-11.17.46:261][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/나무돌아가는소리" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/나무돌아가는소리.uasset" SILENT=true
+[2025.10.26-11.17.46:265][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/나무돌아가는소리
+[2025.10.26-11.17.46:265][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/나무돌아가는소리93E26A5C4D065A7818A5E9AA4234B219.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/나무돌아가는소리.uasset'
+[2025.10.26-11.17.46:266][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/대포소리] ([1] browsable assets)...
+[2025.10.26-11.17.46:267][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/대포소리]
+[2025.10.26-11.17.46:267][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/대포소리" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/대포소리.uasset" SILENT=true
+[2025.10.26-11.17.46:270][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/대포소리
+[2025.10.26-11.17.46:270][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/대포소리54B865C74E2BC06B54F419B43512BBC0.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/대포소리.uasset'
+[2025.10.26-11.17.46:270][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/대포소리2] ([1] browsable assets)...
+[2025.10.26-11.17.46:270][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/대포소리2]
+[2025.10.26-11.17.46:272][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/대포소리2" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/대포소리2.uasset" SILENT=true
+[2025.10.26-11.17.46:275][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/대포소리2
+[2025.10.26-11.17.46:275][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/대포소리2FCD1ECEA46F8A60A60CA24B08052DE3E.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/대포소리2.uasset'
+[2025.10.26-11.17.46:276][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/문발판소리] ([1] browsable assets)...
+[2025.10.26-11.17.46:276][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/문발판소리]
+[2025.10.26-11.17.46:276][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/문발판소리" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/문발판소리.uasset" SILENT=true
+[2025.10.26-11.17.46:277][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/문발판소리
+[2025.10.26-11.17.46:278][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/문발판소리E311D68A4B8B0A4CDAD7E59C5A175D11.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/문발판소리.uasset'
+[2025.10.26-11.17.46:278][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/물고기첨벙1] ([1] browsable assets)...
+[2025.10.26-11.17.46:278][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/물고기첨벙1]
+[2025.10.26-11.17.46:278][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/물고기첨벙1" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/물고기첨벙1.uasset" SILENT=true
+[2025.10.26-11.17.46:282][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/물고기첨벙1
+[2025.10.26-11.17.46:282][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/물고기첨벙18367AB0D41631A2754C50C89CDA82DF8.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/물고기첨벙1.uasset'
+[2025.10.26-11.17.46:282][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/물에빠지는효과음_Fix] ([1] browsable assets)...
+[2025.10.26-11.17.46:282][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/물에빠지는효과음_Fix]
+[2025.10.26-11.17.46:285][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/물에빠지는효과음_Fix
+[2025.10.26-11.17.46:285][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/물에빠지는효과음_Fix44AAB0934107639F78236DB63F98D125.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/물에빠지는효과음_Fix.uasset'
+[2025.10.26-11.17.46:286][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/방방] ([1] browsable assets)...
+[2025.10.26-11.17.46:286][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/방방]
+[2025.10.26-11.17.46:286][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/방방" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/방방.uasset" SILENT=true
+[2025.10.26-11.17.46:287][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/방방
+[2025.10.26-11.17.46:287][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/방방4BA2FE494660816B248DCEB30FC32219.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/방방.uasset'
+[2025.10.26-11.17.46:289][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/아이템효과음1] ([1] browsable assets)...
+[2025.10.26-11.17.46:289][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/아이템효과음1]
+[2025.10.26-11.17.46:289][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/아이템효과음1" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/아이템효과음1.uasset" SILENT=true
+[2025.10.26-11.17.46:292][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/아이템효과음1
+[2025.10.26-11.17.46:292][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/아이템효과음1DF1A8CBB4C497EF916A7F4B6C7274BA5.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/아이템효과음1.uasset'
+[2025.10.26-11.17.46:292][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/TrapSound/폭죽소리1] ([1] browsable assets)...
+[2025.10.26-11.17.46:292][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/TrapSound/폭죽소리1]
+[2025.10.26-11.17.46:292][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/TrapSound/폭죽소리1" FILE="../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/폭죽소리1.uasset" SILENT=true
+[2025.10.26-11.17.46:295][602]LogSavePackage: Moving output files for package: /Game/Sound/SFX/TrapSound/폭죽소리1
+[2025.10.26-11.17.46:295][602]LogSavePackage: Moving '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Saved/폭죽소리1E6FCFB7F474EE1C48891E3939465AD6D.tmp' to '../../../../../../Users/tomat/Documents/GitHub/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/SFX/TrapSound/폭죽소리1.uasset'
+[2025.10.26-11.17.46:308][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.156 ms (total: 1.28 sec)
+[2025.10.26-11.17.46:355][602]LogContentValidation: Display: Starting to validate 49 assets
+[2025.10.26-11.17.46:355][602]LogContentValidation: Enabled validators:
+[2025.10.26-11.17.46:355][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.26-11.17.46:355][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.26-11.17.46:355][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.26-11.17.46:355][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.26-11.17.46:355][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.26-11.17.46:355][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/10__쇠톱날 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/11_전기톱날2 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/12_돌덩이 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/14_나무_돌아가는_소리 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/14_오크통_지나갈때 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/16__환호성 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/Character/1_낙상효과음 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/1_작은대포 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/4_나무그네 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/Item/4_풍선생성될때_효과음 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/TrapSound/BalloonBoomSound 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/Item/BalloonDeflate 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/Item/Barrier_OFF_Sound 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/Item/Barrier_On_Sound 에셋 유효성 검사 중
+[2025.10.26-11.17.46:356][602]AssetCheck: /Game/Sound/SFX/Character/BoneCrack 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/Explosion_With_Fire_3 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Item/Flamingo_Move_01 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Item/Flamingo_Move_02 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/Footstep_Dirt01 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/Footstep_Dirt02 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/Footstep_Dirt03 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/FuseLoop_Sound 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Item/FuseSound_01 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Enemy/HorseLoop_RUN 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Item/Savesign_Borken_Sound 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Item/SaveSign_SpawnSound 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/SkullTrap_CloseShake 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/SkullTrap_Shake_01 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/SkullTrap_Shake_02 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/SkullTrap_Shake_03 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/Underwater_altf42_Sound 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_death_high_03 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_death_high_04 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_death_high_06 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_death_high_07 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_01 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_02 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_03 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/Character/voice_male_b_hurt_pain_set_1_04 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/경찰경적 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/나무돌아가는소리 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/대포소리 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/대포소리2 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/문발판소리 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/물고기첨벙1 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/물에빠지는효과음_Fix 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/방방 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/아이템효과음1 에셋 유효성 검사 중
+[2025.10.26-11.17.46:357][602]AssetCheck: /Game/Sound/SFX/TrapSound/폭죽소리1 에셋 유효성 검사 중
+[2025.10.26-11.17.47:044][676]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
