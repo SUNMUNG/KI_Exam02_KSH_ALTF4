@@ -9885,3 +9885,301 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.27-07.35.23:206][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.27-07.35.23:206][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.27-07.35.23:206][334]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.37.31:291][545]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.AudioVolume
+[2025.10.27-07.37.31:291][545]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.AudioVolume
+[2025.10.27-07.37.31:293][545]LogActorFactory: Actor Factory spawned Class /Script/Engine.AudioVolume as actor: AudioVolume /Game/Map/Stage1.Stage1:PersistentLevel.AudioVolume_1
+[2025.10.27-07.37.31:295][545]LogActorFactory: Actor Factory spawned Class /Script/Engine.AudioVolume as actor: AudioVolume /Game/Map/Stage1.Stage1:PersistentLevel.AudioVolume_1
+[2025.10.27-07.37.38:242][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7506.733398
+[2025.10.27-07.37.38:485][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-07.37.38:485][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7506.966309, Update Interval: 336.071045
+[2025.10.27-07.37.51:119][705]LogSlate: Took 0.004046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.10.27-07.37.51:119][705]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '⏎ (U+23ce)'
+[2025.10.27-07.37.51:124][705]LogSlate: Took 0.003521 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.27-07.38.00:839][762]Cmd: DELETE
+[2025.10.27-07.38.00:839][762]Cmd: ACTOR DELETE
+[2025.10.27-07.38.00:842][762]LogEditorActor: Deleted Actor: AudioVolume
+[2025.10.27-07.38.00:874][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.27-07.38.00:882][762]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.27-07.38.01:711][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.38.01:738][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.38.01:770][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.27-07.38.01:782][840]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.38.01:783][840]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1593E2A6F483306400AD42EBEF57BB009.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.38.01:789][840]LogFileHelpers: Saving map 'Stage1' took 0.051
+[2025.10.27-07.38.01:794][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.721 ms (total: 18.0 sec)
+[2025.10.27-07.38.01:855][840]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.38.01:855][840]LogContentValidation: Enabled validators:
+[2025.10.27-07.38.01:855][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.38.01:855][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.38.01:855][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.38.01:855][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.38.01:855][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.38.01:855][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.38.01:855][840]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.38.10:670][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.38.10:721][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.38.10:760][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.27-07.38.10:771][721]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.38.10:772][721]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1CE28B343420AFD9A2AE300B5AD9BD635.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.38.10:778][721]LogFileHelpers: Saving map 'Stage1' took 0.057
+[2025.10.27-07.38.10:784][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.425 ms (total: 18.2 sec)
+[2025.10.27-07.38.10:837][721]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.38.10:838][721]LogContentValidation: Enabled validators:
+[2025.10.27-07.38.10:838][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.38.10:838][721]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.38.10:838][721]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.38.10:838][721]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.38.10:838][721]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.38.10:838][721]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.38.10:838][721]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.39.04:828][273]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.27-07.39.04:839][273]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.27-07.39.04:852][274]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.27-07.39.07:849][590]LogContentBrowser: Attempting asset rename: 새 폴더 -> Item
+[2025.10.27-07.39.07:850][590]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.27-07.39.08:440][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.39.08:488][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.39.08:522][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.27-07.39.08:533][650]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.39.08:534][650]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1BC30F3EB4C99F3EF91E6D88A7D1A225F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.39.08:540][650]LogFileHelpers: Saving map 'Stage1' took 0.052
+[2025.10.27-07.39.08:546][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.500 ms (total: 18.3 sec)
+[2025.10.27-07.39.08:587][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.39.08:587][650]LogContentValidation: Enabled validators:
+[2025.10.27-07.39.08:587][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.39.08:587][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.39.08:587][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.39.08:587][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.39.08:587][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.39.08:587][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.39.08:587][650]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.39.09:635][728]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.27-07.39.09:658][728]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.27-07.39.09:671][729]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.27-07.39.12:407][ 15]LogContentBrowser: Attempting asset rename: 새 폴더 -> Trap
+[2025.10.27-07.39.12:407][ 15]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.27-07.39.12:855][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.39.12:908][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.39.12:941][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.27-07.39.12:952][ 59]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.39.12:953][ 59]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1707E43904516C7B3034D25B4FA14797B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.39.12:958][ 59]LogFileHelpers: Saving map 'Stage1' took 0.051
+[2025.10.27-07.39.12:965][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.554 ms (total: 18.4 sec)
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: Enabled validators:
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.39.13:021][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.39.13:021][ 59]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.39.16:713][438]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.27-07.39.16:735][438]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.27-07.39.16:747][439]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.27-07.39.18:086][586]LogContentBrowser: Attempting asset rename: 새 폴더 -> Enemy
+[2025.10.27-07.39.18:087][586]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.27-07.39.18:387][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.39.18:438][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.39.18:472][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.27-07.39.18:482][615]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.39.18:483][615]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1925057284E3D2FB4C167C881B014821F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.39.18:489][615]LogFileHelpers: Saving map 'Stage1' took 0.051
+[2025.10.27-07.39.18:495][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.546 ms (total: 18.5 sec)
+[2025.10.27-07.39.18:555][615]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.39.18:555][615]LogContentValidation: Enabled validators:
+[2025.10.27-07.39.18:555][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.39.18:555][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.39.18:555][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.39.18:555][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.39.18:555][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.39.18:555][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.39.18:555][615]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.40.06:473][245]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-07.40.06:484][245]LogAudioDerivedData: Display: BINKA 압축 오디오 포맷 BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END 웨이브 Altf4_Music_01_Round_Round 빌드 중...
+[2025.10.27-07.40.06:576][245]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round
+[2025.10.27-07.40.06:576][245]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round
+[2025.10.27-07.40.06:576][245]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-07.40.06:578][245]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_0
+[2025.10.27-07.40.06:579][245]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_0
+[2025.10.27-07.40.07:571][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.27-07.40.07:575][316]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.27-07.40.07:828][329]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round
+[2025.10.27-07.40.07:828][329]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round
+[2025.10.27-07.40.07:829][329]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_1
+[2025.10.27-07.40.07:829][329]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_1
+[2025.10.27-07.40.08:179][358]LogAudioDerivedData: Display: Altf4_Music_01_Round_Round 15.68% 압축됨(58,070KB에서 9,104KB로) BINKA 사용, 퀄리티 80, 퀄리티 모디파이어 1.00
+[2025.10.27-07.40.08:195][359]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=37, Chunk0=28 bytes, Chunk1=262005 bytes, ChunkN=261183)
+[2025.10.27-07.40.08:195][359]LogAudio: Display: Sound Wave SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round is very large, requiring 37 chunks.
+[2025.10.27-07.40.08:452][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.27-07.40.08:455][381]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.27-07.40.08:460][381]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round
+[2025.10.27-07.40.08:460][381]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round
+[2025.10.27-07.40.08:461][381]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_2
+[2025.10.27-07.40.08:462][381]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/BGM/Altf4_Music_01_Round_Round.Altf4_Music_01_Round_Round as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_2
+[2025.10.27-07.40.49:307][ 95]LogContentBrowser: Deferred new asset file creation: Altf4_Music_01_Round_Round_Cue
+[2025.10.27-07.40.49:318][ 95]LogContentBrowser: Creating deferred item: Altf4_Music_01_Round_Round_Cue
+[2025.10.27-07.40.49:333][ 96]LogContentBrowser: Renaming the item being created (Deferred Item: Altf4_Music_01_Round_Round_Cue).
+[2025.10.27-07.40.58:726][ 68]LogContentBrowser: Attempting asset rename: Altf4_Music_01_Round_Round_Cue -> MainBGMQueue
+[2025.10.27-07.40.58:730][ 68]LogContentBrowser: End creating deferred item Altf4_Music_01_Round_Round_Cue
+[2025.10.27-07.40.59:101][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.40.59:136][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/BGM/MainBGMQueue] ([1] browsable assets)...
+[2025.10.27-07.40.59:136][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/BGM/MainBGMQueue]
+[2025.10.27-07.40.59:136][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/BGM/MainBGMQueue" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/BGM/MainBGMQueue.uasset" SILENT=true
+[2025.10.27-07.40.59:137][104]LogSavePackage: Moving output files for package: /Game/Sound/BGM/MainBGMQueue
+[2025.10.27-07.40.59:137][104]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/MainBGMQueue345EFE88497A2546A6B9CE999DC48108.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/BGM/MainBGMQueue.uasset'
+[2025.10.27-07.40.59:144][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.652 ms (total: 18.5 sec)
+[2025.10.27-07.40.59:186][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.40.59:186][104]LogContentValidation: Enabled validators:
+[2025.10.27-07.40.59:186][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.40.59:186][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.40.59:186][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.40.59:186][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.40.59:186][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.40.59:186][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.40.59:186][104]AssetCheck: /Game/Sound/BGM/MainBGMQueue 에셋 유효성 검사 중
+[2025.10.27-07.41.01:231][298]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue
+[2025.10.27-07.41.31:536][435]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue was zero and has changed. Consider manually Re-saving the asset
+[2025.10.27-07.41.33:701][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.41.33:753][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/BGM/MainBGMQueue] ([1] browsable assets)...
+[2025.10.27-07.41.33:753][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/BGM/MainBGMQueue]
+[2025.10.27-07.41.33:753][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/BGM/MainBGMQueue" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/BGM/MainBGMQueue.uasset" SILENT=true
+[2025.10.27-07.41.33:755][608]LogSavePackage: Moving output files for package: /Game/Sound/BGM/MainBGMQueue
+[2025.10.27-07.41.33:755][608]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/MainBGMQueue889DB1994B9A062814EC71AC95F8687A.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/BGM/MainBGMQueue.uasset'
+[2025.10.27-07.41.33:763][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.748 ms (total: 18.6 sec)
+[2025.10.27-07.41.33:805][608]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.41.33:805][608]LogContentValidation: Enabled validators:
+[2025.10.27-07.41.33:805][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.41.33:805][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.41.33:805][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.41.33:805][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.41.33:805][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.41.33:805][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.41.33:805][608]AssetCheck: /Game/Sound/BGM/MainBGMQueue 에셋 유효성 검사 중
+[2025.10.27-07.42.05:265][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.42.05:320][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/BGM/MainBGMQueue] ([1] browsable assets)...
+[2025.10.27-07.42.05:320][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/BGM/MainBGMQueue]
+[2025.10.27-07.42.05:320][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/BGM/MainBGMQueue" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/BGM/MainBGMQueue.uasset" SILENT=true
+[2025.10.27-07.42.05:321][655]LogSavePackage: Moving output files for package: /Game/Sound/BGM/MainBGMQueue
+[2025.10.27-07.42.05:322][655]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/MainBGMQueue26112A1345CDC5543D7FAAA12A08269B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Sound/BGM/MainBGMQueue.uasset'
+[2025.10.27-07.42.05:330][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.614 ms (total: 18.6 sec)
+[2025.10.27-07.42.05:388][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.42.05:388][655]LogContentValidation: Enabled validators:
+[2025.10.27-07.42.05:388][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.42.05:388][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.42.05:388][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.42.05:388][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.42.05:388][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.42.05:388][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.42.05:389][655]AssetCheck: /Game/Sound/BGM/MainBGMQueue 에셋 유효성 검사 중
+[2025.10.27-07.42.09:257][948]Cmd: DELETE
+[2025.10.27-07.42.09:257][948]Cmd: ACTOR DELETE
+[2025.10.27-07.42.09:260][948]LogEditorActor: Deleted Actor: AmbientSound
+[2025.10.27-07.42.09:316][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.27-07.42.09:321][948]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2025.10.27-07.42.27:723][356]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue
+[2025.10.27-07.42.27:723][356]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue
+[2025.10.27-07.42.27:723][356]LogActorFactory: Actor Factory spawned SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_3
+[2025.10.27-07.42.27:724][356]LogActorFactory: Actor Factory spawned SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_3
+[2025.10.27-07.42.28:058][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.27-07.42.28:064][390]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.27-07.42.28:068][390]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue
+[2025.10.27-07.42.28:068][390]LogActorFactory: Actor Factory attempting to spawn SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue
+[2025.10.27-07.42.28:070][390]LogActorFactory: Actor Factory spawned SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_4
+[2025.10.27-07.42.28:070][390]LogActorFactory: Actor Factory spawned SoundCue /Game/Sound/BGM/MainBGMQueue.MainBGMQueue as actor: AmbientSound /Game/Map/Stage1.Stage1:PersistentLevel.AmbientSound_4
+[2025.10.27-07.42.31:459][724]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-07.42.31:710][749]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-07.42.31:841][762]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-07.42.31:963][774]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-07.42.31:983][776]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-07.42.32:044][782]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.27-07.42.32:800][858]Cmd: DELETE
+[2025.10.27-07.42.32:800][858]Cmd: ACTOR DELETE
+[2025.10.27-07.42.32:802][858]LogEditorActor: Deleted Actor: AmbientSound
+[2025.10.27-07.42.32:822][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.27-07.42.32:826][858]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.10.27-07.42.33:425][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.42.33:486][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.42.33:515][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.27-07.42.33:528][922]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.42.33:528][922]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1B49EA03C46076A212669BA9181F69665.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.42.33:534][922]LogFileHelpers: Saving map 'Stage1' took 0.048
+[2025.10.27-07.42.33:543][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.971 ms (total: 18.8 sec)
+[2025.10.27-07.42.33:602][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.42.33:602][922]LogContentValidation: Enabled validators:
+[2025.10.27-07.42.33:602][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.42.33:602][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.42.33:602][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.42.33:602][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.42.33:602][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.42.33:602][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.42.33:602][922]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.43.07:233][321]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/Stage1.Stage1:PersistentLevel.Stage1
+[2025.10.27-07.43.07:234][321]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.27-07.43.30:816][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.43.30:868][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.43.30:936][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.27-07.43.30:951][320]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.43.30:951][320]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage179713C2946AD8765C30E718FC2BA50FD.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.43.30:957][320]LogFileHelpers: Saving map 'Stage1' took 0.089
+[2025.10.27-07.43.30:963][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.741 ms (total: 18.9 sec)
+[2025.10.27-07.43.31:017][320]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.43.31:017][320]LogContentValidation: Enabled validators:
+[2025.10.27-07.43.31:017][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.43.31:018][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.43.31:018][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.43.31:018][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.43.31:018][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.43.31:018][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.43.31:018][320]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.43.31:352][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.27-07.43.54:273][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.27-07.43.55:351][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7883.826660
+[2025.10.27-07.43.55:610][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-07.43.55:610][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7884.073730, Update Interval: 302.885834
+[2025.10.27-07.44.24:659][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.44.24:703][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.44.24:735][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.10.27-07.44.24:749][850]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.44.24:749][850]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage14C24873342A283F041AB1A80268C78E4.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.44.24:756][850]LogFileHelpers: Saving map 'Stage1' took 0.053
+[2025.10.27-07.44.24:762][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.967 ms (total: 19.0 sec)
+[2025.10.27-07.44.24:817][850]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.44.24:817][850]LogContentValidation: Enabled validators:
+[2025.10.27-07.44.24:818][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.44.24:818][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.44.24:818][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.44.24:818][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.44.24:818][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.44.24:818][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.44.24:818][850]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.27-07.44.27:732][869]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.10.27-07.44.27:733][869]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.10.27-07.45.09:007][843]LogSlate: Window '팹' being destroyed
+[2025.10.27-07.45.10:508][  0]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.27-07.45.10:509][  0]LogWebBrowser: Deleting browser for Url=https://www.fab.com/ko/plugins/ue5/search?is_free=1&listing_types=3d-model&q=skybox&categories=objects-decor.
+[2025.10.27-07.45.31:706][162]LogStreaming: Display: FlushAsyncLoading(697): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-07.45.31:707][162]LogContentBrowser: Deferred new asset file creation: Bird_bgm_Cue
+[2025.10.27-07.45.31:708][162]LogAudioDerivedData: Display: BINKA 압축 오디오 포맷 BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END 웨이브 Bird_bgm 빌드 중...
+[2025.10.27-07.45.31:727][162]LogContentBrowser: Creating deferred item: Bird_bgm_Cue
+[2025.10.27-07.45.31:747][163]LogContentBrowser: Renaming the item being created (Deferred Item: Bird_bgm_Cue).
+[2025.10.27-07.45.32:957][284]LogAudioDerivedData: Display: Bird_bgm 14.38% 압축됨(40,781KB에서 5,863KB로) BINKA 사용, 퀄리티 80, 퀄리티 모디파이어 1.00
+[2025.10.27-07.45.32:971][284]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound/BGM/Bird_bgm.Bird_bgm: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=25, Chunk0=28 bytes, Chunk1=261113 bytes, ChunkN=260621)
+[2025.10.27-07.45.40:841][ 92]LogContentBrowser: Attempting asset rename: Bird_bgm_Cue -> Env_Bird
+[2025.10.27-07.45.40:843][ 92]LogContentBrowser: End creating deferred item Bird_bgm_Cue
+[2025.10.27-07.45.54:638][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-07.45.54:685][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-07.45.54:721][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.27-07.45.54:733][491]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.27-07.45.54:734][491]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1135BCB384481697C23AF139D65D67906.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.27-07.45.54:740][491]LogFileHelpers: Saving map 'Stage1' took 0.055
+[2025.10.27-07.45.54:746][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.362 ms (total: 19.1 sec)
+[2025.10.27-07.45.54:801][491]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-07.45.54:801][491]LogContentValidation: Enabled validators:
+[2025.10.27-07.45.54:801][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-07.45.54:801][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-07.45.54:801][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-07.45.54:801][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-07.45.54:801][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-07.45.54:801][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-07.45.54:801][491]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
