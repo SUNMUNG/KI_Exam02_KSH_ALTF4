@@ -36570,3 +36570,1052 @@ Script Stack (0 frames) :
 [2025.10.28-07.43.04:314][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.28-07.43.04:314][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.28-07.43.04:314][125]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.28-07.43.41:489][763]LogStreaming: Display: FlushAsyncLoading(1302): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-07.43.41:490][763]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar
+[2025.10.28-07.43.41:491][763]LogStaticMesh: Display: Wood_Pillar스태틱 메시 빌드 중(필요 메모리 예상: 1.033401MB)...
+[2025.10.28-07.43.41:495][763]LogStaticMesh: Adjacency [0.00s], tris: 556, UVs 2
+[2025.10.28-07.43.41:496][763]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2025.10.28-07.43.41:496][763]LogStaticMesh: Leaves [0.00s]
+[2025.10.28-07.43.41:506][763]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Mesh/Trap/Trap1/Wood_Pillar)...
+[2025.10.28-07.43.41:514][763]LogStaticMesh: Reduce [0.02s]
+[2025.10.28-07.43.41:518][763]LogStaticMesh: Fallback [0.00s], num tris: 522
+[2025.10.28-07.43.41:519][763]LogStaticMesh: ConstrainClusters:
+[2025.10.28-07.43.41:519][763]LogStaticMesh:   Input: 14 Clusters, 1312 Triangles and 1115 Vertices
+[2025.10.28-07.43.41:519][763]LogStaticMesh:   Output without splits: 14 Clusters, 1312 Triangles and 1128 Vertices
+[2025.10.28-07.43.41:519][763]LogStaticMesh:   Output with splits: 14 Clusters, 1312 Triangles and 1128 Vertices
+[2025.10.28-07.43.41:519][763]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.28-07.43.41:519][763]LogStaticMesh: WritePages:
+[2025.10.28-07.43.41:519][763]LogStaticMesh:   Root: GPU size: 19780 bytes. 1 Pages. 19780.000 bytes per page (60.364% utilization).
+[2025.10.28-07.43.41:519][763]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.28-07.43.41:519][763]LogStaticMesh:   Page data disk size: 15908 bytes. Fixup data size: 72 bytes.
+[2025.10.28-07.43.41:519][763]LogStaticMesh:   Total GPU size: 19780 bytes, Total disk size: 15980 bytes.
+[2025.10.28-07.43.41:519][763]LogStaticMesh: Encode [0.00s]
+[2025.10.28-07.43.41:519][763]LogStaticMesh: Nanite build [0.02s]
+
+[2025.10.28-07.43.41:523][763]LogStaticMesh: Built static mesh [0.03s] /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar
+[2025.10.28-07.43.41:558][763]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_190
+[2025.10.28-07.43.51:352][312]LogSlate: Window 'Wood_Pillar' being destroyed
+[2025.10.28-07.43.51:356][312]LogSlate: Window 'Wood_Pillar' being destroyed
+[2025.10.28-07.43.51:360][312]LogWorld: UWorld::CleanupWorld for World_186, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.43.51:360][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.43.51:516][312]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.28-07.43.51:516][312]LogWorld: UWorld::CleanupWorld for World_188, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.43.51:516][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.43.51:697][312]LogWorld: UWorld::CleanupWorld for World_190, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.43.51:697][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.43.51:870][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.28-07.43.52:421][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar
+[2025.10.28-07.43.52:421][349]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar
+[2025.10.28-07.43.52:422][349]LogActorFactory: Actor Factory spawned StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar as actor: StaticMeshActor /Game/Map/Stage1.Stage1:PersistentLevel.StaticMeshActor_6
+[2025.10.28-07.43.53:262][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.28-07.43.53:271][407]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.28-07.43.53:276][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar
+[2025.10.28-07.43.53:276][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar
+[2025.10.28-07.43.53:278][407]LogActorFactory: Actor Factory spawned StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar as actor: StaticMeshActor /Game/Map/Stage1.Stage1:PersistentLevel.StaticMeshActor_8
+[2025.10.28-07.44.10:828][795]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Mesh/Trap/Trap1/Wood_Pillar.Wood_Pillar
+[2025.10.28-07.44.10:879][795]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_191
+[2025.10.28-07.44.13:467][879]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Mesh/Trap/Trap1/MI_Pillar.MI_Pillar
+[2025.10.28-07.44.13:472][879]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_192
+[2025.10.28-07.44.13:804][879]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.28-07.44.13:804][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.13:804][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.13:804][879]MaterialEditorStats: Shader Count: 0
+[2025.10.28-07.44.13:804][879]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.13:911][881]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.28-07.44.13:911][881]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.28-07.44.13:911][881]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.28-07.44.13:911][881]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.13:911][881]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.13:911][881]MaterialEditorStats: Shader Count: 3
+[2025.10.28-07.44.13:911][881]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.24:498][509]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.28-07.44.24:498][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.28-07.44.24:498][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.24:498][509]MaterialEditorStats: Shader Count: 0
+[2025.10.28-07.44.24:498][509]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.24:544][511]MaterialEditorStats: Base pass shader: 180 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.28-07.44.24:544][511]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.28-07.44.24:544][511]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.28-07.44.24:544][511]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.28-07.44.24:544][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.24:544][511]MaterialEditorStats: Shader Count: 3
+[2025.10.28-07.44.24:544][511]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.29:364][807]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.28-07.44.29:365][807]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.29:365][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.29:365][807]MaterialEditorStats: Shader Count: 0
+[2025.10.28-07.44.29:365][807]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.29:446][809]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.28-07.44.29:446][809]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.28-07.44.29:446][809]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.28-07.44.29:446][809]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.29:446][809]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.29:446][809]MaterialEditorStats: Shader Count: 3
+[2025.10.28-07.44.29:446][809]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.32:705][985]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.28-07.44.32:705][985]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.32:705][985]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.32:705][985]MaterialEditorStats: Shader Count: 0
+[2025.10.28-07.44.32:705][985]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.32:778][987]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.28-07.44.32:778][987]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.28-07.44.32:778][987]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.28-07.44.32:778][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.32:778][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.32:778][987]MaterialEditorStats: Shader Count: 3
+[2025.10.28-07.44.32:778][987]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.34:610][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.28-07.44.34:610][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.34:610][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.34:610][ 92]MaterialEditorStats: Shader Count: 0
+[2025.10.28-07.44.34:610][ 92]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.34:677][ 94]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.28-07.44.34:677][ 94]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.28-07.44.34:677][ 94]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.28-07.44.34:677][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.34:677][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.34:677][ 94]MaterialEditorStats: Shader Count: 3
+[2025.10.28-07.44.34:677][ 94]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.36:375][197]LogMaterialEditor: Saving and Compiling material MI_Pillar
+[2025.10.28-07.44.36:708][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.28-07.44.38:849][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.28-07.44.38:867][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.44.38:929][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Trap/Trap1/MI_Pillar] ([1] browsable assets)...
+[2025.10.28-07.44.38:943][197]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Trap/Trap1/MI_Pillar.MI_Pillar]
+[2025.10.28-07.44.38:943][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Trap/Trap1/MI_Pillar]
+[2025.10.28-07.44.38:943][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Trap/Trap1/MI_Pillar" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Mesh/Trap/Trap1/MI_Pillar.uasset" SILENT=true
+[2025.10.28-07.44.38:946][197]LogSavePackage: Moving output files for package: /Game/Mesh/Trap/Trap1/MI_Pillar
+[2025.10.28-07.44.38:946][197]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/MI_Pillar5625F4CD4AD73AF989B3B1894ADBEC9C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Mesh/Trap/Trap1/MI_Pillar.uasset'
+[2025.10.28-07.44.38:954][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.217 ms (total: 40.7 sec)
+[2025.10.28-07.44.39:010][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.44.39:010][197]LogContentValidation: Enabled validators:
+[2025.10.28-07.44.39:010][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.44.39:010][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.44.39:010][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.44.39:011][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.44.39:011][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.44.39:011][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.44.39:011][197]AssetCheck: /Game/Mesh/Trap/Trap1/MI_Pillar 에셋 유효성 검사 중
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: Nanite Compute Shader: 834 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: Shader Count: 15
+[2025.10.28-07.44.39:025][197]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.10.28-07.44.39:076][197]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.28-07.44.43:104][456]LogMaterialEditor: Saving and Compiling material MI_Pillar
+[2025.10.28-07.44.43:107][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.44.43:163][456]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mesh/Trap/Trap1/MI_Pillar] ([1] browsable assets)...
+[2025.10.28-07.44.43:163][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Trap/Trap1/MI_Pillar]
+[2025.10.28-07.44.43:163][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Trap/Trap1/MI_Pillar" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Mesh/Trap/Trap1/MI_Pillar.uasset" SILENT=true
+[2025.10.28-07.44.43:166][456]LogSavePackage: Moving output files for package: /Game/Mesh/Trap/Trap1/MI_Pillar
+[2025.10.28-07.44.43:166][456]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/MI_Pillar295600B74341DF95B6580FB5086F17ED.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Mesh/Trap/Trap1/MI_Pillar.uasset'
+[2025.10.28-07.44.43:176][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.956 ms (total: 40.7 sec)
+[2025.10.28-07.44.43:228][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.44.43:228][456]LogContentValidation: Enabled validators:
+[2025.10.28-07.44.43:228][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.44.43:228][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.44.43:228][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.44.43:228][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.44.43:228][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.44.43:228][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.44.43:228][456]AssetCheck: /Game/Mesh/Trap/Trap1/MI_Pillar 에셋 유효성 검사 중
+[2025.10.28-07.44.49:828][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.44.49:880][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mesh/Trap/Trap1/Wood_Pillar] ([1] browsable assets)...
+[2025.10.28-07.44.49:880][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Trap/Trap1/Wood_Pillar]
+[2025.10.28-07.44.49:885][830]LogSavePackage: Moving output files for package: /Game/Mesh/Trap/Trap1/Wood_Pillar
+[2025.10.28-07.44.49:885][830]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Wood_Pillar69275D174C1C63FD2094159913B8083B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Mesh/Trap/Trap1/Wood_Pillar.uasset'
+[2025.10.28-07.44.49:894][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.618 ms (total: 40.8 sec)
+[2025.10.28-07.44.49:927][830]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.44.49:927][830]LogContentValidation: Enabled validators:
+[2025.10.28-07.44.49:927][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.44.49:927][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.44.49:927][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.44.49:927][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.44.49:927][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.44.49:927][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.44.49:928][830]AssetCheck: /Game/Mesh/Trap/Trap1/Wood_Pillar 에셋 유효성 검사 중
+[2025.10.28-07.45.28:296][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-07.45.28:321][624]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.45.28:325][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003750s)
+[2025.10.28-07.45.28:325][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.003804s)
+[2025.10.28-07.45.28:345][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.28-07.45.28:358][624]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.28-07.45.28:359][624]LogPlayLevel: PIE: World Init took: (0.001665s)
+[2025.10.28-07.45.28:360][624]LogAudio: Display: Creating Audio Device:                 Id: 205, Scope: Unique, Realtime: True
+[2025.10.28-07.45.28:360][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-07.45.28:360][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-07.45.28:360][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-07.45.28:360][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-07.45.28:360][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-07.45.28:360][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-07.45.28:360][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-07.45.28:360][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-07.45.28:361][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-07.45.28:361][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-07.45.28:361][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-07.45.28:363][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-07.45.28:378][624]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-07.45.28:379][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-07.45.28:379][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-07.45.28:379][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-07.45.28:380][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=205
+[2025.10.28-07.45.28:380][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=205
+[2025.10.28-07.45.28:382][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=205
+[2025.10.28-07.45.28:382][624]LogInit: FAudioDevice initialized with ID 205.
+[2025.10.28-07.45.28:382][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=205
+[2025.10.28-07.45.28:382][624]LogAudio: Display: Audio Device (ID: 205) registered with world 'Stage1'.
+[2025.10.28-07.45.28:382][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 205
+[2025.10.28-07.45.28:385][624]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.28-07.45.28:388][624]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.28-16.45.28
+[2025.10.28-07.45.28:389][624]LogWorld: Bringing up level for play took: 0.003919
+[2025.10.28-07.45.28:391][624]LogOnline: OSS: Created online subsystem instance for: :Context_397
+[2025.10.28-07.45.28:393][624]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2
+[2025.10.28-07.45.28:394][624]PIE: 서버가 로그인했습니다.
+[2025.10.28-07.45.28:395][624]PIE: 에디터에서 플레이 총 시작 시간 0.099초입니다.
+[2025.10.28-07.45.28:410][624]LogAudio: Warning: Detected orphaned looping sound 'MainBGMQueue'.
+[2025.10.28-07.45.34:614][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.45.34:614][122]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.45.34:615][122]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.45.34:616][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.45.34:619][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-07.45.34:626][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.45.34:648][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-07.45.34:648][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 205
+[2025.10.28-07.45.34:648][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=205
+[2025.10.28-07.45.34:650][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=205
+[2025.10.28-07.45.34:655][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.45.34:658][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.28-07.45.34:724][123]LogPlayLevel: Display: Destroying online subsystem :Context_397
+[2025.10.28-07.45.37:434][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.45.37:495][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-07.45.37:533][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.28-07.45.37:555][355]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.28-07.45.37:556][355]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage15E19C17448924431278B2693CB7A7E2C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.28-07.45.37:563][355]LogFileHelpers: Saving map 'Stage1' took 0.069
+[2025.10.28-07.45.37:574][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.536 ms (total: 40.9 sec)
+[2025.10.28-07.45.37:627][355]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.45.37:627][355]LogContentValidation: Enabled validators:
+[2025.10.28-07.45.37:627][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.45.37:627][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.45.37:627][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.45.37:627][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.45.37:627][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.45.37:627][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.45.37:627][355]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.28-07.45.43:574][710]LogSlate: Window 'Wood_Pillar' being destroyed
+[2025.10.28-07.45.43:692][710]LogWorld: UWorld::CleanupWorld for World_191, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.45.43:692][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.45.43:754][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.28-07.45.55:873][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Mesh/Trap/Trap3/SM_Blade2.SM_Blade2
+[2025.10.28-07.45.55:873][720]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Mesh/Trap/Trap3/SM_Blade2.SM_Blade2
+[2025.10.28-07.45.55:874][720]LogActorFactory: Actor Factory spawned StaticMesh /Game/Mesh/Trap/Trap3/SM_Blade2.SM_Blade2 as actor: StaticMeshActor /Game/Map/Stage1.Stage1:PersistentLevel.StaticMeshActor_9
+[2025.10.28-07.45.56:166][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.28-07.45.56:176][742]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.10.28-07.46.12:801][240]LogContentBrowser: Attempting asset rename: BP_IronSaw -> BP_IronBlade
+[2025.10.28-07.46.12:802][240]LogStreaming: Display: FlushAsyncLoading(1303): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade_C' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.SKEL_BP_IronBlade_C:ReceiveBeginPlay' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.SKEL_BP_IronBlade_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.SKEL_BP_IronBlade_C:ReceiveTick' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.SKEL_BP_IronBlade_C:UserConstructionScript' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:885][240]LogMetaData: Removing '/Game/BluePrint/Trap/BP_IronBlade.SKEL_BP_IronBlade_C' ref from Metadata '/Game/BluePrint/Trap/BP_IronSaw.PackageMetaData'
+[2025.10.28-07.46.12:887][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.46.12:887][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.46.12:887][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.46.12:890][240]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.46.12:890][240]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBlade3CEBF8254044120FF7C42A990D3B1610.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.46.12:895][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.944 ms (total: 40.9 sec)
+[2025.10.28-07.46.13:035][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.28-07.46.13:067][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.28-07.46.13:097][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.28-07.46.13:178][240]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.46.13:178][240]LogContentValidation: Enabled validators:
+[2025.10.28-07.46.13:178][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.46.13:178][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.46.13:178][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.46.13:178][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.46.13:178][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.46.13:178][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.46.13:178][240]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.46.13:843][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade
+[2025.10.28-07.46.13:844][297]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_193
+[2025.10.28-07.46.15:367][373]LogSlate: Window 'BP_IronBlade' being destroyed
+[2025.10.28-07.46.15:375][373]LogWorld: UWorld::CleanupWorld for World_193, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.46.15:375][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.46.15:406][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade
+[2025.10.28-07.46.15:406][373]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_194
+[2025.10.28-07.46.16:036][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.28-07.46.38:461][715]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_195
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: ================================================
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Total job queries 3,159, among them cache hits 2,440 (77.24%), DDC hits 369 (11.68%), Duplicates 17 (0.54%)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Tracking 702 distinct input hashes that result in 434 distinct outputs (61.82%)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: RAM used: 281.74 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Shaders Compiled: 332
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Jobs assigned 332, completed 332 (100%)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Average time worker was idle: 199.66 s
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Time job spent in pending queue: average 0.66 s, longest 4.75 s
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Job execution time: average 1.13 s, max 4.18 s
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Job life time (pending + execution): average 1.80 s, max 5.89
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Shader code size: average 8.665 KiB, min 2.312 KiB, max 23.82 KiB
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 65.90 s
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Jobs were issued in 332 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Average processing rate: 5.04 jobs/sec
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Total thread time: 306.32 s
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Total thread preprocess time: 41.443 s
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Percentage time preprocessing: 13.53%
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Effective parallelization: 4.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   15 times, average 3.31 sec, max 4.14 sec, min 2.60 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    4 times, average 2.04 sec, max 2.16 sec, min 1.77 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 1.90 sec, max 2.15 sec, min 1.40 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 1.57 sec, max 1.65 sec, min 1.44 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.49 sec, max 1.75 sec, min 1.13 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                               FHWRasterizePS - 16.97% of total time (compiled   45 times, average 1.16 sec, max 1.27 sec, min 0.95 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 16.19% of total time (compiled   15 times, average 3.31 sec, max 4.14 sec, min 2.60 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.06% of total time (compiled   27 times, average 1.25 sec, max 1.60 sec, min 0.91 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.91% of total time (compiled   25 times, average 0.72 sec, max 0.93 sec, min 0.51 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.23% of total time (compiled   10 times, average 1.30 sec, max 1.71 sec, min 0.89 sec)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Materials Translated:    866
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Material Translation Only: 0.16 s (59%)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: Material Cache Hits: 56 (6%)
+[2025.10.28-07.46.41:078][857]LogShaderCompilers: Display: ================================================
+[2025.10.28-07.46.46:468][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.46.46:511][202]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.46.46:527][202]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.46.46:527][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.46.46:531][202]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.46.46:532][202]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeE6B341894BD5322F3BAD459776629605.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.46.46:540][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.204 ms (total: 41.0 sec)
+[2025.10.28-07.46.46:593][202]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.46.46:593][202]LogContentValidation: Enabled validators:
+[2025.10.28-07.46.46:593][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.46.46:593][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.46.46:593][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.46.46:593][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.46.46:593][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.46.46:593][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.46.46:593][202]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.46.46:814][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.28-07.46.47:034][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.28-07.46.58:377][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.46.58:429][803]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.46.58:438][803]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.46.58:438][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.46.58:441][803]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.46.58:442][803]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeAA6A3AC74267513F52F807ADF79DD19C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.46.58:450][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.789 ms (total: 41.1 sec)
+[2025.10.28-07.46.58:510][803]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.46.58:510][803]LogContentValidation: Enabled validators:
+[2025.10.28-07.46.58:510][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.46.58:510][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.46.58:510][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.46.58:510][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.46.58:510][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.46.58:510][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.46.58:510][803]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.47.00:168][874]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade_C
+[2025.10.28-07.47.00:169][874]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade_C
+[2025.10.28-07.47.00:171][874]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade as actor: BP_IronBlade_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_IronBlade_C_0
+[2025.10.28-07.47.00:173][874]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade as actor: BP_IronBlade_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_IronBlade_C_0
+[2025.10.28-07.47.01:452][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.28-07.47.01:492][933]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2025.10.28-07.47.01:497][933]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade_C
+[2025.10.28-07.47.01:497][933]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade_C
+[2025.10.28-07.47.01:501][933]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade as actor: BP_IronBlade_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_IronBlade_C_1
+[2025.10.28-07.47.01:503][933]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade as actor: BP_IronBlade_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_IronBlade_C_1
+[2025.10.28-07.47.08:880][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.47.08:927][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.47.08:927][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.47.08:931][315]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.47.08:931][315]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeE9ECF40C4A394ECB22C37683D51D32A1.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.47.08:941][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.369 ms (total: 41.1 sec)
+[2025.10.28-07.47.08:993][315]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.47.08:993][315]LogContentValidation: Enabled validators:
+[2025.10.28-07.47.08:993][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.47.08:993][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.47.08:993][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.47.08:993][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.47.08:993][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.47.08:993][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.47.08:993][315]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.47.09:200][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.28-07.47.27:603][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.47.27:663][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.47.27:672][252]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.47.27:672][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.47.27:676][252]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.47.27:676][252]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeA15F253147BBD5982B32968338F2EE40.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.47.27:685][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.980 ms (total: 41.2 sec)
+[2025.10.28-07.47.27:743][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.47.27:743][252]LogContentValidation: Enabled validators:
+[2025.10.28-07.47.27:743][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.47.27:743][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.47.27:743][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.47.27:743][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.47.27:743][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.47.27:743][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.47.27:743][252]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.47.31:059][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.47.31:111][419]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.47.31:118][419]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.47.31:118][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.47.31:123][419]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.47.31:123][419]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeC2DFA82543A8FFF84A7507A9C7801DB2.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.47.31:131][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.167 ms (total: 41.3 sec)
+[2025.10.28-07.47.31:193][419]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.47.31:194][419]LogContentValidation: Enabled validators:
+[2025.10.28-07.47.31:194][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.47.31:194][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.47.31:194][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.47.31:194][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.47.31:194][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.47.31:194][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.47.31:194][419]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.47.41:440][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.28-07.47.58:416][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.28-07.48.00:185][190]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-07.48.00:196][190]LogPlayLevel: [PlayLevel] Compiling GM_Stage1GameMode before play...
+[2025.10.28-07.48.00:225][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.28-07.48.00:237][190]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2025.10.28-07.48.00:237][190]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.48.00:241][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003622s)
+[2025.10.28-07.48.00:241][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.003659s)
+[2025.10.28-07.48.00:260][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.28-07.48.00:268][190]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.28-07.48.00:270][190]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2025.10.28-07.48.00:271][190]LogAudio: Display: Creating Audio Device:                 Id: 206, Scope: Unique, Realtime: True
+[2025.10.28-07.48.00:271][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-07.48.00:271][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-07.48.00:271][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-07.48.00:271][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-07.48.00:271][190]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-07.48.00:271][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-07.48.00:271][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-07.48.00:271][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-07.48.00:271][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-07.48.00:271][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-07.48.00:271][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-07.48.00:273][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-07.48.00:292][190]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-07.48.00:293][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-07.48.00:293][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-07.48.00:293][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-07.48.00:293][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=206
+[2025.10.28-07.48.00:293][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=206
+[2025.10.28-07.48.00:296][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=206
+[2025.10.28-07.48.00:296][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=206
+[2025.10.28-07.48.00:296][190]LogInit: FAudioDevice initialized with ID 206.
+[2025.10.28-07.48.00:296][190]LogAudio: Display: Audio Device (ID: 206) registered with world 'Stage1'.
+[2025.10.28-07.48.00:296][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 206
+[2025.10.28-07.48.00:299][190]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.28-07.48.00:302][190]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.28-16.48.00
+[2025.10.28-07.48.00:303][190]LogWorld: Bringing up level for play took: 0.003825
+[2025.10.28-07.48.00:305][190]LogOnline: OSS: Created online subsystem instance for: :Context_401
+[2025.10.28-07.48.00:309][190]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2
+[2025.10.28-07.48.00:309][190]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0
+[2025.10.28-07.48.00:310][190]PIE: 서버가 로그인했습니다.
+[2025.10.28-07.48.00:311][190]PIE: 에디터에서 플레이 총 시작 시간 0.118초입니다.
+[2025.10.28-07.48.00:317][190]LogAudio: Warning: Detected orphaned looping sound 'MainBGMQueue'.
+[2025.10.28-07.48.03:689][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.48.03:690][502]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.48.03:690][502]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.48.03:690][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.48.03:696][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-07.48.03:703][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.48.03:722][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.48.03:722][502]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 206
+[2025.10.28-07.48.03:722][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=206
+[2025.10.28-07.48.03:724][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=206
+[2025.10.28-07.48.03:732][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.28-07.48.03:795][503]LogPlayLevel: Display: Destroying online subsystem :Context_401
+[2025.10.28-07.48.03:899][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24387.359375
+[2025.10.28-07.48.04:134][530]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-07.48.04:134][530]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24387.580078, Update Interval: 331.257050
+[2025.10.28-07.48.04:236][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.48.04:294][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-07.48.04:331][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.28-07.48.04:353][540]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.28-07.48.04:353][540]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage192D7397B44ED8A3639012D82504029D2.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.28-07.48.04:360][540]LogFileHelpers: Saving map 'Stage1' took 0.067
+[2025.10.28-07.48.04:367][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.840 ms (total: 41.4 sec)
+[2025.10.28-07.48.04:410][540]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.48.04:410][540]LogContentValidation: Enabled validators:
+[2025.10.28-07.48.04:410][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.48.04:410][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.48.04:410][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.48.04:410][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.48.04:410][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.48.04:410][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.48.04:410][540]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.28-07.48.28:433][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.48.28:494][927]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.48.28:505][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.48.28:505][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.48.28:508][927]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.48.28:508][927]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeD27933BD40D5F10465A28EAB265D0213.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.48.28:516][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.548 ms (total: 41.5 sec)
+[2025.10.28-07.48.28:576][927]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.48.28:576][927]LogContentValidation: Enabled validators:
+[2025.10.28-07.48.28:576][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.48.28:576][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.48.28:576][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.48.28:576][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.48.28:576][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.48.28:576][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.48.28:576][927]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.48.40:177][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.48.40:227][648]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.48.40:239][648]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.48.40:239][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.48.40:242][648]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.48.40:243][648]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeBFEE822A4149EFBEF28F6C890375AE28.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.48.40:251][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.447 ms (total: 41.6 sec)
+[2025.10.28-07.48.40:309][648]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.48.40:309][648]LogContentValidation: Enabled validators:
+[2025.10.28-07.48.40:309][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.48.40:309][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.48.40:309][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.48.40:309][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.48.40:309][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.48.40:309][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.48.40:309][648]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.48.41:173][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.28-07.48.43:319][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.48.43:380][825]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.48.43:392][825]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.48.43:392][825]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.48.43:395][825]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.48.43:395][825]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBlade10772833491ECA7BD39C5EBB9666774E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.48.43:403][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.997 ms (total: 41.7 sec)
+[2025.10.28-07.48.43:461][825]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.48.43:461][825]LogContentValidation: Enabled validators:
+[2025.10.28-07.48.43:461][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.48.43:461][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.48.43:461][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.48.43:461][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.48.43:461][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.48.43:461][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.48.43:461][825]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.49.00:548][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.49.00:611][873]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.49.00:625][873]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.49.00:625][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.49.00:628][873]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.49.00:628][873]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeC60366EF448C6268BBBF4482B3FC9A2E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.49.00:636][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.058 ms (total: 41.8 sec)
+[2025.10.28-07.49.00:680][873]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.49.00:680][873]LogContentValidation: Enabled validators:
+[2025.10.28-07.49.00:680][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.49.00:680][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.49.00:680][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.49.00:680][873]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.49.00:680][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.49.00:680][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.49.00:680][873]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.49.18:755][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.49.18:794][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.49.18:808][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.49.18:808][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.49.18:812][  1]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.49.18:812][  1]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeC66A1FEF41D5466C84FD1DB57B1F4810.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.49.18:820][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.940 ms (total: 41.8 sec)
+[2025.10.28-07.49.18:876][  1]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.49.18:876][  1]LogContentValidation: Enabled validators:
+[2025.10.28-07.49.18:876][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.49.18:876][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.49.18:876][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.49.18:876][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.49.18:876][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.49.18:876][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.49.18:876][  1]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.49.54:066][271]LogEditorTransaction: Undo 노드 이동
+[2025.10.28-07.50.11:925][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.10.28-07.50.19:722][761]LogEditorTransaction: Undo 컴포넌트 수정
+[2025.10.28-07.50.20:628][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.50.20:695][788]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.50.20:703][788]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.50.20:703][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.50.20:707][788]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.50.20:707][788]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBladeBF123E50455F1BBDAC3E1386E46EEEA5.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.50.20:717][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.264 ms (total: 41.9 sec)
+[2025.10.28-07.50.20:776][788]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.50.20:776][788]LogContentValidation: Enabled validators:
+[2025.10.28-07.50.20:776][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.50.20:776][788]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.50.20:776][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.50.20:776][788]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.50.20:776][788]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.50.20:776][788]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.50.20:776][788]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.50.21:701][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.28-07.51.40:222][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.51.40:276][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.51.40:290][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.51.40:290][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.51.40:295][717]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.51.40:295][717]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBlade06E0A29D452AA1103A4C888EFFF87EF4.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.51.40:304][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.502 ms (total: 42.0 sec)
+[2025.10.28-07.51.40:358][717]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.51.40:358][717]LogContentValidation: Enabled validators:
+[2025.10.28-07.51.40:358][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.51.40:358][717]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.51.40:358][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.51.40:358][717]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.51.40:358][717]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.51.40:358][717]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.51.40:358][717]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.51.40:868][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.28-07.51.41:714][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-07.51.41:714][784]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.51.41:718][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003683s)
+[2025.10.28-07.51.41:718][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.003716s)
+[2025.10.28-07.51.41:739][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.28-07.51.41:750][784]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.28-07.51.41:751][784]LogPlayLevel: PIE: World Init took: (0.001743s)
+[2025.10.28-07.51.41:752][784]LogAudio: Display: Creating Audio Device:                 Id: 207, Scope: Unique, Realtime: True
+[2025.10.28-07.51.41:752][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-07.51.41:752][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-07.51.41:752][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-07.51.41:752][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-07.51.41:752][784]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-07.51.41:752][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-07.51.41:752][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-07.51.41:752][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-07.51.41:752][784]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-07.51.41:752][784]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-07.51.41:752][784]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-07.51.41:755][784]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-07.51.41:773][784]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-07.51.41:773][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-07.51.41:773][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-07.51.41:773][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-07.51.41:773][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=207
+[2025.10.28-07.51.41:773][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=207
+[2025.10.28-07.51.41:776][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=207
+[2025.10.28-07.51.41:776][784]LogInit: FAudioDevice initialized with ID 207.
+[2025.10.28-07.51.41:776][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=207
+[2025.10.28-07.51.41:777][784]LogAudio: Display: Audio Device (ID: 207) registered with world 'Stage1'.
+[2025.10.28-07.51.41:777][784]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 207
+[2025.10.28-07.51.41:779][784]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.28-07.51.41:783][784]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.28-16.51.41
+[2025.10.28-07.51.41:783][784]LogWorld: Bringing up level for play took: 0.003906
+[2025.10.28-07.51.41:786][784]LogOnline: OSS: Created online subsystem instance for: :Context_402
+[2025.10.28-07.51.41:787][784]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2
+[2025.10.28-07.51.41:789][784]PIE: 서버가 로그인했습니다.
+[2025.10.28-07.51.41:790][784]PIE: 에디터에서 플레이 총 시작 시간 0.076초입니다.
+[2025.10.28-07.51.41:807][784]LogAudio: Warning: Detected orphaned looping sound 'MainBGMQueue'.
+[2025.10.28-07.51.45:810][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.51.45:810][ 47]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.51.45:811][ 47]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.51.45:811][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.51.45:829][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-07.51.45:836][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.51.45:855][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.51.45:856][ 47]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 207
+[2025.10.28-07.51.45:856][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=207
+[2025.10.28-07.51.45:858][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=207
+[2025.10.28-07.51.45:866][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.28-07.51.45:937][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_402
+[2025.10.28-07.51.46:223][ 72]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-07.51.46:231][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-07.51.46:231][ 72]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.51.46:235][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003529s)
+[2025.10.28-07.51.46:235][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.003562s)
+[2025.10.28-07.51.46:258][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.28-07.51.46:268][ 72]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.28-07.51.46:269][ 72]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2025.10.28-07.51.46:271][ 72]LogAudio: Display: Creating Audio Device:                 Id: 208, Scope: Unique, Realtime: True
+[2025.10.28-07.51.46:271][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-07.51.46:271][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-07.51.46:271][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-07.51.46:271][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-07.51.46:271][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-07.51.46:271][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-07.51.46:271][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-07.51.46:271][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-07.51.46:271][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-07.51.46:271][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-07.51.46:271][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-07.51.46:273][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-07.51.46:289][ 72]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-07.51.46:289][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-07.51.46:289][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-07.51.46:289][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-07.51.46:289][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=208
+[2025.10.28-07.51.46:289][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=208
+[2025.10.28-07.51.46:292][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=208
+[2025.10.28-07.51.46:292][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=208
+[2025.10.28-07.51.46:292][ 72]LogInit: FAudioDevice initialized with ID 208.
+[2025.10.28-07.51.46:292][ 72]LogAudio: Display: Audio Device (ID: 208) registered with world 'Stage1'.
+[2025.10.28-07.51.46:292][ 72]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 208
+[2025.10.28-07.51.46:295][ 72]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.28-07.51.46:299][ 72]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.28-16.51.46
+[2025.10.28-07.51.46:300][ 72]LogWorld: Bringing up level for play took: 0.003814
+[2025.10.28-07.51.46:302][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_403
+[2025.10.28-07.51.46:306][ 72]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2
+[2025.10.28-07.51.46:306][ 72]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0
+[2025.10.28-07.51.46:307][ 72]PIE: 서버가 로그인했습니다.
+[2025.10.28-07.51.46:308][ 72]PIE: 에디터에서 플레이 총 시작 시간 0.077초입니다.
+[2025.10.28-07.51.46:314][ 72]LogAudio: Warning: Detected orphaned looping sound 'MainBGMQueue'.
+[2025.10.28-07.51.55:448][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.51.55:448][942]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.51.55:448][942]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.51.55:448][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.51.55:454][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-07.51.55:461][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.51.55:481][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.51.55:481][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 208
+[2025.10.28-07.51.55:482][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=208
+[2025.10.28-07.51.55:484][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=208
+[2025.10.28-07.51.55:491][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.28-07.51.55:556][943]LogPlayLevel: Display: Destroying online subsystem :Context_403
+[2025.10.28-07.51.55:783][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.51.55:841][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-07.51.55:877][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.28-07.51.55:899][960]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.28-07.51.55:899][960]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage12B3AC7B54DCA9D5B10293597F055ACB6.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.28-07.51.55:906][960]LogFileHelpers: Saving map 'Stage1' took 0.066
+[2025.10.28-07.51.55:915][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.970 ms (total: 42.1 sec)
+[2025.10.28-07.51.55:974][960]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.51.55:974][960]LogContentValidation: Enabled validators:
+[2025.10.28-07.51.55:974][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.51.55:974][960]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.51.55:974][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.51.55:974][960]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.51.55:974][960]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.51.55:974][960]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.51.55:974][960]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.28-07.52.38:493][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.52.38:559][696]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.52.38:571][696]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.52.38:571][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.52.38:576][696]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.52.38:576][696]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBlade106E7CAE4C99ABBBFCF28AB73E652ADD.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.52.38:585][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.659 ms (total: 42.2 sec)
+[2025.10.28-07.52.38:624][696]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.52.38:624][696]LogContentValidation: Enabled validators:
+[2025.10.28-07.52.38:624][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.52.38:624][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.52.38:624][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.52.38:624][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.52.38:624][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.52.38:624][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.52.38:624][696]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.52.57:810][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.52.57:860][864]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_IronBlade] ([2] browsable assets)...
+[2025.10.28-07.52.57:874][864]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_IronBlade.BP_IronBlade]
+[2025.10.28-07.52.57:874][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_IronBlade]
+[2025.10.28-07.52.57:879][864]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_IronBlade
+[2025.10.28-07.52.57:880][864]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_IronBlade9E47993548CC7EEEEBA2BEBF770C3FB6.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_IronBlade.uasset'
+[2025.10.28-07.52.57:888][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.787 ms (total: 42.3 sec)
+[2025.10.28-07.52.57:940][864]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.52.57:940][864]LogContentValidation: Enabled validators:
+[2025.10.28-07.52.57:940][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.52.57:940][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.52.57:940][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.52.57:940][864]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.52.57:940][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.52.57:940][864]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.52.57:940][864]AssetCheck: /Game/BluePrint/Trap/BP_IronBlade 에셋 유효성 검사 중
+[2025.10.28-07.52.58:324][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.28-07.52.59:451][955]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-07.52.59:459][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-07.52.59:486][955]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.52.59:490][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003717s)
+[2025.10.28-07.52.59:490][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.003759s)
+[2025.10.28-07.52.59:510][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.28-07.52.59:521][955]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.28-07.52.59:522][955]LogPlayLevel: PIE: World Init took: (0.001754s)
+[2025.10.28-07.52.59:523][955]LogAudio: Display: Creating Audio Device:                 Id: 209, Scope: Unique, Realtime: True
+[2025.10.28-07.52.59:523][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-07.52.59:523][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-07.52.59:523][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-07.52.59:523][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-07.52.59:523][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-07.52.59:523][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-07.52.59:523][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-07.52.59:523][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-07.52.59:523][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-07.52.59:523][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-07.52.59:523][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-07.52.59:526][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-07.52.59:542][955]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-07.52.59:542][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-07.52.59:542][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-07.52.59:542][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-07.52.59:543][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=209
+[2025.10.28-07.52.59:543][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=209
+[2025.10.28-07.52.59:545][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=209
+[2025.10.28-07.52.59:545][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=209
+[2025.10.28-07.52.59:545][955]LogInit: FAudioDevice initialized with ID 209.
+[2025.10.28-07.52.59:545][955]LogAudio: Display: Audio Device (ID: 209) registered with world 'Stage1'.
+[2025.10.28-07.52.59:545][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 209
+[2025.10.28-07.52.59:548][955]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.28-07.52.59:551][955]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.28-16.52.59
+[2025.10.28-07.52.59:552][955]LogWorld: Bringing up level for play took: 0.003828
+[2025.10.28-07.52.59:555][955]LogOnline: OSS: Created online subsystem instance for: :Context_404
+[2025.10.28-07.52.59:558][955]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2
+[2025.10.28-07.52.59:558][955]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0
+[2025.10.28-07.52.59:559][955]PIE: 서버가 로그인했습니다.
+[2025.10.28-07.52.59:560][955]PIE: 에디터에서 플레이 총 시작 시간 0.102초입니다.
+[2025.10.28-07.52.59:566][955]LogAudio: Warning: Detected orphaned looping sound 'MainBGMQueue'.
+[2025.10.28-07.53.04:637][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.53.04:637][434]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.53.04:637][434]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.53.04:638][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.53.04:655][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-07.53.04:662][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.53.04:682][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.53.04:682][434]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 209
+[2025.10.28-07.53.04:682][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=209
+[2025.10.28-07.53.04:684][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=209
+[2025.10.28-07.53.04:691][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.28-07.53.04:754][435]LogPlayLevel: Display: Destroying online subsystem :Context_404
+[2025.10.28-07.53.05:113][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.53.05:175][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-07.53.05:213][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.28-07.53.05:235][464]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.28-07.53.05:235][464]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage139DADCD64CD4E5AB038C8F846FEA2799.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.28-07.53.05:242][464]LogFileHelpers: Saving map 'Stage1' took 0.068
+[2025.10.28-07.53.05:250][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.861 ms (total: 42.4 sec)
+[2025.10.28-07.53.05:307][464]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.53.05:307][464]LogContentValidation: Enabled validators:
+[2025.10.28-07.53.05:307][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.53.05:307][464]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.53.05:307][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.53.05:307][464]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.53.05:307][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.53.05:307][464]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.53.05:307][464]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.28-07.53.05:933][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap
+[2025.10.28-07.53.05:933][515]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_196
+[2025.10.28-07.53.07:445][586]LogWorld: UWorld::CleanupWorld for World_196, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.53.07:446][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.53.07:477][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap
+[2025.10.28-07.53.07:477][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_197
+[2025.10.28-07.53.08:114][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.28-07.53.09:154][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.28-07.53.14:322][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.53.14:376][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Trap/BP_BrickTrap] ([2] browsable assets)...
+[2025.10.28-07.53.14:376][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_BrickTrap]
+[2025.10.28-07.53.14:379][924]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_BrickTrap
+[2025.10.28-07.53.14:379][924]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_BrickTrapD4A015724D314723FB2FA0BA7C782800.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_BrickTrap.uasset'
+[2025.10.28-07.53.14:391][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.128 ms (total: 42.5 sec)
+[2025.10.28-07.53.14:424][924]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.53.14:424][924]LogContentValidation: Enabled validators:
+[2025.10.28-07.53.14:424][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.53.14:424][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.53.14:424][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.53.14:424][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.53.14:424][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.53.14:424][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.53.14:424][924]AssetCheck: /Game/BluePrint/Trap/BP_BrickTrap 에셋 유효성 검사 중
+[2025.10.28-07.53.16:226][ 17]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_198
+[2025.10.28-07.53.20:757][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.53.20:792][269]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_BrickTrap] ([2] browsable assets)...
+[2025.10.28-07.53.20:806][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap]
+[2025.10.28-07.53.20:806][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_BrickTrap]
+[2025.10.28-07.53.20:809][269]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_BrickTrap
+[2025.10.28-07.53.20:809][269]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_BrickTrapCA54E92D44656F6A31C01F8AE94AF6EA.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_BrickTrap.uasset'
+[2025.10.28-07.53.20:818][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.306 ms (total: 42.6 sec)
+[2025.10.28-07.53.20:873][269]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.53.20:873][269]LogContentValidation: Enabled validators:
+[2025.10.28-07.53.20:873][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.53.20:873][269]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.53.20:873][269]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.53.20:873][269]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.53.20:873][269]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.53.20:873][269]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.53.20:873][269]AssetCheck: /Game/BluePrint/Trap/BP_BrickTrap 에셋 유효성 검사 중
+[2025.10.28-07.53.23:064][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.28-07.53.24:541][475]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap_C
+[2025.10.28-07.53.24:541][475]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap_C
+[2025.10.28-07.53.24:544][475]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap as actor: BP_BrickTrap_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_BrickTrap_C_0
+[2025.10.28-07.53.24:545][475]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap as actor: BP_BrickTrap_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_BrickTrap_C_0
+[2025.10.28-07.53.25:525][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.28-07.53.25:549][523]LogEditorActor: Deleted 0 Actors (0.048 secs)
+[2025.10.28-07.53.25:554][523]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap_C
+[2025.10.28-07.53.25:554][523]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap_C
+[2025.10.28-07.53.25:557][523]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap as actor: BP_BrickTrap_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_BrickTrap_C_1
+[2025.10.28-07.53.25:559][523]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap as actor: BP_BrickTrap_C /Game/Map/Stage1.Stage1:PersistentLevel.BP_BrickTrap_C_1
+[2025.10.28-07.53.35:182][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.53.35:226][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/Trap/BP_BrickTrap] ([2] browsable assets)...
+[2025.10.28-07.53.35:237][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Trap/BP_BrickTrap.BP_BrickTrap]
+[2025.10.28-07.53.35:237][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_BrickTrap]
+[2025.10.28-07.53.35:240][262]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_BrickTrap
+[2025.10.28-07.53.35:240][262]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_BrickTrap8AB22F604C0EC3EB14AFBBA5C16BA083.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_BrickTrap.uasset'
+[2025.10.28-07.53.35:248][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.537 ms (total: 42.6 sec)
+[2025.10.28-07.53.35:306][262]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.53.35:306][262]LogContentValidation: Enabled validators:
+[2025.10.28-07.53.35:306][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.53.35:307][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.53.35:307][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.53.35:307][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.53.35:307][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.53.35:307][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.53.35:307][262]AssetCheck: /Game/BluePrint/Trap/BP_BrickTrap 에셋 유효성 검사 중
+[2025.10.28-07.53.43:096][667]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2025.10.28-07.53.43:110][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-07.53.43:110][667]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.53.43:114][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003627s)
+[2025.10.28-07.53.43:114][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage1.Stage1 to /Game/Map/UEDPIE_0_Stage1.Stage1 (0.003657s)
+[2025.10.28-07.53.43:136][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.28-07.53.43:149][667]LogChaosDD: Creating Chaos Debug Draw Scene for world Stage1
+[2025.10.28-07.53.43:151][667]LogPlayLevel: PIE: World Init took: (0.001664s)
+[2025.10.28-07.53.43:151][667]LogAudio: Display: Creating Audio Device:                 Id: 210, Scope: Unique, Realtime: True
+[2025.10.28-07.53.43:152][667]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-07.53.43:152][667]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-07.53.43:152][667]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-07.53.43:152][667]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-07.53.43:152][667]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-07.53.43:152][667]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-07.53.43:152][667]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-07.53.43:152][667]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-07.53.43:152][667]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-07.53.43:152][667]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-07.53.43:152][667]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-07.53.43:154][667]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-07.53.43:170][667]LogAudioMixer: Display: Using Audio Hardware Device B250F(NVIDIA High Definition Audio)
+[2025.10.28-07.53.43:171][667]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-07.53.43:171][667]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-07.53.43:171][667]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-07.53.43:172][667]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=210
+[2025.10.28-07.53.43:172][667]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=210
+[2025.10.28-07.53.43:174][667]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=210
+[2025.10.28-07.53.43:174][667]LogInit: FAudioDevice initialized with ID 210.
+[2025.10.28-07.53.43:174][667]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=210
+[2025.10.28-07.53.43:174][667]LogAudio: Display: Audio Device (ID: 210) registered with world 'Stage1'.
+[2025.10.28-07.53.43:174][667]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 210
+[2025.10.28-07.53.43:177][667]LogLoad: Game class is 'GM_Stage1GameMode_C'
+[2025.10.28-07.53.43:180][667]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2025.10.28-16.53.43
+[2025.10.28-07.53.43:181][667]LogWorld: Bringing up level for play took: 0.003933
+[2025.10.28-07.53.43:183][667]LogOnline: OSS: Created online subsystem instance for: :Context_408
+[2025.10.28-07.53.43:187][667]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_2
+[2025.10.28-07.53.43:187][667]LogCameraShakeSourceComponent: Error: UCameraShakeSourceComponent::Start: No camera shake was specified on this source. Me = CameraShakeSourceComponent /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0.CameraShakeSource, Owner = BP_Player_C /Game/Map/UEDPIE_0_Stage1.Stage1:PersistentLevel.BP_Player_C_0
+[2025.10.28-07.53.43:188][667]PIE: 서버가 로그인했습니다.
+[2025.10.28-07.53.43:189][667]PIE: 에디터에서 플레이 총 시작 시간 0.085초입니다.
+[2025.10.28-07.53.43:195][667]LogAudio: Warning: Detected orphaned looping sound 'MainBGMQueue'.
+[2025.10.28-07.53.52:277][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.53.52:277][506]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Stage1
+[2025.10.28-07.53.52:277][506]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-07.53.52:278][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.53.52:285][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-07.53.52:291][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-07.53.52:314][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-07.53.52:314][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 210
+[2025.10.28-07.53.52:314][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=210
+[2025.10.28-07.53.52:316][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=210
+[2025.10.28-07.53.52:320][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-07.53.52:324][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-07.53.52:385][507]LogPlayLevel: Display: Destroying online subsystem :Context_408
+[2025.10.28-07.53.52:632][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.53.52:691][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-07.53.52:729][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.28-07.53.52:751][526]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.28-07.53.52:751][526]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage10112E5854C9E49B7E13508929222E6D5.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.28-07.53.52:758][526]LogFileHelpers: Saving map 'Stage1' took 0.068
+[2025.10.28-07.53.52:766][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.467 ms (total: 42.8 sec)
+[2025.10.28-07.53.52:807][526]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.53.52:807][526]LogContentValidation: Enabled validators:
+[2025.10.28-07.53.52:807][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.53.52:807][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.53.52:807][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.53.52:807][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.53.52:807][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.53.52:807][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.53.52:807][526]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.28-07.53.55:151][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-07.53.55:208][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Trap/BP_BrickTrap] ([2] browsable assets)...
+[2025.10.28-07.53.55:209][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Trap/BP_BrickTrap]
+[2025.10.28-07.53.55:213][631]LogSavePackage: Moving output files for package: /Game/BluePrint/Trap/BP_BrickTrap
+[2025.10.28-07.53.55:213][631]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/BP_BrickTrap8B81854343B38220DBAAA7AF1ABE2701.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/BluePrint/Trap/BP_BrickTrap.uasset'
+[2025.10.28-07.53.55:223][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.903 ms (total: 42.8 sec)
+[2025.10.28-07.53.55:273][631]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-07.53.55:273][631]LogContentValidation: Enabled validators:
+[2025.10.28-07.53.55:273][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-07.53.55:273][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-07.53.55:273][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-07.53.55:273][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-07.53.55:273][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-07.53.55:273][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-07.53.55:273][631]AssetCheck: /Game/BluePrint/Trap/BP_BrickTrap 에셋 유효성 검사 중
