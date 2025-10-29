@@ -1,0 +1,28 @@
+[1028/172425.782:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1028/172426.094:WARNING:storage_block-inl.h(146)] Failed data load.
+[1028/172625.617:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1028/175216.571:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1028/175216.724:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1028/175217.393:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1028/175217.743:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 19
+[1028/175219.686:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1028/175219.833:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1028/175220.167:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1028/175220.345:ERROR:gl_utils.cc(314)] [.WebGL-00000369D4FDAE80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1028/175220.360:ERROR:gl_utils.cc(314)] [.WebGL-00000369D4FDAE80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
