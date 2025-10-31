@@ -7387,3 +7387,1245 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.31-02.31.56:650][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.31-02.31.56:650][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.31-02.31.56:650][ 17]AssetCheck: /Game/BluePrint/MapBluePrint/BP_RotateLog 에셋 유효성 검사 중
+[2025.10.31-02.32.45:713][854]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.10.31-02.32.45:725][854]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.10.31-02.32.45:741][855]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.10.31-02.32.47:833][981]LogContentBrowser: Attempting asset rename: 새 폴더 -> UI
+[2025.10.31-02.32.47:834][981]LogContentBrowser: End creating deferred item 새 폴더
+[2025.10.31-02.32.48:290][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.32.48:355][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.31-02.32.48:444][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.31-02.32.48:595][  9]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.31-02.32.48:595][  9]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage118FA79DA47898452A68A64843313474E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.31-02.32.48:615][  9]LogFileHelpers: Saving map 'Stage1' took 0.261
+[2025.10.31-02.32.48:623][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 332.778 ms (total: 8.57 sec)
+[2025.10.31-02.32.48:686][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.32.48:686][  9]LogContentValidation: Enabled validators:
+[2025.10.31-02.32.48:686][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.32.48:686][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.32.48:686][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.32.48:686][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.32.48:686][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.32.48:686][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.32.48:686][  9]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.31-02.33.01:124][847]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.31-02.33.01:124][847]LogStreaming: Display: FlushAsyncLoading(1363): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.31-02.33.01:553][847]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2025.10.31-02.33.01:574][847]LogObjectTools: Deleting 1 worlds: /Game/WaterMaterials/Maps/Overview.Overview
+[2025.10.31-02.33.01:574][847]LogObjectTools: Currently 33 active worlds: /Game/Map/Stage1.Stage1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_33
+[2025.10.31-02.33.01:598][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.31-02.33.03:918][847]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.31-02.33.03:924][847]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-02.33.03:925][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-02.33.04:189][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.10.31-02.33.04:211][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.31-02.33.04:231][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.31-02.33.16:386][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.31-02.33.17:772][939]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.31-02.33.17:801][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.31-02.33.17:822][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.31-02.33.17:842][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.31-02.33.23:594][544]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.10.31-02.33.23:601][544]LogMaterial: Warning: [AssetLog] C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Content\WaterMaterials\Materials\MF_FixedDepth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2025.10.31-02.33.25:814][613]LogPSOHitching: Encountered 300 PSO creation hitches so far (141 graphics, 159 compute). 0 of them were precached.
+[2025.10.31-02.33.25:942][613]LogMaterial: Warning: [AssetLog] C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Content\WaterMaterials\Materials\MF_OceanDepth_UVs.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2025.10.31-02.33.25:956][614]LogMaterial: Warning: [AssetLog] C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Content\WaterMaterials\Materials\MF_OceanDepth_UVs_Radial.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2025.10.31-02.33.42:257][320]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.10.31-02.33.42:257][320]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.10.31-02.33.56:773][719]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Medieval_Fantasy_Village_Houses/House1.House1
+[2025.10.31-02.33.56:813][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.10.31-02.33.56:818][719]LogStreaming: Display: FlushAsyncLoading(1365): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.31-02.34.07:146][255]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K.MI_Concrete_Floor_wirkdfrn_2K
+[2025.10.31-02.34.07:149][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.10.31-02.34.07:150][255]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.10.31-02.34.07:150][255]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.10.31-02.34.07:169][255]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.10.31-02.34.07:678][255]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.31-02.34.15:313][681]LogContentBrowser: Deferred new asset file creation: MI_Concrete_Floor_wirkdfrn_2K1
+[2025.10.31-02.34.15:328][681]LogContentBrowser: Creating deferred item: MI_Concrete_Floor_wirkdfrn_2K1
+[2025.10.31-02.34.15:369][682]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Concrete_Floor_wirkdfrn_2K1).
+[2025.10.31-02.34.16:504][740]LogContentBrowser: Attempting asset rename: MI_Concrete_Floor_wirkdfrn_2K1 -> MI_Concrete_Floor_wirkdfrn_2K1
+[2025.10.31-02.34.16:507][740]LogContentBrowser: End creating deferred item MI_Concrete_Floor_wirkdfrn_2K1
+[2025.10.31-02.34.16:984][766]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K1.MI_Concrete_Floor_wirkdfrn_2K1
+[2025.10.31-02.34.16:988][766]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.10.31-02.34.25:511][122]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K_BaseColor.MI_Concrete_Floor_wirkdfrn_2K_BaseColor
+[2025.10.31-02.34.34:420][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2106.987305
+[2025.10.31-02.34.34:713][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-02.34.34:713][514]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2107.254639, Update Interval: 329.755554
+[2025.10.31-02.34.39:208][710]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.31-02.35.21:945][708]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.31-02.35.23:552][776]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.31-02.35.26:246][899]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: ================================================
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Total job queries 839, among them cache hits 122 (14.54%), DDC hits 643 (76.64%), Duplicates 71 (8.46%)
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Tracking 646 distinct input hashes that result in 434 distinct outputs (67.18%)
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: RAM used: 281.32 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Shaders Compiled: 3
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Job execution time: average 1.83 s, max 2.33 s
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Job life time (pending + execution): average 1.92 s, max 2.43
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Shader code size: average 16.217 KiB, min 8.023 KiB, max 23.238 KiB
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.43 s
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Average processing rate: 1.23 jobs/sec
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Total thread time: 2.562 s
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Total thread preprocess time: 11.736 s
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Percentage time preprocessing: 458.13%
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Effective parallelization: 1.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.10.31-02.35.31:091][123]LogShaderCompilers: Display:                    TVoxelizeVolumeVS<VMode_Primitive_Sphere> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 52.22% of total time (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.81% of total time (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.97% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display:                          TVoxelizeVolumeGS<VMode_Object_Box> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: === Material stats ===
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: Materials Translated:    236
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: Material Translation Only: 0.11 s (77%)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (6%)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: Material Cache Hits: 135 (57%)
+[2025.10.31-02.35.31:092][123]LogShaderCompilers: Display: ================================================
+[2025.10.31-02.35.39:933][522]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.31-02.35.47:192][821]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K_BaseColor.MI_Concrete_Floor_wirkdfrn_2K_BaseColor
+[2025.10.31-02.35.56:024][186]LogTexture: Display: 텍스처 빌드 중: /Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K_BaseColor.MI_Concrete_Floor_wirkdfrn_2K_BaseColor(TFO_AutoDXT, 1024x1024 x1x1x1)(예상 필요 메모리: 115.583323MB), 인코딩 속도: Final
+[2025.10.31-02.36.19:610][287]LogSlate: Window '색 선택 툴' being destroyed
+[2025.10.31-02.36.23:118][448]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.31-02.36.23:126][448]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.31-02.36.23:126][448]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.31-02.36.23:142][448]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.31-02.36.25:845][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.31-02.36.27:956][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.31-02.36.42:210][319]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-02.36.42:210][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-02.36.42:252][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.31-02.36.45:768][588]LogSlate: Window '팹' being destroyed
+[2025.10.31-02.36.45:775][588]LogSlate: Window '팹' being destroyed
+[2025.10.31-02.36.47:268][717]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.31-02.36.47:268][717]LogWebBrowser: Deleting browser for Url=https://www.fab.com/ko/plugins/ue5/.
+[2025.10.31-02.37.14:791][810]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2025.10.31-02.37.14:796][810]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.31-02.37.14:802][810]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.31-02.37.14:827][812]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.31-02.37.24:429][826]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_CharacterHud
+[2025.10.31-02.37.24:438][826]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.31-02.37.24:759][857]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud
+[2025.10.31-02.37.24:759][857]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.10.31-02.37.24:768][857]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.10.31-02.37.24:773][857]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2025.10.31-02.37.24:955][857]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.10.31-02.37.24:956][857]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.31-02.37.25:247][857]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: ================================================
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Total job queries 927, among them cache hits 161 (17.37%), DDC hits 675 (72.82%), Duplicates 71 (7.66%)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Tracking 695 distinct input hashes that result in 467 distinct outputs (67.19%)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: RAM used: 293.58 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Shaders Compiled: 20
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Average time worker was idle: 36.83 s
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.08 s
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 2.33 s
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Job life time (pending + execution): average 1.36 s, max 2.43
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Shader code size: average 12.653 KiB, min 4.336 KiB, max 23.711 KiB
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.96 s
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Average processing rate: 3.35 jobs/sec
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Total thread time: 15.684 s
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Total thread preprocess time: 12.905 s
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Percentage time preprocessing: 82.28%
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Effective parallelization: 2.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.56 sec, max 1.57 sec, min 1.55 sec)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.31 sec, max 1.34 sec, min 1.27 sec)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.71 sec)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.69 sec, max 0.74 sec, min 0.63 sec)
+[2025.10.31-02.38.31:239][108]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display:                                             FDebugViewModePS - 19.91% of total time (compiled    2 times, average 1.56 sec, max 1.57 sec, min 1.55 sec)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.64% of total time (compiled    2 times, average 1.31 sec, max 1.34 sec, min 1.27 sec)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.66% of total time (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.71 sec)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.77% of total time (compiled    2 times, average 0.69 sec, max 0.74 sec, min 0.63 sec)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 5.98% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: === Material stats ===
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: Materials Translated:    238
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: Material Translation Only: 0.11 s (77%)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (6%)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: Material Cache Hits: 135 (57%)
+[2025.10.31-02.38.31:240][108]LogShaderCompilers: Display: ================================================
+[2025.10.31-02.38.44:951][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.38.44:997][301]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.38.44:999][301]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.38.44:999][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.38.44:999][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.38.45:002][301]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.38.45:002][301]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud91D6943A4BD49D76F8AE59AF086100D6.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.38.45:011][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.441 ms (total: 8.63 sec)
+[2025.10.31-02.38.45:046][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.38.45:046][301]LogContentValidation: Enabled validators:
+[2025.10.31-02.38.45:046][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.38.45:046][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.38.45:046][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.38.45:046][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.38.45:046][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.38.45:046][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.38.45:046][301]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.38.45:302][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.31-02.38.53:005][828]LogSlate: Window '새 위젯 블루프린트의 부모 클래스 선택' being destroyed
+[2025.10.31-02.38.53:009][828]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.31-02.38.53:015][828]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.31-02.38.53:029][829]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.31-02.38.58:403][384]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_Timer
+[2025.10.31-02.38.58:411][384]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.31-02.39.00:416][588]LogContentBrowser: Deferred new asset file creation: WP_Timer1
+[2025.10.31-02.39.00:423][588]LogContentBrowser: Creating deferred item: WP_Timer1
+[2025.10.31-02.39.00:439][589]LogContentBrowser: Renaming the item being created (Deferred Item: WP_Timer1).
+[2025.10.31-02.39.07:884][366]LogContentBrowser: Attempting asset rename: WP_Timer1 -> WP_CharacterIcon
+[2025.10.31-02.39.07:917][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.31-02.39.07:936][366]LogContentBrowser: End creating deferred item WP_Timer1
+[2025.10.31-02.39.08:625][428]LogContentBrowser: Deferred new asset file creation: WP_CharacterIcon1
+[2025.10.31-02.39.08:632][428]LogContentBrowser: Creating deferred item: WP_CharacterIcon1
+[2025.10.31-02.39.08:647][429]LogContentBrowser: Renaming the item being created (Deferred Item: WP_CharacterIcon1).
+[2025.10.31-02.39.15:808][179]LogContentBrowser: Attempting asset rename: WP_CharacterIcon1 -> WP_Health
+[2025.10.31-02.39.15:835][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.31-02.39.15:852][179]LogContentBrowser: End creating deferred item WP_CharacterIcon1
+[2025.10.31-02.39.27:558][382]LogContentBrowser: Deferred new asset file creation: WP_Health1
+[2025.10.31-02.39.27:565][382]LogContentBrowser: Creating deferred item: WP_Health1
+[2025.10.31-02.39.27:581][383]LogContentBrowser: Renaming the item being created (Deferred Item: WP_Health1).
+[2025.10.31-02.39.33:797][ 26]LogContentBrowser: Attempting asset rename: WP_Health1 -> WP_ChickenIcon
+[2025.10.31-02.39.33:825][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.31-02.39.33:842][ 26]LogContentBrowser: End creating deferred item WP_Health1
+[2025.10.31-02.39.37:026][345]LogContentBrowser: Deferred new asset file creation: WP_Health1
+[2025.10.31-02.39.37:034][345]LogContentBrowser: Creating deferred item: WP_Health1
+[2025.10.31-02.39.37:050][346]LogContentBrowser: Renaming the item being created (Deferred Item: WP_Health1).
+[2025.10.31-02.39.45:139][165]LogContentBrowser: Attempting asset rename: WP_Health1 -> WP_Pause
+[2025.10.31-02.39.45:167][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.31-02.39.45:183][165]LogContentBrowser: End creating deferred item WP_Health1
+[2025.10.31-02.39.45:437][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.39.45:496][184]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_Pause] ([2] browsable assets)...
+[2025.10.31-02.39.45:497][184]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_Pause.WP_Pause]
+[2025.10.31-02.39.45:497][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_Pause]
+[2025.10.31-02.39.45:497][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_Pause" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_Pause.uasset" SILENT=true
+[2025.10.31-02.39.45:499][184]LogSavePackage: Moving output files for package: /Game/UI/WP_Pause
+[2025.10.31-02.39.45:499][184]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_PauseFE66A934461CA46E7135A982037B2737.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_Pause.uasset'
+[2025.10.31-02.39.45:508][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.624 ms (total: 8.70 sec)
+[2025.10.31-02.39.45:563][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.39.45:563][184]LogContentValidation: Enabled validators:
+[2025.10.31-02.39.45:563][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.39.45:563][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.39.45:563][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.39.45:563][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.39.45:563][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.39.45:563][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.39.45:564][184]AssetCheck: /Game/UI/WP_Pause 에셋 유효성 검사 중
+[2025.10.31-02.39.48:990][506]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon
+[2025.10.31-02.39.48:990][506]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.31-02.39.49:000][506]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.10.31-02.39.49:142][506]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.10.31-02.39.49:143][506]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.31-02.39.49:143][506]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.31-02.39.54:845][803]LogSlate: Window '팹' being destroyed
+[2025.10.31-02.39.54:854][803]LogSlate: Window '팹' being destroyed
+[2025.10.31-02.39.56:564][862]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.31-02.39.56:564][862]LogWebBrowser: Deleting browser for Url=https://www.fab.com/ko/plugins/ue5/.
+[2025.10.31-02.40.26:301][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.40.26:347][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.40.26:348][ 97]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.40.26:349][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.40.26:349][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.40.26:351][ 97]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.40.26:351][ 97]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconBAAFDFEE4455DD35B5E83B96686DFE33.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.40.26:361][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.577 ms (total: 8.76 sec)
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: Enabled validators:
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.40.26:396][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.40.26:396][ 97]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.40.50:648][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.40.50:696][796]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.40.50:698][796]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.40.50:698][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.40.50:698][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.40.50:700][796]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.40.50:701][796]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon85EC2114466F099934DA7D8DEE79E06B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.40.50:708][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.449 ms (total: 8.82 sec)
+[2025.10.31-02.40.50:745][796]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.40.50:745][796]LogContentValidation: Enabled validators:
+[2025.10.31-02.40.50:746][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.40.50:746][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.40.50:746][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.40.50:746][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.40.50:746][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.40.50:746][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.40.50:746][796]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.40.58:043][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2490.605469
+[2025.10.31-02.40.58:291][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-02.40.58:291][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2490.834961, Update Interval: 329.171417
+[2025.10.31-02.42.31:226][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.42.31:262][643]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.42.31:264][643]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.42.31:264][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.42.31:264][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.42.31:267][643]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.42.31:267][643]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconA8BABB184CDDBB24570E98B2AC0579DC.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.42.31:274][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.094 ms (total: 8.87 sec)
+[2025.10.31-02.42.31:311][643]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.42.31:311][643]LogContentValidation: Enabled validators:
+[2025.10.31-02.42.31:311][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.42.31:311][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.42.31:311][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.42.31:311][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.42.31:311][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.42.31:311][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.42.31:311][643]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.42.56:036][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.42.56:095][240]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.42.56:097][240]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.42.56:097][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.42.56:097][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.42.56:099][240]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.42.56:100][240]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud8AED7F8948E58524734A58B7126A7A0B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.42.56:105][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.841 ms (total: 8.94 sec)
+[2025.10.31-02.42.56:160][240]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.42.56:160][240]LogContentValidation: Enabled validators:
+[2025.10.31-02.42.56:160][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.42.56:160][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.42.56:160][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.42.56:160][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.42.56:160][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.42.56:160][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.42.56:161][240]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.42.56:869][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.31-02.43.06:649][666]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WP_ChickenIcon.WP_ChickenIcon
+[2025.10.31-02.43.06:649][666]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.10.31-02.43.06:658][666]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.31-02.43.06:790][666]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.10.31-02.43.06:791][666]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.31-02.43.06:791][666]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.31-02.43.06:792][666]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.31-02.45.51:976][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.45.52:026][538]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.45.52:027][538]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.45.52:027][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.45.52:027][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.45.52:030][538]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.45.52:031][538]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon057DE8B14B1B935955F3B2BB695DC542.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.45.52:037][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.913 ms (total: 9.00 sec)
+[2025.10.31-02.45.52:075][538]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.45.52:075][538]LogContentValidation: Enabled validators:
+[2025.10.31-02.45.52:075][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.45.52:075][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.45.52:075][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.45.52:075][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.45.52:075][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.45.52:075][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.45.52:075][538]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.46.24:710][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.46.24:759][396]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.46.24:760][396]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.46.24:761][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.46.24:761][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.46.24:763][396]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.46.24:763][396]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconCCA0DFB74FAE3F084959AA9581E9466E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.46.24:770][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.876 ms (total: 9.06 sec)
+[2025.10.31-02.46.24:824][396]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.46.24:824][396]LogContentValidation: Enabled validators:
+[2025.10.31-02.46.24:824][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.46.24:824][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.46.24:824][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.46.24:824][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.46.24:824][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.46.24:824][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.46.24:825][396]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.46.49:422][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.46.49:459][933]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.46.49:461][933]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.46.49:461][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.46.49:461][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.46.49:464][933]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.46.49:464][933]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud14C1642F48511F2FDEE828B28BD8C51E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.46.49:471][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.117 ms (total: 9.11 sec)
+[2025.10.31-02.46.49:525][933]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.46.49:525][933]LogContentValidation: Enabled validators:
+[2025.10.31-02.46.49:525][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.46.49:525][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.46.49:525][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.46.49:525][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.46.49:525][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.46.49:525][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.46.49:526][933]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.47.03:276][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.47.03:309][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.47.03:309][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.47.03:309][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.47.03:311][701]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.47.03:312][701]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon3811B85B42371F7315F10389F984F522.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.47.03:318][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.871 ms (total: 9.15 sec)
+[2025.10.31-02.47.03:375][701]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.47.03:375][701]LogContentValidation: Enabled validators:
+[2025.10.31-02.47.03:375][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.47.03:375][701]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.47.03:375][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.47.03:375][701]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.47.03:375][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.47.03:375][701]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.47.03:376][701]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.47.04:166][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.47.04:209][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.47.04:209][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.47.04:209][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.47.04:212][746]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.47.04:212][746]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconC18310F74C107C229771CFBFE5B16E0E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.47.04:217][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.156 ms (total: 9.20 sec)
+[2025.10.31-02.47.04:258][746]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.47.04:258][746]LogContentValidation: Enabled validators:
+[2025.10.31-02.47.04:258][746]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.47.04:258][746]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.47.04:258][746]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.47.04:258][746]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.47.04:258][746]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.47.04:258][746]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.47.04:258][746]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.47.10:171][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2862.716797
+[2025.10.31-02.47.10:454][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-02.47.10:454][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2862.983887, Update Interval: 323.855713
+[2025.10.31-02.47.44:199][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.47.44:258][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.47.44:260][298]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.47.44:260][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.47.44:260][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.47.44:263][298]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.47.44:264][298]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon1C999287410D5636E44DE2B53552DAD6.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.47.44:269][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.004 ms (total: 9.27 sec)
+[2025.10.31-02.47.44:308][298]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.47.44:308][298]LogContentValidation: Enabled validators:
+[2025.10.31-02.47.44:308][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.47.44:308][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.47.44:308][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.47.44:308][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.47.44:308][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.47.44:308][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.47.44:308][298]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.47.44:941][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.47.44:992][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.31-02.47.45:095][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.10.31-02.47.45:195][343]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.31-02.47.45:195][343]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1EC20607842B29836089129A560F72218.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.31-02.47.45:207][343]LogFileHelpers: Saving map 'Stage1' took 0.216
+[2025.10.31-02.47.45:212][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 271.791 ms (total: 9.55 sec)
+[2025.10.31-02.47.45:241][343]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.47.45:241][343]LogContentValidation: Enabled validators:
+[2025.10.31-02.47.45:241][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.47.45:241][343]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.47.45:241][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.47.45:241][343]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.47.45:241][343]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.47.45:241][343]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.47.45:241][343]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.31-02.47.45:795][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.31-02.48.15:156][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.48.15:209][989]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.48.15:211][989]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.48.15:211][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.48.15:211][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.48.15:213][989]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.48.15:214][989]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud7109EED943B94415CDED00A2F5B0B2C2.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.48.15:220][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.145 ms (total: 9.61 sec)
+[2025.10.31-02.48.15:274][989]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.48.15:274][989]LogContentValidation: Enabled validators:
+[2025.10.31-02.48.15:274][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.48.15:275][989]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.48.15:275][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.48.15:275][989]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.48.15:275][989]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.48.15:275][989]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.48.15:275][989]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.48.30:820][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.48.30:875][992]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.48.30:877][992]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.48.30:877][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.48.30:877][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.48.30:881][992]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.48.30:881][992]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon2BF047AA412E78A889AFFBB56065EB8A.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.48.30:888][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.782 ms (total: 9.68 sec)
+[2025.10.31-02.48.30:924][992]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.48.30:924][992]LogContentValidation: Enabled validators:
+[2025.10.31-02.48.30:924][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.48.30:924][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.48.30:924][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.48.30:924][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.48.30:924][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.48.30:924][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.48.30:925][992]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.49.04:273][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.49.04:324][823]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.49.04:326][823]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.49.04:326][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.49.04:326][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.49.04:330][823]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.49.04:330][823]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconAC3FF8964A859B37B0D4869F4B27FBAA.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.49.04:336][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.023 ms (total: 9.74 sec)
+[2025.10.31-02.49.04:374][823]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.49.04:374][823]LogContentValidation: Enabled validators:
+[2025.10.31-02.49.04:374][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.49.04:374][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.49.04:374][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.49.04:374][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.49.04:374][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.49.04:374][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.49.04:374][823]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.50.38:714][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.50.38:774][272]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.50.38:776][272]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.50.38:776][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.50.38:776][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.50.38:779][272]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.50.38:779][272]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconF06BC2FB4690B30DA9A50EBB1A177E8D.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.50.38:785][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.234 ms (total: 9.81 sec)
+[2025.10.31-02.50.38:823][272]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.50.38:823][272]LogContentValidation: Enabled validators:
+[2025.10.31-02.50.38:823][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.50.38:823][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.50.38:823][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.50.38:823][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.50.38:823][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.50.38:823][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.50.38:823][272]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.53.07:084][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3219.646729
+[2025.10.31-02.53.07:359][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-02.53.07:359][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3219.894531, Update Interval: 343.194061
+[2025.10.31-02.53.57:573][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.53.57:604][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.53.57:606][332]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.53.57:606][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.53.57:606][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.53.57:610][332]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.53.57:610][332]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconF4C3D32040154A37853D2B9DDBB4CD65.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.53.57:616][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.246 ms (total: 9.85 sec)
+[2025.10.31-02.53.57:653][332]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.53.57:653][332]LogContentValidation: Enabled validators:
+[2025.10.31-02.53.57:654][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.53.57:654][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.53.57:654][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.53.57:654][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.53.57:654][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.53.57:654][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.53.57:654][332]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.54.00:502][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.31-02.54.21:129][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.54.21:188][844]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.54.21:190][844]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.54.21:190][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.54.21:190][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.54.21:193][844]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.54.21:193][844]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHudEC8BEF9B42F380D095D1ED8ADDCFF8CA.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.54.21:200][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.925 ms (total: 9.92 sec)
+[2025.10.31-02.54.21:254][844]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.54.21:255][844]LogContentValidation: Enabled validators:
+[2025.10.31-02.54.21:255][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.54.21:255][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.54.21:255][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.54.21:255][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.54.21:255][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.54.21:255][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.54.21:255][844]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.54.35:855][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.54.35:905][622]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.54.35:907][622]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.54.35:907][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.54.35:907][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.54.35:910][622]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.54.35:911][622]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon59E5F72B44877C4EA8C109AEBCEC549B.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.54.35:916][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.157 ms (total: 9.99 sec)
+[2025.10.31-02.54.35:971][622]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.54.35:971][622]LogContentValidation: Enabled validators:
+[2025.10.31-02.54.35:971][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.54.35:971][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.54.35:971][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.54.35:971][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.54.35:971][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.54.35:971][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.54.35:972][622]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.54.47:136][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.54.47:188][271]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.54.47:188][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.54.47:188][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.54.47:191][271]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.54.47:191][271]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon0035DCF9449EDEBA0FD08EAC2357920F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.54.47:197][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.973 ms (total: 10.0 sec)
+[2025.10.31-02.54.47:253][271]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.54.47:253][271]LogContentValidation: Enabled validators:
+[2025.10.31-02.54.47:253][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.54.47:253][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.54.47:253][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.54.47:253][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.54.47:253][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.54.47:253][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.54.47:254][271]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.55.17:678][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.55.17:736][794]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.55.17:738][794]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.55.17:738][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.55.17:738][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.55.17:742][794]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.55.17:742][794]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon16CCF8374347978935703F99C2AA82E7.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.55.17:748][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.170 ms (total: 10.1 sec)
+[2025.10.31-02.55.17:803][794]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.55.17:803][794]LogContentValidation: Enabled validators:
+[2025.10.31-02.55.17:803][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.55.17:804][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.55.17:804][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.55.17:804][794]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.55.17:804][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.55.17:804][794]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.55.17:804][794]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.55.24:330][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.31-02.55.32:855][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.55.32:904][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-02.55.32:906][701]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-02.55.32:906][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-02.55.32:906][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-02.55.32:909][701]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-02.55.32:910][701]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconDFF40A364C2AEBA41995358994CBB80C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-02.55.32:916][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.626 ms (total: 10.1 sec)
+[2025.10.31-02.55.32:970][701]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.55.32:970][701]LogContentValidation: Enabled validators:
+[2025.10.31-02.55.32:970][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.55.32:970][701]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.55.32:970][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.55.32:970][701]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.55.32:970][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.55.32:970][701]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.55.32:971][701]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-02.57.00:633][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.57.00:685][673]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.57.00:687][673]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.57.00:687][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.57.00:687][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.57.00:690][673]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.57.00:691][673]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud7EFFF69F43B9B2F672947A92B74D236F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.57.00:697][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.490 ms (total: 10.2 sec)
+[2025.10.31-02.57.00:752][673]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.57.00:752][673]LogContentValidation: Enabled validators:
+[2025.10.31-02.57.00:752][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.57.00:752][673]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.57.00:752][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.57.00:752][673]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.57.00:752][673]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.57.00:752][673]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.57.00:752][673]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.57.09:192][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.57.09:236][115]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.57.09:236][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.57.09:236][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.57.09:239][115]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.57.09:239][115]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud756DFE3243E7EE58D23BE0914C35EC03.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.57.09:245][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.355 ms (total: 10.2 sec)
+[2025.10.31-02.57.09:303][115]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.57.09:303][115]LogContentValidation: Enabled validators:
+[2025.10.31-02.57.09:303][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.57.09:303][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.57.09:303][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.57.09:303][115]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.57.09:303][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.57.09:303][115]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.57.09:303][115]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.57.16:763][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.57.16:805][501]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.57.16:808][501]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.57.16:808][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.57.16:808][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.57.16:811][501]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.57.16:812][501]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHudBF42490642E4CC0ED76345B608E1D8E5.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.57.16:817][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.869 ms (total: 10.3 sec)
+[2025.10.31-02.57.16:871][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.57.16:871][501]LogContentValidation: Enabled validators:
+[2025.10.31-02.57.16:871][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.57.16:871][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.57.16:871][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.57.16:871][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.57.16:871][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.57.16:871][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.57.16:871][501]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.57.30:534][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.57.30:587][182]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.57.30:589][182]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.57.30:589][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.57.30:589][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.57.30:592][182]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.57.30:592][182]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud0CC00648481DB4162396CA809EC8E72E.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.57.30:598][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.177 ms (total: 10.4 sec)
+[2025.10.31-02.57.30:636][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.57.30:636][182]LogContentValidation: Enabled validators:
+[2025.10.31-02.57.30:636][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.57.30:636][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.57.30:636][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.57.30:636][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.57.30:636][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.57.30:636][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.57.30:637][182]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.57.32:625][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.31-02.57.44:774][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-02.57.44:819][858]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-02.57.44:821][858]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-02.57.44:821][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-02.57.44:821][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-02.57.44:824][858]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-02.57.44:824][858]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud63A6F36A42EA2A65D00E1DB757E6388D.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-02.57.44:830][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.919 ms (total: 10.4 sec)
+[2025.10.31-02.57.44:885][858]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-02.57.44:885][858]LogContentValidation: Enabled validators:
+[2025.10.31-02.57.44:885][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-02.57.44:885][858]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-02.57.44:885][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-02.57.44:885][858]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-02.57.44:885][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-02.57.44:885][858]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-02.57.44:886][858]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-02.58.01:346][696]LogEditorTransaction: Undo 위젯 추가
+[2025.10.31-02.59.23:350][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3595.927490
+[2025.10.31-02.59.23:614][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-02.59.23:615][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3596.171875, Update Interval: 351.445068
+[2025.10.31-02.59.35:878][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.35:879][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.35:880][278]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.35:959][279]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.35:970][279]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.35:993][280]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.36:068][281]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.36:098][282]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.36:102][282]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.36:176][283]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.36:186][283]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-02.59.36:284][285]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling 드래그 앤 드롭 위젯 entirely.
+[2025.10.31-03.00.25:251][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.00.25:301][751]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.00.25:303][751]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.00.25:303][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.00.25:303][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.00.25:308][751]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.00.25:308][751]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon7A6C295F485BA86269A817BDA4A809EC.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.00.25:314][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.772 ms (total: 10.5 sec)
+[2025.10.31-03.00.25:367][751]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.00.25:367][751]LogContentValidation: Enabled validators:
+[2025.10.31-03.00.25:367][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.00.25:367][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.00.25:367][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.00.25:367][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.00.25:367][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.00.25:367][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.00.25:368][751]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.00.42:034][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.10.31-03.00.56:186][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.00.56:234][290]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.00.56:236][290]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.00.56:236][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.00.56:236][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.00.56:240][290]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.00.56:240][290]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon7B0A64B3489C3CC08D76328308DF36A3.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.00.56:247][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.488 ms (total: 10.5 sec)
+[2025.10.31-03.00.56:283][290]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.00.56:283][290]LogContentValidation: Enabled validators:
+[2025.10.31-03.00.56:283][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.00.56:283][290]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.00.56:283][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.00.56:283][290]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.00.56:283][290]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.00.56:283][290]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.00.56:284][290]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.00.56:963][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.00.57:002][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage1" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.31-03.00.57:045][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.31-03.00.57:145][336]LogSavePackage: Moving output files for package: /Game/Map/Stage1
+[2025.10.31-03.00.57:145][336]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/Stage1A44D8DCA4D09F4D2E329EB8509AF07F8.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/Map/Stage1.umap'
+[2025.10.31-03.00.57:157][336]LogFileHelpers: Saving map 'Stage1' took 0.156
+[2025.10.31-03.00.57:162][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.961 ms (total: 10.7 sec)
+[2025.10.31-03.00.57:199][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.00.57:200][336]LogContentValidation: Enabled validators:
+[2025.10.31-03.00.57:200][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.00.57:200][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.00.57:200][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.00.57:200][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.00.57:200][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.00.57:200][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.00.57:200][336]AssetCheck: /Game/Map/Stage1 에셋 유효성 검사 중
+[2025.10.31-03.00.58:021][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.31-03.00.58:443][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.31-03.01.03:578][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.31-03.01.16:322][339]LogEditorTransaction: Undo Y 편집
+[2025.10.31-03.01.16:987][356]LogEditorTransaction: Undo X 편집
+[2025.10.31-03.01.17:509][388]LogEditorTransaction: Undo X 편집
+[2025.10.31-03.01.23:468][685]LogDerivedDataCache: C:/Users/KGA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.31-03.01.33:303][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.01.33:334][156]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.01.33:337][156]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.01.33:337][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.01.33:337][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.01.33:341][156]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.01.33:341][156]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconC20FA56144032C41D5C4B2B06239F53A.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.01.33:348][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.258 ms (total: 10.8 sec)
+[2025.10.31-03.01.33:400][156]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.01.33:400][156]LogContentValidation: Enabled validators:
+[2025.10.31-03.01.33:400][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.01.33:400][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.01.33:400][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.01.33:400][156]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.01.33:400][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.01.33:400][156]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.01.33:401][156]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.01.51:548][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.01.51:583][ 43]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.01.51:584][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.01.51:584][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.01.51:588][ 43]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.01.51:588][ 43]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon3D374AEE4987871BA918FC9176C7239F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.01.51:595][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.209 ms (total: 10.8 sec)
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: Enabled validators:
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.01.51:633][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.01.51:634][ 43]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.02.20:822][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.02.20:868][590]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.02.20:869][590]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.02.20:870][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.02.20:870][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.02.20:874][590]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.02.20:874][590]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon9FD0B02C4D87274918C150B3C9676847.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.02.20:880][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.704 ms (total: 10.9 sec)
+[2025.10.31-03.02.20:915][590]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.02.20:915][590]LogContentValidation: Enabled validators:
+[2025.10.31-03.02.20:916][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.02.20:916][590]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.02.20:916][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.02.20:916][590]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.02.20:916][590]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.02.20:916][590]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.02.20:916][590]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.02.32:007][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.02.32:051][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.02.32:053][139]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.02.32:053][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.02.32:053][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.02.32:058][139]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.02.32:059][139]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconF4EC9D694574275805177E82D174B55F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.02.32:065][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.431 ms (total: 11.0 sec)
+[2025.10.31-03.02.32:116][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.02.32:116][139]LogContentValidation: Enabled validators:
+[2025.10.31-03.02.32:116][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.02.32:116][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.02.32:116][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.02.32:116][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.02.32:116][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.02.32:116][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.02.32:117][139]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.02.32:477][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.31-03.02.54:626][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.31-03.05.01:918][816]LogEditorTransaction: Undo 위젯 크기조정
+[2025.10.31-03.05.13:048][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.05.13:099][397]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.05.13:100][397]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.05.13:101][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.05.13:101][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.05.13:103][397]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.05.13:104][397]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHudA4BB85A345C13360304409B97C9003F6.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.05.13:110][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.651 ms (total: 11.0 sec)
+[2025.10.31-03.05.13:148][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.05.13:148][397]LogContentValidation: Enabled validators:
+[2025.10.31-03.05.13:148][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.05.13:148][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.05.13:148][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.05.13:148][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.05.13:148][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.05.13:148][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.05.13:149][397]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.05.16:937][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.10.31-03.06.01:630][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3994.221924
+[2025.10.31-03.06.01:900][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-03.06.01:900][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3994.473145, Update Interval: 340.198364
+[2025.10.31-03.06.25:232][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.06.25:265][341]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.06.25:267][341]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.06.25:267][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.06.25:267][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.06.25:272][341]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.06.25:272][341]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon92578C8042E4C1325CE9F58697341981.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.06.25:278][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.146 ms (total: 11.1 sec)
+[2025.10.31-03.06.25:330][341]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.06.25:330][341]LogContentValidation: Enabled validators:
+[2025.10.31-03.06.25:330][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.06.25:330][341]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.06.25:330][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.06.25:330][341]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.06.25:330][341]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.06.25:330][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.06.25:331][341]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.07.06:106][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.07.06:148][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.07.06:150][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.07.06:150][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.07.06:150][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.07.06:154][512]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.07.06:154][512]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon8FDEC3824BEBBA47C14931BB8FA5F8E5.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.07.06:161][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.009 ms (total: 11.1 sec)
+[2025.10.31-03.07.06:196][512]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.07.06:196][512]LogContentValidation: Enabled validators:
+[2025.10.31-03.07.06:196][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.07.06:196][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.07.06:196][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.07.06:196][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.07.06:196][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.07.06:196][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.07.06:197][512]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.07.09:035][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.31-03.07.21:882][326]LogEditorTransaction: Undo 위젯 크기조정
+[2025.10.31-03.07.22:438][335]LogEditorTransaction: Undo 콘텐츠 크기에 맞춤 편집
+[2025.10.31-03.07.23:514][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.07.23:565][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.07.23:567][388]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.07.23:567][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.07.23:567][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.07.23:570][388]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.07.23:571][388]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHudE797778B44110642E9D0AC9F8BA2C2BC.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.07.23:578][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.699 ms (total: 11.2 sec)
+[2025.10.31-03.07.23:631][388]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.07.23:631][388]LogContentValidation: Enabled validators:
+[2025.10.31-03.07.23:631][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.07.23:631][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.07.23:631][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.07.23:631][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.07.23:631][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.07.23:631][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.07.23:632][388]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.07.24:267][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.31-03.07.39:898][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.07.39:931][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.07.39:932][215]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.07.39:932][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.07.39:933][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.07.39:938][215]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.07.39:938][215]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconBAF89D1B41A217C0DF713999D6C5772A.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.07.39:944][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.409 ms (total: 11.2 sec)
+[2025.10.31-03.07.39:996][215]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.07.39:996][215]LogContentValidation: Enabled validators:
+[2025.10.31-03.07.39:996][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.07.39:996][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.07.39:996][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.07.39:996][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.07.39:996][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.07.39:996][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.07.39:997][215]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.07.43:947][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.31-03.07.53:931][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.07.53:980][946]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.07.53:982][946]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.07.53:982][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.07.53:982][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.07.53:985][946]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.07.53:986][946]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHudA4C6437647B37296D57987A1D1786AEF.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.07.53:992][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.273 ms (total: 11.3 sec)
+[2025.10.31-03.07.54:047][946]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.07.54:047][946]LogContentValidation: Enabled validators:
+[2025.10.31-03.07.54:047][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.07.54:047][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.07.54:047][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.07.54:047][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.07.54:047][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.07.54:047][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.07.54:048][946]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.08.18:777][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.08.18:813][220]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.08.18:815][220]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.08.18:815][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.08.18:815][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.08.18:818][220]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.08.18:819][220]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHudE473E61241B5A7D408C592B49B5AE3E2.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.08.18:825][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.888 ms (total: 11.3 sec)
+[2025.10.31-03.08.18:880][220]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.08.18:880][220]LogContentValidation: Enabled validators:
+[2025.10.31-03.08.18:880][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.08.18:880][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.08.18:880][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.08.18:880][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.08.18:880][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.08.18:880][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.08.18:881][220]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.08.35:504][178]LogEditorTransaction: Undo 위젯 제거
+[2025.10.31-03.08.39:410][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.08.39:464][367]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.08.39:465][367]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.08.39:465][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.08.39:465][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.08.39:469][367]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.08.39:469][367]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud5101E480449A322413E5E091882CB6CC.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.08.39:475][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.859 ms (total: 11.4 sec)
+[2025.10.31-03.08.39:530][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.08.39:530][367]LogContentValidation: Enabled validators:
+[2025.10.31-03.08.39:530][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.08.39:530][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.08.39:530][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.08.39:530][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.08.39:530][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.08.39:530][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.08.39:531][367]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.08.50:822][ 40]LogEditorTransaction: Undo 변경된 앵커
+[2025.10.31-03.08.56:138][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.08.56:197][341]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.08.56:198][341]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.08.56:199][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.08.56:199][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.08.56:202][341]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.08.56:202][341]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud0C6EDE394569D9BD1D1DD29900E64BBB.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.08.56:208][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.572 ms (total: 11.5 sec)
+[2025.10.31-03.08.56:263][341]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.08.56:263][341]LogContentValidation: Enabled validators:
+[2025.10.31-03.08.56:263][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.08.56:263][341]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.08.56:263][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.08.56:263][341]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.08.56:263][341]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.08.56:263][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.08.56:263][341]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.08.57:919][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.08.57:947][429]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.08.57:947][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.08.57:947][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.08.57:950][429]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.08.57:950][429]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud6874DCFD47ECA82C944DFE98A5AA18CE.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.08.57:955][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.653 ms (total: 11.5 sec)
+[2025.10.31-03.08.58:012][429]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.08.58:012][429]LogContentValidation: Enabled validators:
+[2025.10.31-03.08.58:012][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.08.58:012][429]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.08.58:012][429]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.08.58:012][429]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.08.58:012][429]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.08.58:012][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.08.58:013][429]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.08.59:778][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.10.31-03.09.23:840][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.09.23:880][960]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.09.23:882][960]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.09.23:883][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.09.23:883][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.09.23:887][960]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.09.23:888][960]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon6F94DA9845CF92B5D28CF986F062968C.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.09.23:893][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.164 ms (total: 11.6 sec)
+[2025.10.31-03.09.23:945][960]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.09.23:945][960]LogContentValidation: Enabled validators:
+[2025.10.31-03.09.23:945][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.09.23:945][960]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.09.23:945][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.09.23:945][960]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.09.23:945][960]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.09.23:945][960]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.09.23:946][960]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.09.24:226][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.31-03.09.27:999][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.09.28:046][181]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.09.28:049][181]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.09.28:049][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.09.28:049][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.09.28:052][181]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.09.28:052][181]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud9AD605B64C9B299AF66A108A68010DD5.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.09.28:058][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.844 ms (total: 11.6 sec)
+[2025.10.31-03.09.28:112][181]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.09.28:112][181]LogContentValidation: Enabled validators:
+[2025.10.31-03.09.28:112][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.09.28:112][181]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.09.28:112][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.09.28:112][181]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.09.28:112][181]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.09.28:112][181]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.09.28:112][181]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.09.36:600][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.09.36:635][681]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.09.36:637][681]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.09.36:637][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.09.36:637][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.09.36:641][681]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.09.36:642][681]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon093B9BAE4BFB255276478E881B507ADA.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.09.36:647][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.804 ms (total: 11.7 sec)
+[2025.10.31-03.09.36:698][681]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.09.36:698][681]LogContentValidation: Enabled validators:
+[2025.10.31-03.09.36:698][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.09.36:698][681]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.09.36:698][681]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.09.36:698][681]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.09.36:698][681]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.09.36:698][681]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.09.36:699][681]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.09.39:084][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.09.39:130][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.09.39:132][819]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.09.39:132][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.09.39:132][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.09.39:136][819]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.09.39:136][819]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIconB356E9914231F0B24EAB6F8BC0D334FF.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.09.39:142][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.389 ms (total: 11.7 sec)
+[2025.10.31-03.09.39:179][819]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.09.39:179][819]LogContentValidation: Enabled validators:
+[2025.10.31-03.09.39:179][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.09.39:179][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.09.39:179][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.09.39:179][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.09.39:179][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.09.39:179][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.09.39:180][819]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.09.40:173][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.31-03.09.40:945][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.31-03.09.42:395][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.31-03.09.43:017][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.09.43:063][ 20]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.09.43:065][ 20]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.09.43:065][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.09.43:065][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.09.43:068][ 20]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.09.43:068][ 20]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHudE921EC18483218C8A4284195E6605EA7.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.09.43:073][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.371 ms (total: 11.8 sec)
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: Enabled validators:
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.09.43:128][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.09.43:129][ 20]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.09.48:616][318]LogEditorTransaction: Undo 위젯 크기조정
+[2025.10.31-03.09.49:311][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.09.49:363][334]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.09.49:365][334]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.09.49:365][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.09.49:365][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.09.49:368][334]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.09.49:368][334]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud0B1829364A20BEEBE73F028FF834BC6F.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.09.49:374][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.017 ms (total: 11.8 sec)
+[2025.10.31-03.09.49:430][334]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.09.49:430][334]LogContentValidation: Enabled validators:
+[2025.10.31-03.09.49:430][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.09.49:430][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.09.49:430][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.09.49:430][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.09.49:430][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.09.49:430][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.09.49:430][334]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.10.05:062][206]LogEditorTransaction: Undo 위젯 크기조정
+[2025.10.31-03.10.05:889][228]LogEditorTransaction: Undo 위젯 크기조정
+[2025.10.31-03.10.12:622][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.10.12:679][593]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterHud] ([2] browsable assets)...
+[2025.10.31-03.10.12:681][593]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterHud.WP_CharacterHud]
+[2025.10.31-03.10.12:681][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterHud]
+[2025.10.31-03.10.12:681][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterHud" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset" SILENT=true
+[2025.10.31-03.10.12:684][593]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterHud
+[2025.10.31-03.10.12:684][593]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterHud968A34254F62154C1A2545A29710CAA3.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterHud.uasset'
+[2025.10.31-03.10.12:690][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.602 ms (total: 11.9 sec)
+[2025.10.31-03.10.12:729][593]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.10.12:729][593]LogContentValidation: Enabled validators:
+[2025.10.31-03.10.12:729][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.10.12:729][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.10.12:729][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.10.12:729][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.10.12:729][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.10.12:729][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.10.12:730][593]AssetCheck: /Game/UI/WP_CharacterHud 에셋 유효성 검사 중
+[2025.10.31-03.10.13:806][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.31-03.10.19:226][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-03.10.19:266][953]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WP_CharacterIcon] ([2] browsable assets)...
+[2025.10.31-03.10.19:268][953]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WP_CharacterIcon.WP_CharacterIcon]
+[2025.10.31-03.10.19:268][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WP_CharacterIcon]
+[2025.10.31-03.10.19:268][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WP_CharacterIcon" FILE="../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset" SILENT=true
+[2025.10.31-03.10.19:272][953]LogSavePackage: Moving output files for package: /Game/UI/WP_CharacterIcon
+[2025.10.31-03.10.19:272][953]LogSavePackage: Moving '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Saved/WP_CharacterIcon87CF503D416C3DEAA0F369BCFD15DA66.tmp' to '../../../../../../Users/KGA/Documents/Unreal Projects/KI_Exam02_KSH_ALTF4/ALTF4/Content/UI/WP_CharacterIcon.uasset'
+[2025.10.31-03.10.19:277][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.211 ms (total: 12.0 sec)
+[2025.10.31-03.10.19:312][953]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-03.10.19:312][953]LogContentValidation: Enabled validators:
+[2025.10.31-03.10.19:312][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-03.10.19:312][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-03.10.19:312][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-03.10.19:312][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-03.10.19:312][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-03.10.19:312][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-03.10.19:313][953]AssetCheck: /Game/UI/WP_CharacterIcon 에셋 유효성 검사 중
+[2025.10.31-03.10.20:539][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
