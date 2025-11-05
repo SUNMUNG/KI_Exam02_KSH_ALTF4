@@ -267,7 +267,8 @@
 				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_tkrleeuo_2K",
 				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_tkxiabyya_2K",
 				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_ub4maeedy_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Old_Muddy_Plaster_ufvhai2lw_2K"
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Old_Muddy_Plaster_ufvhai2lw_2K",
+				"/Game/Fab/Megascans/Surfaces/Grass_And_Rubble_pjwey0/Low/MI_pjwey0"
 			]
 		},
 		{
@@ -360,14 +361,6 @@
 			"ShaderMapHash": "088792401A7A3DEA3F4BDFA6437019BB9BA23394",
 			"Assets": [
 				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_Flame"
-			]
-		},
-		{
-			"ShaderMapHash": "D59CBC4232E40BB7C4CE5AB4AD705852A574BCE2",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Base",
-				"/Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/MI_veoneio",
-				"/Game/Fab/Megascans/3D/Old_Wooden_Log_wcokfh1/Low/MI_wcokfh1"
 			]
 		},
 		{
@@ -562,12 +555,6 @@
 			"ShaderMapHash": "E4EA145EECCB1BABE2E6815513EE255D96550621",
 			"Assets": [
 				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "791A635EB5AAFA2A2842FA7BF93D4132C1509F9E",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Srf"
 			]
 		},
 		{
@@ -870,13 +857,6 @@
 			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "F585AD96E346BCF99C9C5DC7CC2103407CC3E8E8",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Base_Fuzz",
-				"/Game/Fab/Megascans/3D/Oak_Tree_Log_wd0oddjbw/Low/MI_wd0oddjbw"
 			]
 		},
 		{
@@ -1281,6 +1261,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0998FBD4CA63D94C3CED596872141EF1D9481210",
+			"Assets": [
+				"/Game/Map/Stage1"
+			]
+		},
+		{
 			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
@@ -1441,12 +1427,6 @@
 			"ShaderMapHash": "A44799F1257FDC62D53039D098BC3A4B3A7BEADB",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "643E54F5864059A00234CD018D41536585B8A268",
-			"Assets": [
-				"/Game/Map/Stage1"
 			]
 		},
 		{
