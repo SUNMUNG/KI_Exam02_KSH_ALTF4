@@ -364,6 +364,14 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D59CBC4232E40BB7C4CE5AB4AD705852A574BCE2",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Base",
+				"/Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/MI_veoneio",
+				"/Game/Fab/Megascans/3D/Old_Wooden_Log_wcokfh1/Low/MI_wcokfh1"
+			]
+		},
+		{
 			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
@@ -857,6 +865,13 @@
 			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F585AD96E346BCF99C9C5DC7CC2103407CC3E8E8",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Base_Fuzz",
+				"/Game/Fab/Megascans/3D/Oak_Tree_Log_wd0oddjbw/Low/MI_wd0oddjbw"
 			]
 		},
 		{

@@ -38,6 +38,20 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9B40120839D9565CAE9BF3351EEFEF7E1D6C1F81",
+			"Assets": [
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Ancient_Temple_Wall_temjbivr_2K",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K1",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K2",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_tkrleeuo_2K",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_tkxiabyya_2K",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_ub4maeedy_2K",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Old_Muddy_Plaster_ufvhai2lw_2K",
+				"/Game/Fab/Megascans/Surfaces/Grass_And_Rubble_pjwey0/Low/MI_pjwey0"
+			]
+		},
+		{
 			"ShaderMapHash": "DE9CA608E43F5D8A0E6A6734FC24B2263DAF2EA7",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Tech_Panel"
@@ -53,12 +67,6 @@
 			"ShaderMapHash": "4D0A690CD1F2AFCA753BA1A177D9480F795DA3B4",
 			"Assets": [
 				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_Splash_SubUV_Inst"
-			]
-		},
-		{
-			"ShaderMapHash": "C971AF0D385898A859348E7DA21CD0AA8988CF2A",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
 			]
 		},
 		{
@@ -101,20 +109,6 @@
 			"ShaderMapHash": "FB52441523D059C1BE262E7353C130A5AE549F40",
 			"Assets": [
 				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_SpeckledDust"
-			]
-		},
-		{
-			"ShaderMapHash": "DD4AF41724C91A8974AB58C577705A1CC5EE94DE",
-			"Assets": [
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Ancient_Temple_Wall_temjbivr_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K1",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Concrete_Floor_wirkdfrn_2K2",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_tkrleeuo_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_tkxiabyya_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Half_Timbered_Wall_ub4maeedy_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Old_Muddy_Plaster_ufvhai2lw_2K",
-				"/Game/Fab/Megascans/Surfaces/Grass_And_Rubble_pjwey0/Low/MI_pjwey0"
 			]
 		},
 		{
@@ -200,6 +194,18 @@
 			"ShaderMapHash": "E843512BDA75D4C8434FD43508D2136498DDB362",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "10A42D2D9BC9772C4C6DDC7BBBD4E3C4D48A19AE",
+			"Assets": [
+				"/Game/Fab/Bow___Arrow/Material",
+				"/Game/Fab/Bow___Arrow/Material_002",
+				"/Game/Fab/Bow___Arrow/Material_003",
+				"/Game/Fab/Bow___Arrow/Material_004",
+				"/Game/Fab/Bow___Arrow/Material_005",
+				"/Game/Fab/Bow___Arrow/Material_006",
+				"/Game/Fab/Bow___Arrow/Material_007"
 			]
 		},
 		{
@@ -305,6 +311,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7AFB353D6023D9405B608F99E8958D7AD94CE8C4",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
 			"ShaderMapHash": "33E1D53E004B5AA60B13D5FD67852828F533A9BA",
 			"Assets": [
 				"/Game/WaterMaterials/Materials/M_Waterfall_Cheaper"
@@ -332,6 +344,14 @@
 			"ShaderMapHash": "77A44F4443B804428AB340E7DBB0D53A076CED70",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "0A1EEF44EA122A76246C257E563AAA2DE11A7456",
+			"Assets": [
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Japanese_Wall_Storage_Box_uc1pfikqx_2K",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Medieval_Modular_Door_ueoqaewdw_2K",
+				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Medieval_Modular_Door_ueoqceudw_2K"
 			]
 		},
 		{
@@ -463,6 +483,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "11C9D1544EA622226A409388D5640D93918AB4E0",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Base_Fuzz",
+				"/Game/Fab/Megascans/3D/Oak_Tree_Log_wd0oddjbw/Low/MI_wd0oddjbw"
+			]
+		},
+		{
 			"ShaderMapHash": "4AF10555BEA6DA1656A95F9B4F37A5D05E01F4D0",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialMeter"
@@ -512,13 +539,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CBCAAC5D4B69548A980AED124DD65A5C5DD40ABE",
-			"Assets": [
-				"/Game/Fab/Wooden_Cabinet/Legs",
-				"/Game/Fab/Wooden_Cabinet/Wood"
-			]
-		},
-		{
 			"ShaderMapHash": "C7F3085E198FF082A8593D9808320B9560D787E5",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
@@ -531,6 +551,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5984AC5F8ADF75553E79F69A651B2870965A1485",
+			"Assets": [
+				"/Game/Fab/Guillotine/Materials",
+				"/Game/Fab/Wooden_barrel/standardSurface1"
+			]
+		},
+		{
 			"ShaderMapHash": "E68ACA605CF1ABC6BCC4F024E62B5FE4FC8AB8AA",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
@@ -540,6 +567,12 @@
 			"ShaderMapHash": "C3012962C9DFBA8B412A5450BDAC094F40F520EA",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "F13F1C6326B24744EE44A62F25884A4A42BBE10D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
 			]
 		},
 		{
@@ -588,12 +621,6 @@
 			"ShaderMapHash": "1F6C5D6AD1F19CCF1EC99B93274C1F2343E1BEA4",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
-			]
-		},
-		{
-			"ShaderMapHash": "A8B42C6BB8BE2023A7CE9720C2864E2B0DE950E3",
-			"Assets": [
-				"/Game/Map/Stage1"
 			]
 		},
 		{
@@ -846,20 +873,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C846C6931F2202D05808A0D4F6C79FCCFB2634AB",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
-			]
-		},
-		{
-			"ShaderMapHash": "F4A209955450C750499FDBB5304379ACDCE178A0",
-			"Assets": [
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Japanese_Wall_Storage_Box_uc1pfikqx_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Medieval_Modular_Door_ueoqaewdw_2K",
-				"/Game/Fab/Medieval_Fantasy_Village_Houses/MI_Medieval_Modular_Door_ueoqceudw_2K"
-			]
-		},
-		{
 			"ShaderMapHash": "30F31C9533A4ECDE96D7F1E8870241780BF7C768",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -869,6 +882,20 @@
 			"ShaderMapHash": "48D01D9593071EC8703BC2D63B2AC9C62A63904F",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "AF846E956B60000734EC89FBD8C6FA47FA780AFB",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "613690955E5634ABBE1B7F5B3EE254EA18C616C7",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Base",
+				"/Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/MI_veoneio",
+				"/Game/Fab/Megascans/3D/Old_Wooden_Log_wcokfh1/Low/MI_wcokfh1"
 			]
 		},
 		{
@@ -947,21 +974,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4006BA9EB73D13D315BB3D4DFAE21AB5F3BB8EEE",
+			"ShaderMapHash": "CAA3349CE3D3876343CD810079A84695FA793B5E",
 			"Assets": [
-				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
 			]
 		},
 		{
-			"ShaderMapHash": "6257E19E087AFAA1A06ABC4E94D3DE396EBF7AD8",
+			"ShaderMapHash": "4006BA9EB73D13D315BB3D4DFAE21AB5F3BB8EEE",
 			"Assets": [
-				"/Game/Fab/Bow___Arrow/Material",
-				"/Game/Fab/Bow___Arrow/Material_002",
-				"/Game/Fab/Bow___Arrow/Material_003",
-				"/Game/Fab/Bow___Arrow/Material_004",
-				"/Game/Fab/Bow___Arrow/Material_005",
-				"/Game/Fab/Bow___Arrow/Material_006",
-				"/Game/Fab/Bow___Arrow/Material_007"
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
 			]
 		},
 		{
@@ -992,6 +1013,19 @@
 			"ShaderMapHash": "14FB4CA587107E4DD2FACC283F459309F7E401D6",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3FE4A5B7DA376DE58B5C83BA903D028D900500",
+			"Assets": [
+				"/Game/Fab/Wooden_Cabinet/Legs",
+				"/Game/Fab/Wooden_Cabinet/Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "B13F0AA6ADC59BED9E9D66E564F81A4883DC059E",
+			"Assets": [
+				"/Game/Map/Stage1"
 			]
 		},
 		{
@@ -1052,19 +1086,6 @@
 			"ShaderMapHash": "99A699AF9844C9B13F752B641722E327B8494F56",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "95CABCAFFC71184D7B7DB637D5F468CE5611A79B",
-			"Assets": [
-				"/Game/Fab/Shark/Diffuse",
-				"/Game/Fab/Shark/Diffuse_Eye"
-			]
-		},
-		{
-			"ShaderMapHash": "9CC56FB10901E39B898F78BC07EBF187EBFA26B5",
-			"Assets": [
-				"/InterchangeAssets/gltf/M_Default"
 			]
 		},
 		{
@@ -1227,12 +1248,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5C766ECA14760A636EDE4A85B97C31257F022DC9",
-			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
-			]
-		},
-		{
 			"ShaderMapHash": "0AEB8DCB31BFDD5B807D6570F4889C33674C5B49",
 			"Assets": [
 				"/Game/Material/M_OFF_KnightHelmetFeather"
@@ -1278,13 +1293,6 @@
 			"ShaderMapHash": "CBFB51D59FA356821CA77FD1E7CE15832D00AABB",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "50FD2AD884ADAB2A48726D2D2A047083E29E79B2",
-			"Assets": [
-				"/Game/Fab/Guillotine/Materials",
-				"/Game/Fab/Wooden_barrel/standardSurface1"
 			]
 		},
 		{
@@ -1433,6 +1441,13 @@
 			"ShaderMapHash": "8AA934EFC82498694615ACBFFE8558F4BF936FF4",
 			"Assets": [
 				"/Game/WaterMaterials/Materials/M_Ocean_Cheaper"
+			]
+		},
+		{
+			"ShaderMapHash": "6DE4FBEF48ADB3A1168F039300E19F3050E0CA71",
+			"Assets": [
+				"/Game/Fab/Shark/Diffuse",
+				"/Game/Fab/Shark/Diffuse_Eye"
 			]
 		},
 		{
