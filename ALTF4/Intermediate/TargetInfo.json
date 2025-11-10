@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ALTF4",
+			"Path": "..\\Source\\ALTF4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ALTF4Editor",
+			"Path": "..\\Source\\ALTF4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

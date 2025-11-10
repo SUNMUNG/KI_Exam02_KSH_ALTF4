@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ALTF4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ALTF4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ALTF4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ALTF4">
+      <UniqueIdentifier>{5CE93FE8-60BD-3691-911A-A0294E291F75}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ALTF4\ALTF4.Build.cs">
+      <Filter>Source\ALTF4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ALTF4\ALTF4.cpp">
+      <Filter>Source\ALTF4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ALTF4\ALTF4.h">
+      <Filter>Source\ALTF4</Filter>
+    </ClCompile>
+    <Filter Include="Source\ALTF4\Private">
+      <UniqueIdentifier>{F60AFE9D-FEB4-3C70-BC36-30E99227CAEF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ALTF4\Private\PlayerControllerCPP.cpp">
+      <Filter>Source\ALTF4\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ALTF4\Private\PlayerCPP.cpp">
+      <Filter>Source\ALTF4\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ALTF4\Public">
+      <UniqueIdentifier>{4A065E0C-D5E8-3B83-86E0-131482100CA9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ALTF4\Public\PlayerControllerCPP.h">
+      <Filter>Source\ALTF4\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ALTF4\Public\PlayerCPP.h">
+      <Filter>Source\ALTF4\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
