@@ -42,6 +42,9 @@
     <Filter Include="Source\ALTF4\Private">
       <UniqueIdentifier>{F60AFE9D-FEB4-3C70-BC36-30E99227CAEF}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ALTF4\Private\PlayerAnimInstance.cpp">
+      <Filter>Source\ALTF4\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ALTF4\Private\PlayerControllerCPP.cpp">
       <Filter>Source\ALTF4\Private</Filter>
     </ClCompile>
@@ -51,6 +54,9 @@
     <Filter Include="Source\ALTF4\Public">
       <UniqueIdentifier>{4A065E0C-D5E8-3B83-86E0-131482100CA9}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ALTF4\Public\PlayerAnimInstance.h">
+      <Filter>Source\ALTF4\Public</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ALTF4\Public\PlayerControllerCPP.h">
       <Filter>Source\ALTF4\Public</Filter>
     </ClCompile>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ALTF4ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b472786c057c36cfe9ed6bb493356e3e380cd862")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ec0533c39cbfa3b53e90f30e213e0786cc459d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ALTF4ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ALTF4ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

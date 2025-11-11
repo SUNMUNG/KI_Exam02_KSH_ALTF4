@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeALTF4_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xF70EA795,
-				0x2CDEA8EA,
+				0x4CB0AE8C,
+				0x86A27F9E,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_ALTF4.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_ALTF4.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ALTF4(Z_Construct_UPackage__Script_ALTF4, TEXT("/Script/ALTF4"), Z_Registration_Info_UPackage__Script_ALTF4, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF70EA795, 0x2CDEA8EA));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ALTF4(Z_Construct_UPackage__Script_ALTF4, TEXT("/Script/ALTF4"), Z_Registration_Info_UPackage__Script_ALTF4, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4CB0AE8C, 0x86A27F9E));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

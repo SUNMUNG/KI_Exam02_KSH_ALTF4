@@ -68,6 +68,30 @@ struct Z_Construct_UClass_APlayerCPP_Statics
 		{ "Category", "PlayerCPP" },
 		{ "ModuleRelativePath", "Public/PlayerCPP.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_IA_LieDown_MetaData[] = {
+		{ "Category", "PlayerCPP" },
+		{ "ModuleRelativePath", "Public/PlayerCPP.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_IA_Jump_MetaData[] = {
+		{ "Category", "PlayerCPP" },
+		{ "ModuleRelativePath", "Public/PlayerCPP.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_IA_Suicide_MetaData[] = {
+		{ "Category", "PlayerCPP" },
+		{ "ModuleRelativePath", "Public/PlayerCPP.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_IA_ViewChange_MetaData[] = {
+		{ "Category", "PlayerCPP" },
+		{ "ModuleRelativePath", "Public/PlayerCPP.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_IA_Throw_MetaData[] = {
+		{ "Category", "PlayerCPP" },
+		{ "ModuleRelativePath", "Public/PlayerCPP.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_IA_Sprint_MetaData[] = {
+		{ "Category", "PlayerCPP" },
+		{ "ModuleRelativePath", "Public/PlayerCPP.h" },
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_SpringArm;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_PlayerCamera;
@@ -75,6 +99,12 @@ struct Z_Construct_UClass_APlayerCPP_Statics
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_GrainBag;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_Chicken;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_IA_Move;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_IA_LieDown;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_IA_Jump;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_IA_Suicide;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_IA_ViewChange;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_IA_Throw;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_IA_Sprint;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -88,6 +118,12 @@ const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Sta
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_GrainBag = { "GrainBag", nullptr, (EPropertyFlags)0x002008000008000d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, GrainBag), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_GrainBag_MetaData), NewProp_GrainBag_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_Chicken = { "Chicken", nullptr, (EPropertyFlags)0x002008000008000d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, Chicken), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Chicken_MetaData), NewProp_Chicken_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Move = { "IA_Move", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, IA_Move), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IA_Move_MetaData), NewProp_IA_Move_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_LieDown = { "IA_LieDown", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, IA_LieDown), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IA_LieDown_MetaData), NewProp_IA_LieDown_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Jump = { "IA_Jump", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, IA_Jump), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IA_Jump_MetaData), NewProp_IA_Jump_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Suicide = { "IA_Suicide", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, IA_Suicide), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IA_Suicide_MetaData), NewProp_IA_Suicide_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_ViewChange = { "IA_ViewChange", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, IA_ViewChange), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IA_ViewChange_MetaData), NewProp_IA_ViewChange_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Throw = { "IA_Throw", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, IA_Throw), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IA_Throw_MetaData), NewProp_IA_Throw_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Sprint = { "IA_Sprint", nullptr, (EPropertyFlags)0x0020080000000005, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayerCPP, IA_Sprint), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IA_Sprint_MetaData), NewProp_IA_Sprint_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APlayerCPP_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_SpringArm,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_PlayerCamera,
@@ -95,6 +131,12 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APlayerCP
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_GrainBag,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_Chicken,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Move,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_LieDown,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Jump,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Suicide,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_ViewChange,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Throw,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayerCPP_Statics::NewProp_IA_Sprint,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_APlayerCPP_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_APlayerCPP_Statics::DependentSingletons[])() = {
@@ -137,10 +179,10 @@ APlayerCPP::~APlayerCPP() {}
 struct Z_CompiledInDeferFile_FID_Users_KGA_Documents_Unreal_Projects_KI_Exam02_KSH_ALTF4_ALTF4_Source_ALTF4_Public_PlayerCPP_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_APlayerCPP, APlayerCPP::StaticClass, TEXT("APlayerCPP"), &Z_Registration_Info_UClass_APlayerCPP, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlayerCPP), 547927038U) },
+		{ Z_Construct_UClass_APlayerCPP, APlayerCPP::StaticClass, TEXT("APlayerCPP"), &Z_Registration_Info_UClass_APlayerCPP, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlayerCPP), 2843109305U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_KGA_Documents_Unreal_Projects_KI_Exam02_KSH_ALTF4_ALTF4_Source_ALTF4_Public_PlayerCPP_h_2090468781(TEXT("/Script/ALTF4"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_KGA_Documents_Unreal_Projects_KI_Exam02_KSH_ALTF4_ALTF4_Source_ALTF4_Public_PlayerCPP_h_596238363(TEXT("/Script/ALTF4"),
 	Z_CompiledInDeferFile_FID_Users_KGA_Documents_Unreal_Projects_KI_Exam02_KSH_ALTF4_ALTF4_Source_ALTF4_Public_PlayerCPP_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_KGA_Documents_Unreal_Projects_KI_Exam02_KSH_ALTF4_ALTF4_Source_ALTF4_Public_PlayerCPP_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

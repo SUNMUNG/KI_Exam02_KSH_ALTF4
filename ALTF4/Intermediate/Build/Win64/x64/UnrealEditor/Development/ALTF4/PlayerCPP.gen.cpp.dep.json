@@ -7,6 +7,8 @@
         "Includes": [
             "c:\\users\\kga\\documents\\unreal projects\\ki_exam02_ksh_altf4\\altf4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\altf4\\definitions.altf4.h",
             "c:\\users\\kga\\documents\\unreal projects\\ki_exam02_ksh_altf4\\altf4\\source\\altf4\\public\\playercpp.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",

@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ALTF4-7781.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\ALTF4Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\ALTF4.init.gen.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\PlayerControllerCPP.gen.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\PlayerCPP.gen.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\ALTF4.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\PlayerControllerCPP.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\PerModuleInline.gen.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\PlayerCPP.cpp.obj"
+"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\Default.rc2.res"
+/OUT:"C:\Users\KGA\Documents\Unreal Projects\KI_Exam02_KSH_ALTF4\ALTF4\Intermediate\Build\Win64\x64\UnrealEditor\Development\ALTF4\UnrealEditor-ALTF4-7781.lib"

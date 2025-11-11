@@ -3,11 +3,11 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "InputActionValue.h"
 #include "GameFramework/Character.h"
 #include "Engine/EngineTypes.h"
 #include "PlayerCPP.generated.h"
 
-class FInputActionValue;
 class UCharacterMovementComponent;
 class UInputAction;
 class USpringArmComponent;
@@ -26,8 +26,11 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	void OnMoveInput(const FInputActionValue& Invalue);
+	void OnJumpInput(const FInputActionValue& Invalue);
+	void SprintMode();
+	void WalkMode();
 	virtual void BeginPlay() override;
-	virtual void SetupPlayerInputComponent(UInputComponent* PlayerInputComponent) override;
+
 
 public:	
 	// Called every frame
@@ -59,8 +62,26 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	UInputAction* IA_Move;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UInputAction* IA_LieDown;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UInputAction* IA_Jump;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UInputAction* IA_Suicide;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UInputAction* IA_ViewChange;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UInputAction* IA_Throw;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UInputAction* IA_Sprint;
+
 	FAttachmentTransformRules AttachRules = FAttachmentTransformRules::SnapToTargetNotIncludingScale;
-	UCharacterMovementComponent* CharacterMovement;
+	UCharacterMovementComponent* CharacterMovement = nullptr;
 private:
 
 
