@@ -1,7 +1,7 @@
 # 🐔 KI_Exam02 — ALTF4
 
 <p align="center">
-  <img src="./assets/cover.png" alt="ALTF4 Cover" width="100%"/>
+  <img src="./assets/cover.png" alt="ALTF4 Cover" width="50%"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://youtu.be/a2J2f-maVHQ?si=1BlEFwaEOwHCCN5R">
-    <img src="./assets/thumbnail.png" alt="Demo Video" width="70%"/>
+    <img src="./assets/thumbnail.png" alt="Demo Video" width="30%"/>
   </a>
 </p>
 
